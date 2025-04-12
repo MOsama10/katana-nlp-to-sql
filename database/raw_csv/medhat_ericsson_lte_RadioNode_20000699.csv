@@ -1,0 +1,19 @@
+measObjLdn,duration,begin_time,20013800.0,20013803.0
+"ManagedElement=LTESite1234,Equipment=1,FieldReplaceableUnit=0900-1-RRUW-1,SfpModule=DATA_2",900.0,2024-05-02 06:00:00,1310,33546
+"ManagedElement=LTESite1234,Equipment=1,FieldReplaceableUnit=0900-2-RRUW-1,SfpModule=DATA_2",900.0,2024-05-02 06:00:00,1260,33956
+"ManagedElement=LTESite1234,Equipment=1,FieldReplaceableUnit=0900-3-RRUW-1,SfpModule=DATA_2",900.0,2024-05-02 06:00:00,1280,34093
+"ManagedElement=LTESite1234,Equipment=1,FieldReplaceableUnit=1,SfpModule=A",900.0,2024-05-02 06:00:00,1378,33000
+"ManagedElement=LTESite1234,Equipment=1,FieldReplaceableUnit=1,SfpModule=B",900.0,2024-05-02 06:00:00,1441,33546
+"ManagedElement=LTESite1234,Equipment=1,FieldReplaceableUnit=1,SfpModule=C",900.0,2024-05-02 06:00:00,1454,33546
+"ManagedElement=LTESite1234,Equipment=1,FieldReplaceableUnit=1,SfpModule=D",900.0,2024-05-02 06:00:00,1458,33137
+"ManagedElement=LTESite1234,Equipment=1,FieldReplaceableUnit=1,SfpModule=E",900.0,2024-05-02 06:00:00,1532,33410
+"ManagedElement=LTESite1234,Equipment=1,FieldReplaceableUnit=1,SfpModule=F",900.0,2024-05-02 06:00:00,1532,33136
+"ManagedElement=LTESite1234,Equipment=1,FieldReplaceableUnit=1,SfpModule=G",900.0,2024-05-02 06:00:00,1441,33546
+"ManagedElement=LTESite1234,Equipment=1,FieldReplaceableUnit=1,SfpModule=H",900.0,2024-05-02 06:00:00,1449,33000
+"ManagedElement=LTESite1234,Equipment=1,FieldReplaceableUnit=1,SfpModule=J",900.0,2024-05-02 06:00:00,1496,32977
+"ManagedElement=LTESite1234,Equipment=1,FieldReplaceableUnit=1800-1-RRUW-1,SfpModule=DATA_1",900.0,2024-05-02 06:00:00,1330,33356
+"ManagedElement=LTESite1234,Equipment=1,FieldReplaceableUnit=1800-2-RRUW-1,SfpModule=DATA_1",900.0,2024-05-02 06:00:00,1410,33137
+"ManagedElement=LTESite1234,Equipment=1,FieldReplaceableUnit=1800-3-RRUW-1,SfpModule=DATA_1",900.0,2024-05-02 06:00:00,1410,33137
+"ManagedElement=LTESite1234,Equipment=1,FieldReplaceableUnit=2100-1-RRUW-1,SfpModule=DATA_2",900.0,2024-05-02 06:00:00,1320,33546
+"ManagedElement=LTESite1234,Equipment=1,FieldReplaceableUnit=2100-2-RRUW-1,SfpModule=DATA_2",900.0,2024-05-02 06:00:00,1260,33819
+"ManagedElement=LTESite1234,Equipment=1,FieldReplaceableUnit=2100-3-RRUW-1,SfpModule=DATA_2",900.0,2024-05-02 06:00:00,1350,33956

@@ -1,0 +1,26 @@
+begintime,ne_name,ne_type,vendor,integrity,VS.E1T1.ES.ES,VS.E1T1.ES.SES,VS.E1T1.ES.UAS,VS.E1T1.ES.BBE,VS.E1T1.ES.TES,VS.E1T1.ES.TSES,VS.E1T1.ES.TBBE,VS.E1T1.ES.ESR,VS.E1T1.ES.SESR,VS.E1T1.ES.UASR,VS.E1T1.ES.BBER,VS.E1T1.ES.TESR,VS.E1T1.ES.TSESR,VS.E1T1.ES.TBBER,VS.E1T1.ES.NUV,id
+2022-02-03,E1T1_ES:,Controller : Measurement of E1/T1 Port Bit Error Performance,Huawei,100.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1
+2022-02-04,E1T1_ES:,Controller : Measurement of E1/T1 Port Bit Error Performance,Huawei,100.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2
+2022-02-05,E1T1_ES:,Controller : Measurement of E1/T1 Port Bit Error Performance,Huawei,100.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,3
+2022-02-06,E1T1_ES:,Controller : Measurement of E1/T1 Port Bit Error Performance,Huawei,100.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4
+2022-02-08,E1T1_ES:,Controller : Measurement of E1/T1 Port Bit Error Performance,Huawei,100.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,5
+2022-02-10,E1T1_ES:,Controller : Measurement of E1/T1 Port Bit Error Performance,Huawei,100.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,6
+2022-02-11,E1T1_ES:,Controller : Measurement of E1/T1 Port Bit Error Performance,Huawei,100.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,7
+2022-02-12,E1T1_ES:,Controller : Measurement of E1/T1 Port Bit Error Performance,Huawei,100.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,8
+2022-02-13,E1T1_ES:,Controller : Measurement of E1/T1 Port Bit Error Performance,Huawei,100.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,9
+2022-02-17,E1T1_ES:,Controller : Measurement of E1/T1 Port Bit Error Performance,Huawei,87.5,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,10
+2022-02-18,E1T1_ES:,Controller : Measurement of E1/T1 Port Bit Error Performance,Huawei,100.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,11
+2022-02-19,E1T1_ES:,Controller : Measurement of E1/T1 Port Bit Error Performance,Huawei,100.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,12
+2022-02-20,E1T1_ES:,Controller : Measurement of E1/T1 Port Bit Error Performance,Huawei,100.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,13
+2022-03-01,E1T1_ES:,Controller : Measurement of E1/T1 Port Bit Error Performance,Huawei,100.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,14
+2022-03-02,E1T1_ES:,Controller : Measurement of E1/T1 Port Bit Error Performance,Huawei,100.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,15
+2022-03-03,E1T1_ES:,Controller : Measurement of E1/T1 Port Bit Error Performance,Huawei,100.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,16
+2022-03-06,E1T1_ES:,Controller : Measurement of E1/T1 Port Bit Error Performance,Huawei,91.67,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,17
+2022-03-07,E1T1_ES:,Controller : Measurement of E1/T1 Port Bit Error Performance,Huawei,100.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,18
+2022-03-09,E1T1_ES:,Controller : Measurement of E1/T1 Port Bit Error Performance,Huawei,4.17,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,19
+2022-03-10,E1T1_ES:,Controller : Measurement of E1/T1 Port Bit Error Performance,Huawei,95.83,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,20
+2022-03-11,E1T1_ES:,Controller : Measurement of E1/T1 Port Bit Error Performance,Huawei,100.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,21
+2022-03-12,E1T1_ES:,Controller : Measurement of E1/T1 Port Bit Error Performance,Huawei,79.17,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,22
+2022-03-13,E1T1_ES:,Controller : Measurement of E1/T1 Port Bit Error Performance,Huawei,91.67,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,23
+2022-03-14,E1T1_ES:,Controller : Measurement of E1/T1 Port Bit Error Performance,Huawei,100.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,24
+2022-03-15,E1T1_ES:,Controller : Measurement of E1/T1 Port Bit Error Performance,Huawei,100.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,25

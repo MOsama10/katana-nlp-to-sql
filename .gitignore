@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.egg-info/
+
+# Virtual environments
+venv/
+katana_env/
+
+# Logs
+*.log
+
+# Model files
+*.gguf
+*.pt
+*.bin
+
+# Environment variables
+.env
+
+# OS
+.DS_Store
+Thumbs.db

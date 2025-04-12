@@ -1,0 +1,3 @@
+begintime,ne_name,ne_type,vendor,integrity,HU LTE_DL Traffic(GB),logical_inos_kpi_1
+2024-03-01,"4G_BINTUMANI/Cell:eNodeB Function Name=4G_BINTUMANI,Local Cell ID=3,Cell Name=4G_BINTUMANI-3,eNodeB ID=5006,Cell FDD TDD indication=CELL_FDD",eNodeB(4G) : Measurement of Cell Performance,Huawei,100.0,533.2471,x
+2024-03-02,"4G_BINTUMANI/Cell:eNodeB Function Name=4G_BINTUMANI,Local Cell ID=3,Cell Name=4G_BINTUMANI-3,eNodeB ID=5006,Cell FDD TDD indication=CELL_FDD",eNodeB(4G) : Measurement of Cell Performance,Huawei,100.0,23.25,x

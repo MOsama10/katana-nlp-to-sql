@@ -1,0 +1,2 @@
+default_hourly_load_value,default_daily_load_value,default_hourly_reload_value,default_missing_no_records,default_validating_date_missing_objects,start_archive_date,no_days_remain_with_data
+3000.0,1000.0,24.0,24.0,2022-03-05,2022-02-28,15.0

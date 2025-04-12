@@ -1,0 +1,10 @@
+measObjLdn,duration,begin_time,20013675.0,20013676.0,20013677.0,20013678.0
+"ManagedElement=LTESite1234,Equipment=1,RiLink=S1_0900_1st",900.0,2024-05-02 06:00:00,860,859,0,0
+"ManagedElement=LTESite1234,Equipment=1,RiLink=S1_1800_1st",900.0,2024-05-02 06:00:00,827,827,0,0
+"ManagedElement=LTESite1234,Equipment=1,RiLink=S1_2100_1st",900.0,2024-05-02 06:00:00,862,862,0,0
+"ManagedElement=LTESite1234,Equipment=1,RiLink=S2_0900_1st",900.0,2024-05-02 06:00:00,863,862,0,0
+"ManagedElement=LTESite1234,Equipment=1,RiLink=S2_1800_1st",900.0,2024-05-02 06:00:00,826,826,0,0
+"ManagedElement=LTESite1234,Equipment=1,RiLink=S2_2100_1st",900.0,2024-05-02 06:00:00,856,856,0,0
+"ManagedElement=LTESite1234,Equipment=1,RiLink=S3_0900_1st",900.0,2024-05-02 06:00:00,861,860,0,0
+"ManagedElement=LTESite1234,Equipment=1,RiLink=S3_1800_1st",900.0,2024-05-02 06:00:00,925,925,0,0
+"ManagedElement=LTESite1234,Equipment=1,RiLink=S3_2100_1st",900.0,2024-05-02 06:00:00,861,861,0,0

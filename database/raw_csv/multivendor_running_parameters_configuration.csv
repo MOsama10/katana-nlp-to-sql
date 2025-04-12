@@ -1,0 +1,2 @@
+vendor_name,default_hourly_load_value,default_daily_load_value,default_hourly_reload_value,default_missing_no_records,default_validating_date_missing_objects,start_archive_date,no_days_remain_with_data
+ericsson,4000000.0,10000.0,10000.0,24.0,2021-10-16,2021-11-02,15.0

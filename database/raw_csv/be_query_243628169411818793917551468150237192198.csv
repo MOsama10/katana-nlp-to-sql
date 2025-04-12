@@ -1,0 +1,27 @@
+begintime,ne_name,ne_type,vendor,integrity,L.Thrp.bits.DL,id
+2022-02-02,Cell:,eNodeB(4G) : Measurement of Cell Performance,Huawei,95.08,197007272411456.0,1
+2022-02-03,Cell:,eNodeB(4G) : Measurement of Cell Performance,Huawei,99.47,209449167267056.0,2
+2022-02-04,Cell:,eNodeB(4G) : Measurement of Cell Performance,Huawei,99.75,204862551030832.0,3
+2022-02-05,Cell:,eNodeB(4G) : Measurement of Cell Performance,Huawei,100.0,201722833215912.0,4
+2022-02-06,Cell:,eNodeB(4G) : Measurement of Cell Performance,Huawei,99.94,203748294885144.0,5
+2022-02-08,Cell:,eNodeB(4G) : Measurement of Cell Performance,Huawei,99.93,168394647765536.0,6
+2022-02-10,Cell:,eNodeB(4G) : Measurement of Cell Performance,Huawei,100.0,207595241478160.0,7
+2022-02-11,Cell:,eNodeB(4G) : Measurement of Cell Performance,Huawei,99.89,204729596161920.0,8
+2022-02-12,Cell:,eNodeB(4G) : Measurement of Cell Performance,Huawei,99.51,210070301151328.0,9
+2022-02-13,Cell:,eNodeB(4G) : Measurement of Cell Performance,Huawei,99.82,207662017148512.0,10
+2022-02-17,Cell:,eNodeB(4G) : Measurement of Cell Performance,Huawei,87.34,184809028274440.0,11
+2022-02-18,Cell:,eNodeB(4G) : Measurement of Cell Performance,Huawei,99.47,213085797040696.0,12
+2022-02-19,Cell:,eNodeB(4G) : Measurement of Cell Performance,Huawei,99.8,207870409208472.0,13
+2022-02-20,Cell:,eNodeB(4G) : Measurement of Cell Performance,Huawei,99.91,210973382340280.0,14
+2022-03-01,Cell:,eNodeB(4G) : Measurement of Cell Performance,Huawei,99.61,208414945399648.0,15
+2022-03-02,Cell:,eNodeB(4G) : Measurement of Cell Performance,Huawei,99.97,212347105498632.0,16
+2022-03-03,Cell:,eNodeB(4G) : Measurement of Cell Performance,Huawei,99.56,214471512619584.0,17
+2022-03-06,Cell:,eNodeB(4G) : Measurement of Cell Performance,Huawei,91.54,203987851928088.0,18
+2022-03-07,Cell:,eNodeB(4G) : Measurement of Cell Performance,Huawei,99.63,206851299132264.0,19
+2022-03-09,Cell:,eNodeB(4G) : Measurement of Cell Performance,Huawei,4.17,11414210496216.0,20
+2022-03-10,Cell:,eNodeB(4G) : Measurement of Cell Performance,Huawei,95.58,206148645520920.0,21
+2022-03-11,Cell:,eNodeB(4G) : Measurement of Cell Performance,Huawei,99.44,215347886235512.0,22
+2022-03-12,Cell:,eNodeB(4G) : Measurement of Cell Performance,Huawei,78.45,182602811399680.0,23
+2022-03-13,Cell:,eNodeB(4G) : Measurement of Cell Performance,Huawei,87.31,187464557961112.0,24
+2022-03-14,Cell:,eNodeB(4G) : Measurement of Cell Performance,Huawei,99.35,185996398778008.0,25
+2022-03-15,Cell:,eNodeB(4G) : Measurement of Cell Performance,Huawei,99.7,196420674401888.0,26

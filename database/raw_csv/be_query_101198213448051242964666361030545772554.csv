@@ -1,0 +1,5 @@
+begintime,ne_name,ne_type,vendor,integrity,4G traffic,id
+2022-02,"4G_ALLENTOWN/Cell:eNodeB Function Name=4G_ALLENTOWN,Local Cell ID=8,Cell Name=4G_ALLENTOWN-8,eNodeB ID=5021,Cell FDD TDD indication=CELL_FDD",eNodeB(4G) : Measurement of Cell Performance,Huawei,98.81,13371242489936.0,1
+2022-02,"4G_WILBERFORCEMSC/Cell:eNodeB Function Name=4G_WILBERFORCEMSC,Local Cell ID=0,Cell Name=4G_WILBERFORCEMSC-1,eNodeB ID=5003,Cell FDD TDD indication=CELL_FDD",eNodeB(4G) : Measurement of Cell Performance,Huawei,98.81,8964336590064.0,2
+2022-03,"4G_ALLENTOWN/Cell:eNodeB Function Name=4G_ALLENTOWN,Local Cell ID=8,Cell Name=4G_ALLENTOWN-8,eNodeB ID=5021,Cell FDD TDD indication=CELL_FDD",eNodeB(4G) : Measurement of Cell Performance,Huawei,88.19,10838923338152.0,3
+2022-03,"4G_WILBERFORCEMSC/Cell:eNodeB Function Name=4G_WILBERFORCEMSC,Local Cell ID=0,Cell Name=4G_WILBERFORCEMSC-1,eNodeB ID=5003,Cell FDD TDD indication=CELL_FDD",eNodeB(4G) : Measurement of Cell Performance,Huawei,88.19,6606964145824.0,4

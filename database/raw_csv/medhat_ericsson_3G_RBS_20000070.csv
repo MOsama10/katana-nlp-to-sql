@@ -1,0 +1,13 @@
+measObjLdn,duration,begin_time,20001164.0,20001165.0,20001166.0
+"ManagedElement=1,NodeBFunction=1,Sector=1,Carrier=1,Prach=1",900.0,2021-09-26 19:15:00,841,10705,972
+"ManagedElement=1,NodeBFunction=1,Sector=1,Carrier=2,Prach=1",900.0,2021-09-26 19:15:00,1365,12056,1547
+"ManagedElement=1,NodeBFunction=1,Sector=2,Carrier=1,Prach=1",900.0,2021-09-26 19:15:00,792,5182,912
+"ManagedElement=1,NodeBFunction=1,Sector=2,Carrier=2,Prach=1",900.0,2021-09-26 19:15:00,647,10021,730
+"ManagedElement=1,NodeBFunction=1,Sector=3,Carrier=1,Prach=1",900.0,2021-09-26 19:15:00,753,7727,839
+"ManagedElement=1,NodeBFunction=1,Sector=3,Carrier=2,Prach=1",900.0,2021-09-26 19:15:00,545,10109,676
+"ManagedElement=1,NodeBFunction=1,Sector=4,Carrier=1,Prach=1",900.0,2021-09-26 19:15:00,719,6362,812
+"ManagedElement=1,NodeBFunction=1,Sector=4,Carrier=2,Prach=1",900.0,2021-09-26 19:15:00,315,4480,355
+"ManagedElement=1,NodeBFunction=1,Sector=5,Carrier=1,Prach=1",900.0,2021-09-26 19:15:00,841,6028,1021
+"ManagedElement=1,NodeBFunction=1,Sector=5,Carrier=2,Prach=1",900.0,2021-09-26 19:15:00,368,6209,421
+"ManagedElement=1,NodeBFunction=1,Sector=6,Carrier=1,Prach=1",900.0,2021-09-26 19:15:00,630,11550,895
+"ManagedElement=1,NodeBFunction=1,Sector=6,Carrier=2,Prach=1",900.0,2021-09-26 19:15:00,616,9441,702

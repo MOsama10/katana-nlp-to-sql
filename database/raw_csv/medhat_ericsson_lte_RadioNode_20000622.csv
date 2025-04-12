@@ -1,0 +1,11 @@
+measObjLdn,duration,begin_time,20012084.0
+"ManagedElement=LTESite1234,Equipment=1,FieldReplaceableUnit=0900-1-RRUW-1",900.0,2024-05-02 06:00:00,"4,4,4"
+"ManagedElement=LTESite1234,Equipment=1,FieldReplaceableUnit=0900-2-RRUW-1",900.0,2024-05-02 06:00:00,"4,4,4"
+"ManagedElement=LTESite1234,Equipment=1,FieldReplaceableUnit=0900-3-RRUW-1",900.0,2024-05-02 06:00:00,"4,4,4"
+"ManagedElement=LTESite1234,Equipment=1,FieldReplaceableUnit=1",900.0,2024-05-02 06:00:00,"3,3,3"
+"ManagedElement=LTESite1234,Equipment=1,FieldReplaceableUnit=1800-1-RRUW-1",900.0,2024-05-02 06:00:00,"4,4,4"
+"ManagedElement=LTESite1234,Equipment=1,FieldReplaceableUnit=1800-2-RRUW-1",900.0,2024-05-02 06:00:00,"4,4,4"
+"ManagedElement=LTESite1234,Equipment=1,FieldReplaceableUnit=1800-3-RRUW-1",900.0,2024-05-02 06:00:00,"4,4,4"
+"ManagedElement=LTESite1234,Equipment=1,FieldReplaceableUnit=2100-1-RRUW-1",900.0,2024-05-02 06:00:00,"4,4,4"
+"ManagedElement=LTESite1234,Equipment=1,FieldReplaceableUnit=2100-2-RRUW-1",900.0,2024-05-02 06:00:00,"4,4,4"
+"ManagedElement=LTESite1234,Equipment=1,FieldReplaceableUnit=2100-3-RRUW-1",900.0,2024-05-02 06:00:00,"4,4,4"

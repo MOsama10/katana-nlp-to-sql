@@ -1,0 +1,19 @@
+measObjLdn,duration,begin_time,20013679.0,20013680.0
+"ManagedElement=LTESite1234,Equipment=1,FieldReplaceableUnit=0900-1-RRUW-1,RiPort=DATA_2",900.0,2024-05-02 06:00:00,0,0
+"ManagedElement=LTESite1234,Equipment=1,FieldReplaceableUnit=0900-2-RRUW-1,RiPort=DATA_2",900.0,2024-05-02 06:00:00,0,0
+"ManagedElement=LTESite1234,Equipment=1,FieldReplaceableUnit=0900-3-RRUW-1,RiPort=DATA_2",900.0,2024-05-02 06:00:00,0,0
+"ManagedElement=LTESite1234,Equipment=1,FieldReplaceableUnit=1,RiPort=A",900.0,2024-05-02 06:00:00,0,0
+"ManagedElement=LTESite1234,Equipment=1,FieldReplaceableUnit=1,RiPort=B",900.0,2024-05-02 06:00:00,0,0
+"ManagedElement=LTESite1234,Equipment=1,FieldReplaceableUnit=1,RiPort=C",900.0,2024-05-02 06:00:00,0,0
+"ManagedElement=LTESite1234,Equipment=1,FieldReplaceableUnit=1,RiPort=D",900.0,2024-05-02 06:00:00,0,0
+"ManagedElement=LTESite1234,Equipment=1,FieldReplaceableUnit=1,RiPort=E",900.0,2024-05-02 06:00:00,0,0
+"ManagedElement=LTESite1234,Equipment=1,FieldReplaceableUnit=1,RiPort=F",900.0,2024-05-02 06:00:00,0,0
+"ManagedElement=LTESite1234,Equipment=1,FieldReplaceableUnit=1,RiPort=G",900.0,2024-05-02 06:00:00,0,0
+"ManagedElement=LTESite1234,Equipment=1,FieldReplaceableUnit=1,RiPort=H",900.0,2024-05-02 06:00:00,0,0
+"ManagedElement=LTESite1234,Equipment=1,FieldReplaceableUnit=1,RiPort=J",900.0,2024-05-02 06:00:00,0,0
+"ManagedElement=LTESite1234,Equipment=1,FieldReplaceableUnit=1800-1-RRUW-1,RiPort=DATA_1",900.0,2024-05-02 06:00:00,0,0
+"ManagedElement=LTESite1234,Equipment=1,FieldReplaceableUnit=1800-2-RRUW-1,RiPort=DATA_1",900.0,2024-05-02 06:00:00,0,0
+"ManagedElement=LTESite1234,Equipment=1,FieldReplaceableUnit=1800-3-RRUW-1,RiPort=DATA_1",900.0,2024-05-02 06:00:00,0,0
+"ManagedElement=LTESite1234,Equipment=1,FieldReplaceableUnit=2100-1-RRUW-1,RiPort=DATA_2",900.0,2024-05-02 06:00:00,0,0
+"ManagedElement=LTESite1234,Equipment=1,FieldReplaceableUnit=2100-2-RRUW-1,RiPort=DATA_2",900.0,2024-05-02 06:00:00,0,0
+"ManagedElement=LTESite1234,Equipment=1,FieldReplaceableUnit=2100-3-RRUW-1,RiPort=DATA_2",900.0,2024-05-02 06:00:00,0,0

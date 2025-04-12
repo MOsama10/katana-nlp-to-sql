@@ -1,0 +1,19 @@
+measObjLdn,duration,begin_time,20013796.0,20013797.0,20013798.0
+"ManagedElement=LTESite1234,Equipment=1,FieldReplaceableUnit=0900-1-RRUW-1,SfpModule=DATA_2,SfpChannel=1",900.0,2024-05-02 06:00:00,2573,3400,2763
+"ManagedElement=LTESite1234,Equipment=1,FieldReplaceableUnit=0900-2-RRUW-1,SfpModule=DATA_2,SfpChannel=1",900.0,2024-05-02 06:00:00,2856,3600,2679
+"ManagedElement=LTESite1234,Equipment=1,FieldReplaceableUnit=0900-3-RRUW-1,SfpModule=DATA_2,SfpChannel=1",900.0,2024-05-02 06:00:00,2389,3600,2643
+"ManagedElement=LTESite1234,Equipment=1,FieldReplaceableUnit=1,SfpModule=A,SfpChannel=1",900.0,2024-05-02 06:00:00,2423,3700,2948
+"ManagedElement=LTESite1234,Equipment=1,FieldReplaceableUnit=1,SfpModule=B,SfpChannel=1",900.0,2024-05-02 06:00:00,2377,3700,2778
+"ManagedElement=LTESite1234,Equipment=1,FieldReplaceableUnit=1,SfpModule=C,SfpChannel=1",900.0,2024-05-02 06:00:00,2083,4000,2841
+"ManagedElement=LTESite1234,Equipment=1,FieldReplaceableUnit=1,SfpModule=D,SfpChannel=1",900.0,2024-05-02 06:00:00,2377,3900,2554
+"ManagedElement=LTESite1234,Equipment=1,FieldReplaceableUnit=1,SfpModule=E,SfpChannel=1",900.0,2024-05-02 06:00:00,2676,4200,2963
+"ManagedElement=LTESite1234,Equipment=1,FieldReplaceableUnit=1,SfpModule=F,SfpChannel=1",900.0,2024-05-02 06:00:00,2562,4100,2999
+"ManagedElement=LTESite1234,Equipment=1,FieldReplaceableUnit=1,SfpModule=G,SfpChannel=1",900.0,2024-05-02 06:00:00,2124,3900,2622
+"ManagedElement=LTESite1234,Equipment=1,FieldReplaceableUnit=1,SfpModule=H,SfpChannel=1",900.0,2024-05-02 06:00:00,2530,4000,2744
+"ManagedElement=LTESite1234,Equipment=1,FieldReplaceableUnit=1,SfpModule=J,SfpChannel=1",900.0,2024-05-02 06:00:00,2529,4900,2925
+"ManagedElement=LTESite1234,Equipment=1,FieldReplaceableUnit=1800-1-RRUW-1,SfpModule=DATA_1,SfpChannel=1",900.0,2024-05-02 06:00:00,2657,3400,2624
+"ManagedElement=LTESite1234,Equipment=1,FieldReplaceableUnit=1800-2-RRUW-1,SfpModule=DATA_1,SfpChannel=1",900.0,2024-05-02 06:00:00,2757,4000,2645
+"ManagedElement=LTESite1234,Equipment=1,FieldReplaceableUnit=1800-3-RRUW-1,SfpModule=DATA_1,SfpChannel=1",900.0,2024-05-02 06:00:00,2825,4000,2668
+"ManagedElement=LTESite1234,Equipment=1,FieldReplaceableUnit=2100-1-RRUW-1,SfpModule=DATA_2,SfpChannel=1",900.0,2024-05-02 06:00:00,2728,3500,2574
+"ManagedElement=LTESite1234,Equipment=1,FieldReplaceableUnit=2100-2-RRUW-1,SfpModule=DATA_2,SfpChannel=1",900.0,2024-05-02 06:00:00,2616,3500,2655
+"ManagedElement=LTESite1234,Equipment=1,FieldReplaceableUnit=2100-3-RRUW-1,SfpModule=DATA_2,SfpChannel=1",900.0,2024-05-02 06:00:00,2775,3400,2560

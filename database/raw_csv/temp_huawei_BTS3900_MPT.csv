@@ -1,0 +1,7 @@
+NE Name,fdn,CN,MOIndex,SN,SRN,TYPE,className,name,neID
+3G_ADONKIA,"NE=1023,MPT=0_7_0",0,779_0_0_7,7,0,UMPT,BTS3900MPT,"Board Type=UMPT, Cabinet No.=0, Subrack No.=0, Slot No.=7",779
+3G_ALKALIA,"NE=1346,MPT=0_7_0",0,1102_0_0_7,7,0,UMPT,BTS3900MPT,"Board Type=MPT, Cabinet No.=0, Subrack No.=0, Slot No.=7",1102
+3G_ALLENTOWN,"NE=986,MPT=0_7_0",0,742_0_0_7,7,0,UMPT,BTS3900MPT,"Board Type=UMPT, Cabinet No.=0, Subrack No.=0, Slot No.=7",742
+3G_ABERDEEN,"NE=339,MPT=0_7_0",0,85_0_0_7,7,0,UMPT,BTS3900MPT,"Board Type=UMPT, Cabinet No.=0, Subrack No.=0, Slot No.=7",85
+3G_ADAMSTREET,"NE=1071,MPT=0_7_0",0,827_0_0_7,7,0,UMPT,BTS3900MPT,"Board Type=MPT, Cabinet No.=0, Subrack No.=0, Slot No.=7",827
+3G_ADDAX,"NE=885,MPT=0_7_0",0,641_0_0_7,7,0,WMPT,BTS3900MPT,"Board Type=WMPT, Cabinet No.=0, Subrack No.=0, Slot No.=7",641

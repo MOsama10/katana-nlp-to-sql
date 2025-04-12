@@ -1,0 +1,13 @@
+measObjLdn,duration,begin_time,20000065.0
+"ManagedElement=1,Equipment=1,SectorAntenna=1-1,AntennaBranch=A",900.0,2021-09-26 19:15:00,58029
+"ManagedElement=1,Equipment=1,SectorAntenna=1-1,AntennaBranch=B",900.0,2021-09-26 19:15:00,None
+"ManagedElement=1,Equipment=1,SectorAntenna=2-1,AntennaBranch=A",900.0,2021-09-26 19:15:00,35836
+"ManagedElement=1,Equipment=1,SectorAntenna=2-1,AntennaBranch=B",900.0,2021-09-26 19:15:00,None
+"ManagedElement=1,Equipment=1,SectorAntenna=3-1,AntennaBranch=A",900.0,2021-09-26 19:15:00,17517
+"ManagedElement=1,Equipment=1,SectorAntenna=3-1,AntennaBranch=B",900.0,2021-09-26 19:15:00,None
+"ManagedElement=1,Equipment=1,SectorAntenna=4-1,AntennaBranch=A",900.0,2021-09-26 19:15:00,16891
+"ManagedElement=1,Equipment=1,SectorAntenna=4-1,AntennaBranch=B",900.0,2021-09-26 19:15:00,None
+"ManagedElement=1,Equipment=1,SectorAntenna=5-1,AntennaBranch=A",900.0,2021-09-26 19:15:00,4977
+"ManagedElement=1,Equipment=1,SectorAntenna=5-1,AntennaBranch=B",900.0,2021-09-26 19:15:00,None
+"ManagedElement=1,Equipment=1,SectorAntenna=6-1,AntennaBranch=A",900.0,2021-09-26 19:15:00,25400
+"ManagedElement=1,Equipment=1,SectorAntenna=6-1,AntennaBranch=B",900.0,2021-09-26 19:15:00,None

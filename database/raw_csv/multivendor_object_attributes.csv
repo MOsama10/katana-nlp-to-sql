@@ -1,0 +1,145 @@
+sk_object_attribute_name,object_attribute_name,vendor_name
+145,Label,huawei
+146,Sector Equipment ID,huawei
+147,Local NSVL Indentifier,huawei
+4,LNBTS,nokia
+148,Bearing Port No.,huawei
+6,ANTL,nokia
+7,Carrier,ericsson
+149,FTBSC01,huawei
+150,NODEBID,huawei
+151,CellID,huawei
+11,TNL,nokia
+152,Bearer Type,huawei
+153,SCTPLNKN,huawei
+154,ANI,huawei
+15,LNADJ,nokia
+155,SSN,huawei
+156,Slot No.,huawei
+157,Local Cell ID,huawei
+158,Port No.,huawei
+20,ECI,nokia
+21,SubNetwork,ericsson
+22,SFP,nokia
+159,NodeB Function Name,huawei
+160,SCTP Link ID,huawei
+25,LNCEL,nokia
+26,L2SWI,nokia
+161,Mobile country code,huawei
+28,RMOD,nokia
+162,INDEX,huawei
+30,MeContext,ericsson
+163,Adjacent Node ID,huawei
+32,NodeBFunction,ericsson
+33,BRGPRT,nokia
+164,Logic No.,huawei
+35,IPNO,nokia
+36,UARFCN,nokia
+165,eNodeB Function Name,huawei
+38,TNLSVC,nokia
+166,DPX,huawei
+167,Port Subrack No.,huawei
+168,CNOPINDEX,huawei
+42,LNMME,nokia
+169,RNCID,huawei
+170,IP Address Type,huawei
+171,Cabinet No.,huawei
+172,Location area code,huawei
+173,Subsystem No.,huawei
+174,BSC ID,huawei
+49,SYNC,nokia
+175,S1Interface ID,huawei
+176,Resource Group ID,huawei
+52,TAC,nokia
+177,DPC Group index,huawei
+54,IPVOL,nokia
+178,CN Node Index,huawei
+56,TOP,nokia
+57,ETHIF,nokia
+58,MNLENT,nokia
+59,APEQM,nokia
+179,ROGBIN,huawei
+180,Board Type,huawei
+62,CMCC,nokia
+181,Standby Status,huawei
+182,Local IP Address,huawei
+65,ETHLK,nokia
+183,GERAN cell ID,huawei
+184,CellIndex,huawei
+185,LKS,huawei
+186,SLC,huawei
+70,EQM,nokia
+71,LTAC,nokia
+187,Bearing Type,huawei
+188,Local cell name,huawei
+74,MNL,nokia
+189,BTS Index,huawei
+76,FSTSCH,nokia
+77,HOT,nokia
+190,Node Id,huawei
+191,CNINDEX,huawei
+192,Sector equipment ID,huawei
+193,TOMBODU,huawei
+82,MNC,nokia
+194,SN,huawei
+195,DENO,huawei
+85,VLANIF,nokia
+86,ETHSVC,nokia
+196,LABEL,huawei
+197,SGSN Node ID,huawei
+198,Port Slot No.,huawei
+90,EARFCN,nokia
+199,SRN,huawei
+200,DestObjType,huawei
+201,GPS Clock No.,huawei
+202,CGI,huawei
+203,Local eNodeB ID,huawei
+204,DestObjLabel,huawei
+97,ManagedElement,ericsson
+98,CMNC,nokia
+205,Path ID,huawei
+206,Subrack No,huawei
+207,NODE,huawei
+208,BTS Name,huawei
+103,MRBTS,nokia
+209,BT,huawei
+105,MCC,nokia
+210,eNodeB ID Configured with Sector Equipment,huawei
+211,CNNAME,huawei
+212,X2Interface ID,huawei
+109,CABINET,nokia
+110,CLOCK,nokia
+213,UL BB Resource Group No.,huawei
+214,Session ID,huawei
+113,TOPF,nokia
+215,RNC ID,huawei
+216,NodeB Name,huawei
+116,TCID,nokia
+217,SCTP link No.,huawei
+118,QOS,nokia
+119,Sector,ericsson
+218,Mobile network code,huawei
+219,Operator Name,huawei
+122,IPIF,nokia
+220,OspIndex,huawei
+124,SMOD,nokia
+221,Cell ID,huawei
+222,CNNodeID,huawei
+223,Trunk No.,huawei
+224,Subrack No.,huawei
+225,Local cell ID,huawei
+226,Port Cabinet No.,huawei
+131,IPADDRESSV4,nokia
+227,eNodeB ID,huawei
+228,Signaling link ID,huawei
+134,Aich,ericsson
+229,Subboard Type,huawei
+230,Cell FDD TDD indication,huawei
+231,Cell Name,huawei
+232,Bearing Port Type,huawei
+233,Link No.,huawei
+234,RNC cell ID,huawei
+235,Signalling link set index,huawei
+236,PN,huawei
+237,FTBSC02,huawei
+238,SIGLKSX,huawei

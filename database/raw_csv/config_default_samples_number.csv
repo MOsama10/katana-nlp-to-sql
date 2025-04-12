@@ -1,0 +1,5 @@
+duration_interval,default_sample_count,default_sample_count_daily
+PT3600S,1.0,24.0
+PT1800S,2.0,24.0
+PT900S,4.0,24.0
+PT300S,12.0,24.0

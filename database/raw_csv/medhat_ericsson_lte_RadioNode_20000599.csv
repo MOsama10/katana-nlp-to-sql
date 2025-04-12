@@ -1,0 +1,11 @@
+measObjLdn,duration,begin_time,20007668.0,20007669.0
+"ManagedElement=LTESite1234,Equipment=1,FieldReplaceableUnit=0900-1-RRUW-1,EnergyMeter=1",900.0,2024-05-02 06:00:00,28,1297339
+"ManagedElement=LTESite1234,Equipment=1,FieldReplaceableUnit=0900-2-RRUW-1,EnergyMeter=1",900.0,2024-05-02 06:00:00,32,1425637
+"ManagedElement=LTESite1234,Equipment=1,FieldReplaceableUnit=0900-3-RRUW-1,EnergyMeter=1",900.0,2024-05-02 06:00:00,27,1218893
+"ManagedElement=LTESite1234,Equipment=1,FieldReplaceableUnit=1,EnergyMeter=1",900.0,2024-05-02 06:00:00,24,901456
+"ManagedElement=LTESite1234,Equipment=1,FieldReplaceableUnit=1800-1-RRUW-1,EnergyMeter=1",900.0,2024-05-02 06:00:00,58,2309769
+"ManagedElement=LTESite1234,Equipment=1,FieldReplaceableUnit=1800-2-RRUW-1,EnergyMeter=1",900.0,2024-05-02 06:00:00,62,2442109
+"ManagedElement=LTESite1234,Equipment=1,FieldReplaceableUnit=1800-3-RRUW-1,EnergyMeter=1",900.0,2024-05-02 06:00:00,52,2157733
+"ManagedElement=LTESite1234,Equipment=1,FieldReplaceableUnit=2100-1-RRUW-1,EnergyMeter=1",900.0,2024-05-02 06:00:00,70,3568420
+"ManagedElement=LTESite1234,Equipment=1,FieldReplaceableUnit=2100-2-RRUW-1,EnergyMeter=1",900.0,2024-05-02 06:00:00,98,4298894
+"ManagedElement=LTESite1234,Equipment=1,FieldReplaceableUnit=2100-3-RRUW-1,EnergyMeter=1",900.0,2024-05-02 06:00:00,67,3407742

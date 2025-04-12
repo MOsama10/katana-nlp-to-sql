@@ -1,0 +1,2 @@
+row_num,tables_ready_flag,is_etl_running,is_daily_running,is_archive_running,is_detailed_running,is_hourly_running,last_successful_run_detailed
+0,0,0,0.0,0.0,,,

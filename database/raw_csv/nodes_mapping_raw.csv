@@ -1,0 +1,1001 @@
+nodename,peernodename,mapping_name
+G09_Banjul Tower_1,G_Banjul Tower@Banjul Tower,cell_site
+G09_Banjul Tower_2,G_Banjul Tower@Banjul Tower,cell_site
+G09_Banjul Tower_3,G_Banjul Tower@Banjul Tower,cell_site
+G09_HQ_1,G_HQ@HQ,cell_site
+G09_Kaiaf_2,G_Kaiaf@Kaiaf,cell_site
+G09_Dobson_1,G_Dobson@Dobson,cell_site
+G09_Dobson_2,G_Dobson@Dobson,cell_site
+G09_Dobson_3,G_Dobson@Dobson,cell_site
+G09_Kaiaf_3,G_Kaiaf@Kaiaf,cell_site
+G09_Kaur_1,G_Kaur@Kaur,cell_site
+G09_Kaur_2,G_Kaur@Kaur,cell_site
+G09_Airport_1,G_Airport@Airport,cell_site
+G09_Airport_2,G_Airport@Airport,cell_site
+G09_Airport_3,G_Airport@Airport,cell_site
+G09_Arab Islamic Bank_1,G_Arab Islamic Bank@Arab Islamic Bank,cell_site
+G09_Arab Islamic Bank_2,G_Arab Islamic Bank@Arab Islamic Bank,cell_site
+G09_Arab Islamic Bank_3,G_Arab Islamic Bank@Arab Islamic Bank,cell_site
+G09_Bajakunda_1,G_Bajakunda@Baja Kunda,cell_site
+G09_Brikama Ba_1,G_Brikama Ba@Brikama Ba,cell_site
+G09_Jambur_2,G_Jambur@Jambur,cell_site
+G09_Brikama Ba_2,G_Brikama Ba@Brikama Ba,cell_site
+G09_Jambur_3,G_Jambur@Jambur,cell_site
+G09_Basori_1,G_Basori@Basori,cell_site
+G09_Basori_2,G_Basori@Basori,cell_site
+G09_White Building_1,G_White Building@White Building,cell_site
+G09_White Building_2,G_White Building@White Building,cell_site
+G09_White Building_3,G_White Building@White Building,cell_site
+G09_Earth Station_1,G_Earth Station@Earth Station,cell_site
+G09_Earth Station_2,G_Earth Station@Earth Station,cell_site
+G09_Earth Station_3,G_Earth Station@Earth Station,cell_site
+G09_Fass_1,G_Fass@Fass,cell_site
+G09_Fass_2,G_Fass@Fass,cell_site
+G09_Bajakunda_3,G_Bajakunda@Baja Kunda,cell_site
+G09_Fass_3,G_Fass@Fass,cell_site
+G09_Fatoto_1,G_Fatoto@Fatoto,cell_site
+G09_Fatoto_2,G_Fatoto@Fatoto,cell_site
+G09_Fatoto_3,G_Fatoto@Fatoto,cell_site
+G09_Gunjur_1,G_Gunjur@Gunjur,cell_site
+G09_Gunjur_2,G_Gunjur@Gunjur,cell_site
+G09_Gunjur_3,G_Gunjur@Gunjur,cell_site
+G09_Senegambia_1,G_Senegambia@Senegambia,cell_site
+G09_Senegambia_2,G_Senegambia@Senegambia,cell_site
+G09_Senegambia_3,G_Senegambia@Senegambia,cell_site
+G09_Sukuta Jabang Highway_2,G_Sukuta-Jabang Highway@Sukuta-Jabang Highway,cell_site
+G09_Sukuta Jabang Highway_3,G_Sukuta-Jabang Highway@Sukuta-Jabang Highway,cell_site
+G09_Jabang Estate_1,G_Jabang Estate@Jabang Estate,cell_site
+G09_Kwenilla_2,G_Kwenilla@Kwenilla,cell_site
+G09_Lamin_1,G_Lamin@Lamin,cell_site
+G09_Lamin_2,G_Lamin@Lamin,cell_site
+G09_Lamin_3,G_Lamin@Lamin,cell_site
+G09_Mansakonko_1,G_Mansakonko@Mansakonko,cell_site
+G09_Mansakonko_2,G_Mansakonko@Mansakonko,cell_site
+G09_Mansakonko_3,G_Mansakonko@Mansakonko,cell_site
+G09_Ndugu Kebbeh_1,G_Ndugu Kebbeh@Ndugu Kebbeh,cell_site
+G09_Ndugu Kebbeh_2,G_Ndugu Kebbeh@Ndugu Kebbeh,cell_site
+G09_Ndugu Kebbeh_3,G_Ndugu Kebbeh@Ndugu Kebbeh,cell_site
+G09_Sanyang_1,G_Sanyang@Sanyang,cell_site
+G09_Sanyang_2,G_Sanyang@Sanyang,cell_site
+G09_Sanyang_3,G_Sanyang@Sanyang,cell_site
+G09_Serra kunda mkt bldg_1,G_Serra Kunda Mkt Bldg@Serra Kunda Mkt Bldg,cell_site
+G09_Kwenilla_1,G_Kwenilla@Kwenilla,cell_site
+G09_Kwenilla_3,G_Kwenilla@Kwenilla,cell_site
+G09_Serra kunda mkt bldg_2,G_Serra Kunda Mkt Bldg@Serra Kunda Mkt Bldg,cell_site
+G09_Serra kunda mkt bldg_3,G_Serra Kunda Mkt Bldg@Serra Kunda Mkt Bldg,cell_site
+G09_Sinchubaliya_1,G_Sinchubaliya@Sinchubaliya,cell_site
+G09_Sinchubaliya_2,G_Sinchubaliya@Sinchubaliya,cell_site
+G09_Sinchubaliya_3,G_Sinchubaliya@Sinchubaliya,cell_site
+G09_Somo Bldg_1,G_Somo Bldg@Somo Bldg,cell_site
+G09_Somo Bldg_2,G_Somo Bldg@Somo Bldg,cell_site
+G09_Sudowol_1,G_Sudowol@Sudowol,cell_site
+G09_Sudowol_2,G_Sudowol@Sudowol,cell_site
+G09_Sudowol_3,G_Sudowol@Sudowol,cell_site
+G09_Bundung_1,G_Bundung@Bundung,cell_site
+G09_Bundung_2,G_Bundung@Bundung,cell_site
+G09_Bundung_3,G_Bundung@Bundung,cell_site
+G09_Faji Kunda_1,G_Faji Kunda@Faji Kunda,cell_site
+G09_Faji Kunda_2,G_Faji Kunda@Faji Kunda,cell_site
+G09_Faji Kunda_3,G_Faji Kunda@Faji Kunda,cell_site
+G09_New Jeshwang_1,G_New Jeshwang@New Jeshwang,cell_site
+G09_New Jeshwang_2,G_New Jeshwang@New Jeshwang,cell_site
+G09_New Jeshwang_3,G_New Jeshwang@New Jeshwang,cell_site
+G09_Kabafita_1,G_Kabafita@Kabafita,cell_site
+G09_Jabang Estate_2,G_Jabang Estate@Jabang Estate,cell_site
+G09_Jabang Estate_3,G_Jabang Estate@Jabang Estate,cell_site
+G09_Mandinari_1,G_Mandinari@Mandinari,cell_site
+G09_Mandinari_2,G_Mandinari@Mandinari,cell_site
+G09_Mandinari_3,G_Mandinari@Mandinari,cell_site
+G09_Illiassa_1,G_Illiassa@Illiassa,cell_site
+G09_Essau_2,G_Essau@Essau,cell_site
+G09_Essau_3,G_Essau@Essau,cell_site
+G09_Denton Bridge_1,G_Denton Bridge@Denton Bridge,cell_site
+G09_Denton Bridge_2,G_Denton Bridge@Denton Bridge,cell_site
+G09_Kubariko_3,G_Kubariko@Kubariko,cell_site
+G09_Farato-Paradise City_1,G_Farato-Paradise City@Farato-Paradise City,cell_site
+G09_Farato-Paradise City_2,G_Farato-Paradise City@Farato-Paradise City,cell_site
+G09_Kubariko_2,G_Kubariko@Kubariko,cell_site
+G09_Tabokoto_1,G_Tabokoto@Tabokoto,cell_site
+G09_Tabokoto_2,G_Tabokoto@Tabokoto,cell_site
+G09_Tabokoto_3,G_Tabokoto@Tabokoto,cell_site
+G09_Kubariko_1,G_Kubariko@Kubariko,cell_site
+G09_Ebo Town_1,G_Ebo Town@Ebo Town,cell_site
+G09_Ebo Town_2,G_Ebo Town@Ebo Town,cell_site
+G09_Busumbala II_2,G_Busumbala II@Busumbala II,cell_site
+G09_Busumbala II_3,G_Busumbala II@Busumbala II,cell_site
+G09_Farafenni 2_1,G_Farafenni 2@Farafenni 2,cell_site
+G09_Busumbala_1,G_Busumbala@Busumbala,cell_site
+G09_Busumbala_2,G_Busumbala@Busumbala,cell_site
+G09_Busumbala_3,G_Busumbala@Busumbala,cell_site
+G09_Brikama II_1,G_Brikama II@Brikama II,cell_site
+G09_Brikama II_2,G_Brikama II@Brikama II,cell_site
+G09_Brikama II_3,G_Brikama II@Brikama II,cell_site
+G09_Kartong_1,G_Kartong@Kartong,cell_site
+G09_Farafenni 2_3,G_Farafenni 2@Farafenni 2,cell_site
+G18_Test_2,G_Test@Test,cell_site
+G09_Brikama Tower_1,G_Brikama Tower@Brikama Tower,cell_site
+G09_Brikama Tower_2,G_Brikama Tower@Brikama Tower,cell_site
+G09_Brikama Tower_3,G_Brikama Tower@Brikama Tower,cell_site
+G09_Kartong_2,G_Kartong@Kartong,cell_site
+G09_Kartong_3,G_Kartong@Kartong,cell_site
+G09_Marakissa_1,G_Marakissa@Marakissa,cell_site
+G09_Marakissa_2,G_Marakissa@Marakissa,cell_site
+G09_Brikama Ba_3,G_Brikama Ba@Brikama Ba,cell_site
+G09_Nema Kunku_1,G_Nema Kunku@Nema Kunku,cell_site
+G09_Nema Kunku_2,G_Nema Kunku@Nema Kunku,cell_site
+G09_Nema Kunku_3,G_Nema Kunku@Nema Kunku,cell_site
+G09_Kombo Kerewan_1,G_Kombo Kerewan@Kombo Kerewan,cell_site
+G09_Kombo Kerewan_2,G_Kombo Kerewan@Kombo Kerewan,cell_site
+G09_Kombo Kerewan_3,G_Kombo Kerewan@Kombo Kerewan,cell_site
+G09_Somita_1,G_Somita@Somita,cell_site
+G09_Somita_2,G_Somita@Somita,cell_site
+G09_Somita_3,G_Somita@Somita,cell_site
+G09_Jiboroh_1,G_Jiboroh@Jiboroh,cell_site
+G09_Jiboroh_2,G_Jiboroh@Jiboroh,cell_site
+G09_Jiboroh_3,G_Jiboroh@Jiboroh,cell_site
+G09_Marakissa_3,G_Marakissa@Marakissa,cell_site
+G09_Kerr Jarga_1,G_Kerr Jarga,cell_site
+G09_Kerr Jarga_2,G_Kerr Jarga,cell_site
+G09_Kerr Jarga_3,G_Kerr Jarga,cell_site
+G09_Sheraton_3,G_Sheraton@Sheraton,cell_site
+G09_Bajakunda_2,G_Bajakunda@Baja Kunda,cell_site
+G09_Bakadagi_1,G_Bakadagi@Bakadagi,cell_site
+G09_Bakadagi_2,G_Bakadagi@Bakadagi,cell_site
+G09_Bakadagi_3,G_Bakadagi@Bakadagi,cell_site
+G09_Sheraton_1,G_Sheraton@Sheraton,cell_site
+G09_Sheraton_2,G_Sheraton@Sheraton,cell_site
+G09_Gamstar_1,G_Gamstar@Gamstar,cell_site
+G09_Gamstar_2,G_Gamstar@Gamstar,cell_site
+G09_Gamstar_3,G_Gamstar@Gamstar,cell_site
+G09_Gamtel Bakau_1,G_Gamtel Bakau@Gamtel Bakau,cell_site
+G09_Gamtel Bakau_2,G_Gamtel Bakau@Gamtel Bakau,cell_site
+G09_Gamtel Bakau_3,G_Gamtel Bakau@Gamtel Bakau,cell_site
+G09_Bato Kunku_1,G_Bato Kunku@Bato Kunku,cell_site
+G09_Bato Kunku_2,G_Bato Kunku@Bato Kunku,cell_site
+G09_Bato Kunku_3,G_Bato Kunku@Bato Kunku,cell_site
+G09_Kaiaf_1,G_Kaiaf@Kaiaf,cell_site
+G09_Ngeyen Sanjal_1,G_Ngeyen Sanjal@Ngeyen Sanjal,cell_site
+G09_Ngeyen Sanjal_2,G_Ngeyen Sanjal@Ngeyen Sanjal,cell_site
+G09_Ngeyen Sanjal_3,G_Ngeyen Sanjal@Ngeyen Sanjal,cell_site
+G09_Tanji_2,G_Tanji@Tanji,cell_site
+G09_Tanji_3,G_Tanji@Tanji,cell_site
+G09_Busumbala II_1,G_Busumbala II@Busumbala II,cell_site
+G09_Kabafita_2,G_Kabafita@Kabafita,cell_site
+G09_Kabafita_3,G_Kabafita@Kabafita,cell_site
+G09_Brikama UTG_1,G_Brikama UTG@Brikama UTG,cell_site
+G09_Brikama UTG_2,G_Brikama UTG@Brikama UTG,cell_site
+G09_Brikama UTG_3,G_Brikama UTG@Brikama UTG,cell_site
+G09_Brikama Cow_3,G_Brikama Cow@Brikama Cow,cell_site
+G09_Tendaba Camp_1,G_Tendaba Camp,cell_site
+G09_Kudang_1,G_Kudang@Kudang,cell_site
+G09_Kudang_2,G_Kudang@Kudang,cell_site
+G09_Kudang_3,G_Kudang@Kudang,cell_site
+G09_Basori_3,G_Basori@Basori,cell_site
+G09_Bulock_2,G_Bulock@Bulock,cell_site
+G09_Bulock_3,G_Bulock@Bulock,cell_site
+G09_Bulock_1,G_Bulock@Bulock,cell_site
+G09_Kerewan_1,G_Kerewan@Kerewan,cell_site
+G09_Kerewan_3,G_Kerewan@Kerewan,cell_site
+G09_Kerewan_2,G_Kerewan@Kerewan,cell_site
+G09_Kanuma_1,G_Kanuma@Kanuma,cell_site
+G09_Kanuma_2,G_Kanuma@Kanuma,cell_site
+G09_Kanuma_3,G_Kanuma@Kanuma,cell_site
+G09_Bwiam_1,G_Bwiam@Bwiam,cell_site
+G09_Bwiam_2,G_Bwiam@Bwiam,cell_site
+G09_Bwiam_3,G_Bwiam@Bwiam,cell_site
+G09_Brusubi_1,G_Brusubi@Brusubi,cell_site
+G09_Brusubi_2,G_Brusubi@Brusubi,cell_site
+G09_Brusubi_3,G_Brusubi@Brusubi,cell_site
+G09_Kalaji_1,G_Kalaji@Kalaji,cell_site
+G09_Kalaji_2,G_Kalaji@Kalaji,cell_site
+G09_Kalaji_3,G_Kalaji@Kalaji,cell_site
+G09_Sibanor_1,G_Sibanor@Sibanor,cell_site
+G09_Sibanor_2,G_Sibanor@Sibanor,cell_site
+G09_Sibanor_3,G_Sibanor@Sibanor,cell_site
+G09_Farababanta_1,G_Farababanta@Farababanta,cell_site
+G09_Farababanta_2,G_Farababanta@Farababanta,cell_site
+G09_Farababanta_3,G_Farababanta@Farababanta,cell_site
+G09_Pakali Ba_1,G_Pakali Ba@Pakali Ba,cell_site
+G09_Pakali Ba_2,G_Pakali Ba@Pakali Ba,cell_site
+G09_Pakali Ba_3,G_Pakali Ba@Pakali Ba,cell_site
+G09_Farafenni_1,G_Farafenni@Farafenni,cell_site
+G09_Farafenni_2,G_Farafenni@Farafenni,cell_site
+G09_Farafenni_3,G_Farafenni@Farafenni,cell_site
+G09_Farato-Paradise City_3,G_Farato-Paradise City@Farato-Paradise City,cell_site
+G09_Nemasu_1,G_Nemasu@Nemasu,cell_site
+G09_Nemasu_2,G_Nemasu@Nemasu,cell_site
+G09_Nemasu_3,G_Nemasu@Nemasu,cell_site
+G09_Bansang_1,G_Bansang@Bansang,cell_site
+G09_Jambur_1,G_Jambur@Jambur,cell_site
+G09_Bansang_3,G_Bansang@Bansang,cell_site
+G09_Bansang_2,G_Bansang@Bansang,cell_site
+G09_Farafenni 2_2,G_Farafenni 2@Farafenni 2,cell_site
+G09_Tanji_1,G_Tanji@Tanji,cell_site
+G09_Basse_1,G_Basse@Basse,cell_site
+G09_Basse_2,G_Basse@Basse,cell_site
+G09_Basse_3,G_Basse@Basse,cell_site
+G09_Kuntaur_1,G_Kuntaur@Kuntaur,cell_site
+G09_Diabugu_1,G_Diabugu@Diabugu,cell_site
+G09_Diabugu_2,G_Diabugu@Diabugu,cell_site
+G09_Diabugu_3,G_Diabugu@Diabugu,cell_site
+G09_Sukuta Jabang Highway_1,G_Sukuta-Jabang Highway@Sukuta-Jabang Highway,cell_site
+G09_George Town_2,G_George Town@George Town,cell_site
+G09_George Town_3,G_George Town@George Town,cell_site
+G09_George Town_1,G_George Town@George Town,cell_site
+G09_Bijilo Tower_1,G_Bijilo Tower@Bijilo Tower,cell_site
+G09_Bijilo Tower_2,G_Bijilo Tower@Bijilo Tower,cell_site
+G09_Bijilo Tower_3,G_Bijilo Tower@Bijilo Tower,cell_site
+G09_Numuyel_3,G_Numuyel@Numuyel,cell_site
+G09_Numuyel_2,G_Numuyel@Numuyel,cell_site
+G09_Numuyel_1,G_Numuyel@Numuyel,cell_site
+G09_Sukuta_1,G_Sukuta@Sukuta,cell_site
+G09_Sukuta_2,G_Sukuta@Sukuta,cell_site
+G09_Sukuta_3,G_Sukuta@Sukuta,cell_site
+G09_Kanilai Village_1,G_Kanilai Village@Kanilai Village,cell_site
+G09_Kanilai Village_2,G_Kanilai Village@Kanilai Village,cell_site
+G09_Kanilai Village_3,G_Kanilai Village@Kanilai Village,cell_site
+G09_Comium Residence_1,G_Comium Residence@Comium Residence,cell_site
+G09_Comium Residence_2,G_Comium Residence@Comium Residence,cell_site
+G09_Comium Residence_3,G_Comium Residence@Comium Residence,cell_site
+G09_Mariama Kunda_1,G_Mariama Kunda@Mariama Kunda,cell_site
+G09_Mariama Kunda_2,G_Mariama Kunda@Mariama Kunda,cell_site
+G09_Mariama Kunda_3,G_Mariama Kunda@Mariama Kunda,cell_site
+G09_Old Yundum_1,G_Old Yundum@Old Yundum,cell_site
+G09_Old Yundum_2,G_Old Yundum@Old Yundum,cell_site
+G09_Old Yundum_3,G_Old Yundum@Old Yundum,cell_site
+G09_Tendaba Camp_2,G_Tendaba Camp,cell_site
+G09_Illiassa_2,G_Illiassa@Illiassa,cell_site
+G09_Illiassa_3,G_Illiassa@Illiassa,cell_site
+G09_Essau_1,G_Essau@Essau,cell_site
+G09_White House_1,G_White House@White House,cell_site
+G09_White House_2,G_White House@White House,cell_site
+G09_White House_3,G_White House@White House,cell_site
+G09_SOS_1,G_SOS@SOS,cell_site
+G09_SOS_2,G_SOS@SOS,cell_site
+G09_SOS_3,G_SOS@SOS,cell_site
+G09_Future Lecce_1,G_Future Lecce@Future Lecce,cell_site
+G09_Future Lecce_2,G_Future Lecce@Future Lecce,cell_site
+G09_Future Lecce_3,G_Future Lecce@Future Lecce,cell_site
+G09_Kaur_3,G_Kaur@Kaur,cell_site
+G09_Saad Raslan_1,G_Saad Raslan@Saad Raslan,cell_site
+G09_Saad Raslan_2,G_Saad Raslan@Saad Raslan,cell_site
+G09_Saad Raslan_3,G_Saad Raslan@Saad Raslan,cell_site
+G09_Soul Samba Street_1,G_Soul Samba Street@Soul Samba Street,cell_site
+G09_Soul Samba Street_2,G_Soul Samba Street@Soul Samba Street,cell_site
+G09_Soul Samba Street_3,G_Soul Samba Street@Soul Samba Street,cell_site
+G09_Minteh Kunda_1,G_Minteh Kunda@Minteh Kunda,cell_site
+G09_Minteh Kunda_2,G_Minteh Kunda@Minteh Kunda,cell_site
+G09_Minteh Kunda_3,G_Minteh Kunda@Minteh Kunda,cell_site
+G09_Kuntaur_2,G_Kuntaur@Kuntaur,cell_site
+G09_Kuntaur_3,G_Kuntaur@Kuntaur,cell_site
+G09_Bureng_1,G_Bureng@Bureng,cell_site
+G09_Bureng_2,G_Bureng@Bureng,cell_site
+G09_Bureng_3,G_Bureng@Bureng,cell_site
+G09_Somo Bldg_3,G_Somo Bldg@Somo Bldg,cell_site
+G09_HQ_2,G_HQ@HQ,cell_site
+G09_HQ_3,G_HQ@HQ,cell_site
+G09_Brufut_Mkt_1,G_Brufut_Mkt@Brufut_Mkt,cell_site
+G09_Brufut_Mkt_2,G_Brufut_Mkt@Brufut_Mkt,cell_site
+G09_Brufut_Mkt_3,G_Brufut_Mkt@Brufut_Mkt,cell_site
+G09_Sifo_1,G_Sifo@Sifo,cell_site
+G09_Sifo_2,G_Sifo@Sifo,cell_site
+G09_Sifo_3,G_Sifo@Sifo,cell_site
+G09_Brikama Medina_1,G_Brikama Medina@Brikama Medina,cell_site
+G09_Brikama Medina_2,G_Brikama Medina@Brikama Medina,cell_site
+G09_Brikama Medina_3,G_Brikama Medina@Brikama Medina,cell_site
+G09_Busumbala Central_1,G_Busumbala Central@Busumbala Central,cell_site
+G09_Busumbala Central_2,G_Busumbala Central@Busumbala Central,cell_site
+G09_Busumbala Central_3,G_Busumbala Central@Busumbala Central,cell_site
+G09_Ebo Town_3,G_Ebo Town@Ebo Town,cell_site
+G09_Brikama Cow_1,G_Brikama Cow@Brikama Cow,cell_site
+G09_Brikama Cow_2,G_Brikama Cow@Brikama Cow,cell_site
+G09_Brikama Newtown_1,G_Brikama Newtown@Brikama Newtown,cell_site
+G09_Brikama Newtown_2,G_Brikama Newtown@Brikama Newtown,cell_site
+G09_Brikama Newtown_3,G_Brikama Newtown@Brikama Newtown,cell_site
+G09_Farato_1,G_Farato@Farato,cell_site
+G09_Farato_2,G_Farato@Farato,cell_site
+G09_Farato_3,G_Farato@Farato,cell_site
+G09_Jambajelli_1,G_Jambajelli@Jambajelli,cell_site
+G09_Jambajelli_2,G_Jambajelli@Jambajelli,cell_site
+G09_Jambajelli_3,G_Jambajelli@Jambajelli,cell_site
+G09_Sk Primary School_1,G_Sk Primary School@Sk Primary School,cell_site
+G09_Sk Primary School_2,G_Sk Primary School@Sk Primary School,cell_site
+G09_Sk Primary School_3,G_Sk Primary School@Sk Primary School,cell_site
+G09_Lamin 2_1,G_Lamin 2@Lamin 2,cell_site
+G09_Lamin 2_2,G_Lamin 2@Lamin 2,cell_site
+G09_Lamin 2_3,G_Lamin 2@Lamin 2,cell_site
+G09_Banjul Hope Street_1,G_Banjul Hope Street@Banjul Hope Street,cell_site
+G09_Banjul Hope Street_2,G_Banjul Hope Street@Banjul Hope Street,cell_site
+G09_Banjul Hope Street_3,G_Banjul Hope Street@Banjul Hope Street,cell_site
+G09_Farato 2_1,G_Farato 2@Farato 2,cell_site
+G09_Farato 2_2,G_Farato 2@Farato 2,cell_site
+G09_Farato 2_3,G_Farato 2@Farato 2,cell_site
+G09_Brikama Sanchaba_1,G_Brikama Sanchaba@Brikama Sanchaba,cell_site
+G09_Brikama Sanchaba_2,G_Brikama Sanchaba@Brikama Sanchaba,cell_site
+G09_Brikama Sanchaba_3,G_Brikama Sanchaba@Brikama Sanchaba,cell_site
+G09_Brufut Medina_1,G_Brufut Medina@Brufut Medina,cell_site
+G09_Brufut Medina_2,G_Brufut Medina@Brufut Medina,cell_site
+G09_Brufut Medina_3,G_Brufut Medina@Brufut Medina,cell_site
+G09_Kunkujang Keitaya_1,G_Kunkujang Keitaya@Kunkujang Keitaya,cell_site
+G09_Kunkujang Keitaya_2,G_Kunkujang Keitaya@Kunkujang Keitaya,cell_site
+G09_Kunkujang Keitaya_3,G_Kunkujang Keitaya@Kunkujang Keitaya,cell_site
+G09_Lamin Babylon_1,G_Lamin Babylon@Lamin Babylon,cell_site
+G09_Lamin Babylon_2,G_Lamin Babylon@Lamin Babylon,cell_site
+G09_Lamin Babylon_3,G_Lamin Babylon@Lamin Babylon,cell_site
+G09_LK Sabiji Market_1,G_LK Sabiji Market@LK Sabiji Market,cell_site
+G09_LK Sabiji Market_2,G_LK Sabiji Market@LK Sabiji Market,cell_site
+G09_LK Sabiji Market_3,G_LK Sabiji Market@LK Sabiji Market,cell_site
+G09_Sukuta 2_1,G_Sukuta 2@Sukuta 2,cell_site
+G09_Sukuta 2_2,G_Sukuta 2@Sukuta 2,cell_site
+G09_Sukuta 2_3,G_Sukuta 2@Sukuta 2,cell_site
+G09_Jalambang_1,G_Jalambang@Jalambang,cell_site
+G09_Jalambang_2,G_Jalambang@Jalambang,cell_site
+G09_Jalambang_3,G_Jalambang@Jalambang,cell_site
+G09_Jabang_1,G_Jabang@Jabang,cell_site
+G09_Jabang_2,G_Jabang@Jabang,cell_site
+G09_Jabang_3,G_Jabang@Jabang,cell_site
+G09_Kanifing Estate_1,G_Kanifing Estate@Kanifing Estate,cell_site
+G09_Kanifing Estate_2,G_Kanifing Estate@Kanifing Estate,cell_site
+G09_Kanifing Estate_3,G_Kanifing Estate@Kanifing Estate,cell_site
+G09_Kerr Seringe_1,G_Kerr Seringe@Kerr Seringe,cell_site
+G09_Kerr Seringe_2,G_Kerr Seringe@Kerr Seringe,cell_site
+G09_Kerr Seringe_3,G_Kerr Seringe@Kerr Seringe,cell_site
+G09_LK School_1,G_LK School@LK School,cell_site
+G09_LK School_2,G_LK School@LK School,cell_site
+G09_LK School_3,G_LK School@LK School,cell_site
+G09_Califonia_1,G_Califonia@Califonia,cell_site
+G09_Califonia_2,G_Califonia@Califonia,cell_site
+G09_Califonia_3,G_Califonia@Califonia,cell_site
+G09_Mamuda_1,G_Mamuda@Mamuda,cell_site
+G09_Mamuda_2,G_Mamuda@Mamuda,cell_site
+G09_Mamuda_3,G_Mamuda@Mamuda,cell_site
+G09_Tujereng Estate_1,G_Tujereng Estate@Tujereng Estate,cell_site
+G09_Tujereng Estate_2,G_Tujereng Estate@Tujereng Estate,cell_site
+G09_Tujereng Estate_3,G_Tujereng Estate@Tujereng Estate,cell_site
+G09_Brufut_Nema_1,G_Brufut_Nema@Brufut_Nema,cell_site
+G09_Brufut_Nema_2,G_Brufut_Nema@Brufut_Nema,cell_site
+G09_Brufut_Nema_3,G_Brufut_Nema@Brufut_Nema,cell_site
+G09_Latriya_1,G_Latriya@Latriya,cell_site
+G09_Latriya_2,G_Latriya@Latriya,cell_site
+G09_Latriya_3,G_Latriya@Latriya,cell_site
+G09_Old Yundum 3_1,G_Old Yundum 3@Old Yundum 3,cell_site
+G09_Old Yundum 3_2,G_Old Yundum 3@Old Yundum 3,cell_site
+G09_Old Yundum 3_3,G_Old Yundum 3@Old Yundum 3,cell_site
+G09_Sanchaba Touba_1,G_Sanchaba Touba@Sanchaba Touba,cell_site
+G09_Sanchaba Touba_2,G_Sanchaba Touba@Sanchaba Touba,cell_site
+G09_Sanchaba Touba_3,G_Sanchaba Touba@Sanchaba Touba,cell_site
+G09_Sinchu Sorry_1,G_Sinchu Sorry@Sinchu Sorry,cell_site
+G09_Sinchu Sorry_2,G_Sinchu Sorry@Sinchu Sorry,cell_site
+G09_Sinchu Sorry_3,G_Sinchu Sorry@Sinchu Sorry,cell_site
+G09_Welingara_1,G_Welingara@Welingara,cell_site
+G09_Welingara_2,G_Welingara@Welingara,cell_site
+G09_Welingara_3,G_Welingara@Welingara,cell_site
+G09_Yundum Medina_1,G_Yundum Medina@Yundum Medina,cell_site
+G09_Yundum Medina_2,G_Yundum Medina@Yundum Medina,cell_site
+G09_Yundum Medina_3,G_Yundum Medina@Yundum Medina,cell_site
+G09_Bakau Newtown_1,G_Bakau Newtown@Bakau Newtown,cell_site
+G09_Bakau Newtown_2,G_Bakau Newtown@Bakau Newtown,cell_site
+G09_Bakau Newtown_3,G_Bakau Newtown@Bakau Newtown,cell_site
+G09_GTMI_1,G_GTMI@GTMI,cell_site
+G09_GTMI_2,G_GTMI@GTMI,cell_site
+G09_GTMI_3,G_GTMI@GTMI,cell_site
+G09_Kololi-Palma Junction_1,G_Kololi-Palma Junction@Kololi-Palma Junction,cell_site
+G09_Kololi-Palma Junction_2,G_Kololi-Palma Junction@Kololi-Palma Junction,cell_site
+G09_Kololi-Palma Junction_3,G_Kololi-Palma Junction@Kololi-Palma Junction,cell_site
+G09_Yuna_1,G_Yuna@Yuna,cell_site
+G09_Yuna_2,G_Yuna@Yuna,cell_site
+G09_Yuna_3,G_Yuna@Yuna,cell_site
+G09_Lamin Daranka_1,G_Lamin Daranka@Lamin Daranka,cell_site
+G09_Lamin Daranka_2,G_Lamin Daranka@Lamin Daranka,cell_site
+G09_Lamin Daranka_3,G_Lamin Daranka@Lamin Daranka,cell_site
+G09_Manjai_1,G_Manjai@Manjai,cell_site
+G09_Manjai_2,G_Manjai@Manjai,cell_site
+G09_Manjai_3,G_Manjai@Manjai,cell_site
+G09_Busumbala 4_1,G_Busumbala 4@Busumbala 4,cell_site
+G09_Busumbala 4_2,G_Busumbala 4@Busumbala 4,cell_site
+G09_Busumbala 4_3,G_Busumbala 4@Busumbala 4,cell_site
+G09_Lamin Sateyba_1,G_Lamin Sateyba@Lamin Sateyba,cell_site
+G_Bwiam@Bwiam,BSC,Abis
+G09_Lamin Sateyba_2,G_Lamin Sateyba@Lamin Sateyba,cell_site
+G09_Lamin Sateyba_3,G_Lamin Sateyba@Lamin Sateyba,cell_site
+G09_Banjulinding_1,G_Banjulinding@Banjulinding,cell_site
+G09_Banjulinding_2,G_Banjulinding@Banjulinding,cell_site
+G09_Banjulinding_3,G_Banjulinding@Banjulinding,cell_site
+G09_Bijilo II_1,G_Bijilo II@Bijilo II,cell_site
+G09_Bijilo II_2,G_Bijilo II@Bijilo II,cell_site
+G09_Bijilo II_3,G_Bijilo II@Bijilo II,cell_site
+G09_Gouygui Market_1,G_Gouygui Market@Gouygui Market,cell_site
+G09_Gouygui Market_2,G_Gouygui Market@Gouygui Market,cell_site
+G09_Gouygui Market_3,G_Gouygui Market@Gouygui Market,cell_site
+G09_Gunjur 2_1,G_Gunjur 2@Gunjur 2,cell_site
+G09_Gunjur 2_2,G_Gunjur 2@Gunjur 2,cell_site
+G09_Gunjur 2_3,G_Gunjur 2@Gunjur 2,cell_site
+G09_Sanyang 2_1,G_Sanyang 2@Sanyang 2,cell_site
+G09_Sanyang 2_2,G_Sanyang 2@Sanyang 2,cell_site
+G09_Sanyang 2_3,G_Sanyang 2@Sanyang 2,cell_site
+G09_Brusubi 2_1,G_Brusubi 2@Brusubi 2,cell_site
+G09_Brusubi 2_2,G_Brusubi 2@Brusubi 2,cell_site
+G09_Brusubi 2_3,G_Brusubi 2@Brusubi 2,cell_site
+G09_Busumbala 3_1,G_Busumbala 3@Busumbala 3,cell_site
+G09_Busumbala 3_2,G_Busumbala 3@Busumbala 3,cell_site
+G09_Busumbala 3_3,G_Busumbala 3@Busumbala 3,cell_site
+G09_Brikama Jamisa II_1,G_Brikama Jamisa II@Brikama Jamisa II,cell_site
+G09_Brikama Jamisa II_2,G_Brikama Jamisa II@Brikama Jamisa II,cell_site
+G09_Brikama Jamisa II_3,G_Brikama Jamisa II@Brikama Jamisa II,cell_site
+G09_Lamin Sanchaba_1,G_Lamin Sanchaba@Lamin Sanchaba,cell_site
+G09_Lamin Sanchaba_2,G_Lamin Sanchaba@Lamin Sanchaba,cell_site
+G09_Lamin Sanchaba_3,G_Lamin Sanchaba@Lamin Sanchaba,cell_site
+G09_Yundum Medina II_1,G_Yundum Medina II@Yundum Medina II,cell_site
+G09_Yundum Medina II_2,G_Yundum Medina II@Yundum Medina II,cell_site
+G09_Yundum Medina II_3,G_Yundum Medina II@Yundum Medina II,cell_site
+G09_Sinchu Alagie 2_1,G_Sinchu Alagie 2@Sinchu Alagie 2,cell_site
+G09_Sinchu Alagie 2_2,G_Sinchu Alagie 2@Sinchu Alagie 2,cell_site
+G09_Sinchu Alagie 2_3,G_Sinchu Alagie 2@Sinchu Alagie 2,cell_site
+G09_Allunghari_1,G_Allunghari@Allunghari,cell_site
+G09_Allunghari_2,G_Allunghari@Allunghari,cell_site
+G09_Allunghari_3,G_Allunghari@Allunghari,cell_site
+G09_Brufut TAF Estate_1,G_Brufut TAF Estate@Brufut TAF Estate,cell_site
+G09_Brufut TAF Estate_2,G_Brufut TAF Estate@Brufut TAF Estate,cell_site
+G09_Brufut TAF Estate_3,G_Brufut TAF Estate@Brufut TAF Estate,cell_site
+G09_Mansajang_1,G_Mansajang@Mansajang,cell_site
+G09_Mansajang_2,G_Mansajang@Mansajang,cell_site
+G09_Mansajang_3,G_Mansajang@Mansajang,cell_site
+G09_Test_1,G_Test@Test,cell_site
+G_Banjul Tower@Banjul Tower,BSC,Abis
+G_HQ@HQ,BSC,Abis
+G_Kaiaf@Kaiaf,BSC,Abis
+G_Dobson@Dobson,BSC,Abis
+G_Kaur@Kaur,BSC,Abis
+G_Airport@Airport,BSC,Abis
+G_Arab Islamic Bank@Arab Islamic Bank,BSC,Abis
+G_Bajakunda@Baja Kunda,BSC,Abis
+G_Brikama Ba@Brikama Ba,BSC,Abis
+G_Jambur@Jambur,BSC,Abis
+G_Basori@Basori,BSC,Abis
+G_White Building@White Building,BSC,Abis
+G_Earth Station@Earth Station,BSC,Abis
+G_Fass@Fass,BSC,Abis
+G_Fatoto@Fatoto,BSC,Abis
+G_Gunjur@Gunjur,BSC,Abis
+G_Senegambia@Senegambia,BSC,Abis
+G_Sukuta-Jabang Highway@Sukuta-Jabang Highway,BSC,Abis
+G_Jabang Estate@Jabang Estate,BSC,Abis
+G_Kwenilla@Kwenilla,BSC,Abis
+G_Lamin@Lamin,BSC,Abis
+G_Mansakonko@Mansakonko,BSC,Abis
+G_Ndugu Kebbeh@Ndugu Kebbeh,BSC,Abis
+G_Sanyang@Sanyang,BSC,Abis
+G_Serra Kunda Mkt Bldg@Serra Kunda Mkt Bldg,BSC,Abis
+G_Sinchubaliya@Sinchubaliya,BSC,Abis
+G_Somo Bldg@Somo Bldg,BSC,Abis
+G_Sudowol@Sudowol,BSC,Abis
+G_Bundung@Bundung,BSC,Abis
+G_Faji Kunda@Faji Kunda,BSC,Abis
+G_New Jeshwang@New Jeshwang,BSC,Abis
+G_Kabafita@Kabafita,BSC,Abis
+G_Mandinari@Mandinari,BSC,Abis
+G_Illiassa@Illiassa,BSC,Abis
+G_Essau@Essau,BSC,Abis
+G_Denton Bridge@Denton Bridge,BSC,Abis
+G_Kubariko@Kubariko,BSC,Abis
+G_Farato-Paradise City@Farato-Paradise City,BSC,Abis
+G_Tabokoto@Tabokoto,BSC,Abis
+G_Ebo Town@Ebo Town,BSC,Abis
+G_Busumbala II@Busumbala II,BSC,Abis
+G_Farafenni 2@Farafenni 2,BSC,Abis
+G_Busumbala@Busumbala,BSC,Abis
+G_Brikama II@Brikama II,BSC,Abis
+G_Kartong@Kartong,BSC,Abis
+G_Test@Test,BSC,Abis
+G_Brikama Tower@Brikama Tower,BSC,Abis
+G_Marakissa@Marakissa,BSC,Abis
+G_Nema Kunku@Nema Kunku,BSC,Abis
+G_Kombo Kerewan@Kombo Kerewan,BSC,Abis
+G_Somita@Somita,BSC,Abis
+G_Jiboroh@Jiboroh,BSC,Abis
+G_Kerr Jarga,BSC,Abis
+G_Sheraton@Sheraton,BSC,Abis
+G_Bakadagi@Bakadagi,BSC,Abis
+G_Gamstar@Gamstar,BSC,Abis
+G_Gamtel Bakau@Gamtel Bakau,BSC,Abis
+G_Bato Kunku@Bato Kunku,BSC,Abis
+G_Ngeyen Sanjal@Ngeyen Sanjal,BSC,Abis
+G_Tanji@Tanji,BSC,Abis
+G_Brikama UTG@Brikama UTG,BSC,Abis
+G_Brikama Cow@Brikama Cow,BSC,Abis
+G_Tendaba Camp,BSC,Abis
+G_Kudang@Kudang,BSC,Abis
+G_Bulock@Bulock,BSC,Abis
+G_Kerewan@Kerewan,BSC,Abis
+G_Kanuma@Kanuma,BSC,Abis
+G_Brusubi@Brusubi,BSC,Abis
+G_Kalaji@Kalaji,BSC,Abis
+G_Sibanor@Sibanor,BSC,Abis
+G_Farababanta@Farababanta,BSC,Abis
+G_Pakali Ba@Pakali Ba,BSC,Abis
+G_Farafenni@Farafenni,BSC,Abis
+G_Nemasu@Nemasu,BSC,Abis
+G_Bansang@Bansang,BSC,Abis
+G_Basse@Basse,BSC,Abis
+G_Kuntaur@Kuntaur,BSC,Abis
+G_Diabugu@Diabugu,BSC,Abis
+G_George Town@George Town,BSC,Abis
+G_Bijilo Tower@Bijilo Tower,BSC,Abis
+G_Numuyel@Numuyel,BSC,Abis
+G_Sukuta@Sukuta,BSC,Abis
+G_Kanilai Village@Kanilai Village,BSC,Abis
+G_Comium Residence@Comium Residence,BSC,Abis
+G_Mariama Kunda@Mariama Kunda,BSC,Abis
+G_Old Yundum@Old Yundum,BSC,Abis
+G_White House@White House,BSC,Abis
+G_SOS@SOS,BSC,Abis
+G_Future Lecce@Future Lecce,BSC,Abis
+G_Saad Raslan@Saad Raslan,BSC,Abis
+G_Soul Samba Street@Soul Samba Street,BSC,Abis
+G_Minteh Kunda@Minteh Kunda,BSC,Abis
+G_Bureng@Bureng,BSC,Abis
+G_Brufut_Mkt@Brufut_Mkt,BSC,Abis
+G_Sifo@Sifo,BSC,Abis
+G_Brikama Medina@Brikama Medina,BSC,Abis
+G_Busumbala Central@Busumbala Central,BSC,Abis
+G_Brikama Newtown@Brikama Newtown,BSC,Abis
+G_Farato@Farato,BSC,Abis
+G_Jambajelli@Jambajelli,BSC,Abis
+G_Sk Primary School@Sk Primary School,BSC,Abis
+G_Lamin 2@Lamin 2,BSC,Abis
+G_Banjul Hope Street@Banjul Hope Street,BSC,Abis
+G_Farato 2@Farato 2,BSC,Abis
+G_Brikama Sanchaba@Brikama Sanchaba,BSC,Abis
+G_Brufut Medina@Brufut Medina,BSC,Abis
+G_Kunkujang Keitaya@Kunkujang Keitaya,BSC,Abis
+G_Lamin Babylon@Lamin Babylon,BSC,Abis
+G_LK Sabiji Market@LK Sabiji Market,BSC,Abis
+G_Sukuta 2@Sukuta 2,BSC,Abis
+G_Jalambang@Jalambang,BSC,Abis
+G_Jabang@Jabang,BSC,Abis
+G_Kanifing Estate@Kanifing Estate,BSC,Abis
+G_Kerr Seringe@Kerr Seringe,BSC,Abis
+G_LK School@LK School,BSC,Abis
+G_Califonia@Califonia,BSC,Abis
+G_Mamuda@Mamuda,BSC,Abis
+G_Tujereng Estate@Tujereng Estate,BSC,Abis
+G_Brufut_Nema@Brufut_Nema,BSC,Abis
+G_Latriya@Latriya,BSC,Abis
+G_Old Yundum 3@Old Yundum 3,BSC,Abis
+G_Sanchaba Touba@Sanchaba Touba,BSC,Abis
+G_Sinchu Sorry@Sinchu Sorry,BSC,Abis
+G_Welingara@Welingara,BSC,Abis
+G_Yundum Medina@Yundum Medina,BSC,Abis
+G_Bakau Newtown@Bakau Newtown,BSC,Abis
+G_GTMI@GTMI,BSC,Abis
+G_Kololi-Palma Junction@Kololi-Palma Junction,BSC,Abis
+G_Yuna@Yuna,BSC,Abis
+G_Lamin Daranka@Lamin Daranka,BSC,Abis
+G_Manjai@Manjai,BSC,Abis
+G_Busumbala 4@Busumbala 4,BSC,Abis
+G_Lamin Sateyba@Lamin Sateyba,BSC,Abis
+G_Banjulinding@Banjulinding,BSC,Abis
+G_Bijilo II@Bijilo II,BSC,Abis
+G_Gouygui Market@Gouygui Market,BSC,Abis
+G_Gunjur 2@Gunjur 2,BSC,Abis
+G_Sanyang 2@Sanyang 2,BSC,Abis
+G_Brusubi 2@Brusubi 2,BSC,Abis
+G_Busumbala 3@Busumbala 3,BSC,Abis
+G_Brikama Jamisa II@Brikama Jamisa II,BSC,Abis
+G_Lamin Sanchaba@Lamin Sanchaba,BSC,Abis
+G_Yundum Medina II@Yundum Medina II,BSC,Abis
+G_Sinchu Alagie 2@Sinchu Alagie 2,BSC,Abis
+G_Allunghari@Allunghari,BSC,Abis
+G_Brufut TAF Estate@Brufut TAF Estate,BSC,Abis
+G_Mansajang@Mansajang,BSC,Abis
+G09_Arab Islamic Bank_3,G09_Nema Kunku_2,GSM_cell_relation
+G_George Town@George Town,G09_Nema Kunku_2,GSM_cell_relation
+G09_HQ_1,G09_Nema Kunku_2,GSM_cell_relation
+G_Airport@Airport,G09_Nema Kunku_2,GSM_cell_relation
+G09_HQ_2,G09_Nema Kunku_2,GSM_cell_relation
+G09_Arab Islamic Bank_1,G09_Nema Kunku_3,GSM_cell_relation
+G_Fatoto@Fatoto,G09_Nema Kunku_3,GSM_cell_relation
+G09_Arab Islamic Bank_3,G09_Nema Kunku_3,GSM_cell_relation
+G_George Town@George Town,G09_Nema Kunku_3,GSM_cell_relation
+G09_Ebo Town_1,G09_Nema Kunku_3,GSM_cell_relation
+G09_Jabang Estate_3,G09_Brufut_Mkt_1,GSM_cell_relation
+G09_Jabang Estate_3,G09_Brufut_Mkt_2,GSM_cell_relation
+G09_Jabang Estate_1,G09_Brufut_Mkt_2,GSM_cell_relation
+G_Farato-Paradise City@Farato-Paradise City,G09_Brufut_Mkt_2,GSM_cell_relation
+G09_Denton Bridge_1,G09_HQ_2,GSM_cell_relation
+G09_Denton Bridge_2,G09_HQ_2,GSM_cell_relation
+G09_Future Lecce_2,G09_Ebo Town_3,GSM_cell_relation
+G_Banjul Tower@Banjul Tower,G09_Ebo Town_3,GSM_cell_relation
+G09_White Building_1,G09_Ebo Town_3,GSM_cell_relation
+G_Earth Station@Earth Station,G09_Ebo Town_3,GSM_cell_relation
+G09_Earth Station_1,G09_Ebo Town_3,GSM_cell_relation
+G_Bundung@Bundung,G09_Ebo Town_3,GSM_cell_relation
+G09_Gamtel Bakau_3,G09_Ebo Town_3,GSM_cell_relation
+G_Bakadagi@Bakadagi,G09_Ebo Town_3,GSM_cell_relation
+G09_Nemasu_2,G09_Ebo Town_3,GSM_cell_relation
+G_Mamuda@Mamuda,G09_Ebo Town_3,GSM_cell_relation
+G09_Sinchubaliya_1,G09_Ebo Town_3,GSM_cell_relation
+G_Sinchu Alagie 2@Sinchu Alagie 2,G09_Ebo Town_3,GSM_cell_relation
+G09_Sinchubaliya_2,G09_Ebo Town_3,GSM_cell_relation
+G_Allunghari@Allunghari,G09_Ebo Town_3,GSM_cell_relation
+G09_Soul Samba Street_3,G09_Ebo Town_3,GSM_cell_relation
+G09_Tabokoto_1,G09_Ebo Town_3,GSM_cell_relation
+G09_Tabokoto_3,G09_Ebo Town_3,GSM_cell_relation
+G09_White House_1,G09_Ebo Town_3,GSM_cell_relation
+G09_Bundung_1,G09_Ebo Town_3,GSM_cell_relation
+G09_Bundung_2,G09_Ebo Town_3,GSM_cell_relation
+G09_Bundung_3,G09_Ebo Town_3,GSM_cell_relation
+G09_Denton Bridge_1,G09_Ebo Town_3,GSM_cell_relation
+G09_Nema Kunku_1,G09_Ebo Town_3,GSM_cell_relation
+G09_Nema Kunku_3,G09_Ebo Town_3,GSM_cell_relation
+G09_Airport_2,G09_Kubariko_1,GSM_cell_relation
+G_Brikama UTG@Brikama UTG,G09_Kubariko_1,GSM_cell_relation
+G09_Basori_1,G09_Farato-Paradise City_2,GSM_cell_relation
+G_Pakali Ba@Pakali Ba,G09_Farato-Paradise City_2,GSM_cell_relation
+G09_Basori_1,G09_Farato-Paradise City_3,GSM_cell_relation
+G_Pakali Ba@Pakali Ba,G09_Farato-Paradise City_3,GSM_cell_relation
+G09_Basori_1,G09_Kombo Kerewan_1,GSM_cell_relation
+G_Pakali Ba@Pakali Ba,G09_Kombo Kerewan_1,GSM_cell_relation
+G09_Basori_1,G09_Kombo Kerewan_2,GSM_cell_relation
+G_Pakali Ba@Pakali Ba,G09_Kombo Kerewan_2,GSM_cell_relation
+G09_Basori_1,G09_Kombo Kerewan_3,GSM_cell_relation
+G_Pakali Ba@Pakali Ba,G09_Kombo Kerewan_3,GSM_cell_relation
+G09_Basori_1,G09_Mandinari_1,GSM_cell_relation
+G_Pakali Ba@Pakali Ba,G09_Mandinari_1,GSM_cell_relation
+G09_Basori_1,G09_Mandinari_2,GSM_cell_relation
+G_Pakali Ba@Pakali Ba,G09_Mandinari_2,GSM_cell_relation
+G09_Basori_1,G09_Brikama Cow_1,GSM_cell_relation
+G_Pakali Ba@Pakali Ba,G09_Brikama Cow_1,GSM_cell_relation
+G09_Basori_1,G09_Brikama Cow_3,GSM_cell_relation
+G_Pakali Ba@Pakali Ba,G09_Brikama Cow_3,GSM_cell_relation
+G09_Basori_1,G09_Brikama Cow_2,GSM_cell_relation
+G_Pakali Ba@Pakali Ba,G09_Brikama Cow_2,GSM_cell_relation
+G09_Basori_2,G09_Brikama UTG_1,GSM_cell_relation
+G_Kombo Kerewan@Kombo Kerewan,G09_Brikama UTG_1,GSM_cell_relation
+G09_Basori_2,G09_Mandinari_1,GSM_cell_relation
+G_Kombo Kerewan@Kombo Kerewan,G09_Mandinari_1,GSM_cell_relation
+G09_Basori_2,G09_Kubariko_3,GSM_cell_relation
+G_Kombo Kerewan@Kombo Kerewan,G09_Kubariko_3,GSM_cell_relation
+G09_Basori_2,G09_Farato-Paradise City_3,GSM_cell_relation
+G_Kombo Kerewan@Kombo Kerewan,G09_Farato-Paradise City_3,GSM_cell_relation
+G09_Basori_2,G09_Kombo Kerewan_1,GSM_cell_relation
+G_Kombo Kerewan@Kombo Kerewan,G09_Kombo Kerewan_1,GSM_cell_relation
+G09_Basori_2,G09_Kombo Kerewan_2,GSM_cell_relation
+G_Kombo Kerewan@Kombo Kerewan,G09_Kombo Kerewan_2,GSM_cell_relation
+G09_Basori_2,G09_Kombo Kerewan_3,GSM_cell_relation
+G_Kombo Kerewan@Kombo Kerewan,G09_Kombo Kerewan_3,GSM_cell_relation
+G09_Basori_2,G09_Mandinari_2,GSM_cell_relation
+G_Kombo Kerewan@Kombo Kerewan,G09_Mandinari_2,GSM_cell_relation
+G09_Basori_2,G09_Brikama Cow_1,GSM_cell_relation
+G_Kombo Kerewan@Kombo Kerewan,G09_Brikama Cow_1,GSM_cell_relation
+G09_Basori_2,G09_Brikama Cow_2,GSM_cell_relation
+G_Kombo Kerewan@Kombo Kerewan,G09_Brikama Cow_2,GSM_cell_relation
+G09_Basori_3,G09_Farato-Paradise City_1,GSM_cell_relation
+G_Sanyang@Sanyang,G09_Farato-Paradise City_1,GSM_cell_relation
+G09_Basori_3,G09_Farato-Paradise City_2,GSM_cell_relation
+G_Sanyang@Sanyang,G09_Farato-Paradise City_2,GSM_cell_relation
+G09_Basori_3,G09_Farato-Paradise City_3,GSM_cell_relation
+G_Sanyang@Sanyang,G09_Farato-Paradise City_3,GSM_cell_relation
+G09_Basori_3,G09_Kubariko_1,GSM_cell_relation
+G_Sanyang@Sanyang,G09_Kubariko_1,GSM_cell_relation
+G09_Basori_3,G09_Kombo Kerewan_1,GSM_cell_relation
+G_Sanyang@Sanyang,G09_Kombo Kerewan_1,GSM_cell_relation
+G09_Basori_3,G09_Kombo Kerewan_2,GSM_cell_relation
+G_Sanyang@Sanyang,G09_Kombo Kerewan_2,GSM_cell_relation
+G09_Basori_3,G09_Kombo Kerewan_3,GSM_cell_relation
+G_Sanyang@Sanyang,G09_Kombo Kerewan_3,GSM_cell_relation
+G09_Basori_3,G09_Mandinari_1,GSM_cell_relation
+G_Sanyang@Sanyang,G09_Mandinari_1,GSM_cell_relation
+G09_Basori_3,G09_Kubariko_2,GSM_cell_relation
+G_Sanyang@Sanyang,G09_Kubariko_2,GSM_cell_relation
+G09_Basori_3,G09_Kubariko_3,GSM_cell_relation
+G_Sanyang@Sanyang,G09_Kubariko_3,GSM_cell_relation
+G09_Basori_3,G09_Brikama Cow_3,GSM_cell_relation
+G_Sanyang@Sanyang,G09_Brikama Cow_3,GSM_cell_relation
+G09_Basori_3,G09_Brikama Cow_2,GSM_cell_relation
+G_Sanyang@Sanyang,G09_Brikama Cow_2,GSM_cell_relation
+G09_Farato-Paradise City_2,G09_Basori_1,GSM_cell_relation
+G09_Farato-Paradise City_2,G_Pakali Ba@Pakali Ba,GSM_cell_relation
+G09_Farato-Paradise City_3,G09_Basori_1,GSM_cell_relation
+G09_Farato-Paradise City_3,G_Pakali Ba@Pakali Ba,GSM_cell_relation
+G09_Kombo Kerewan_1,G09_Basori_1,GSM_cell_relation
+G09_Kombo Kerewan_1,G_Pakali Ba@Pakali Ba,GSM_cell_relation
+G09_Kombo Kerewan_2,G09_Basori_1,GSM_cell_relation
+G09_Kombo Kerewan_2,G_Pakali Ba@Pakali Ba,GSM_cell_relation
+G09_Kombo Kerewan_3,G09_Basori_1,GSM_cell_relation
+G09_Kombo Kerewan_3,G_Pakali Ba@Pakali Ba,GSM_cell_relation
+G09_Mandinari_1,G09_Basori_1,GSM_cell_relation
+G09_Mandinari_1,G_Pakali Ba@Pakali Ba,GSM_cell_relation
+G09_Mandinari_2,G09_Basori_1,GSM_cell_relation
+G09_Mandinari_2,G_Pakali Ba@Pakali Ba,GSM_cell_relation
+G09_Mandinari_3,G09_Basori_1,GSM_cell_relation
+G09_Mandinari_3,G_Pakali Ba@Pakali Ba,GSM_cell_relation
+G09_Brikama Cow_3,G09_Basori_1,GSM_cell_relation
+G09_Brikama Cow_3,G_Pakali Ba@Pakali Ba,GSM_cell_relation
+G09_Brikama Cow_1,G09_Basori_1,GSM_cell_relation
+G09_Brikama Cow_1,G_Pakali Ba@Pakali Ba,GSM_cell_relation
+G09_Brikama Cow_2,G09_Basori_1,GSM_cell_relation
+G09_Brikama Cow_2,G_Pakali Ba@Pakali Ba,GSM_cell_relation
+G09_Farato-Paradise City_3,G09_Basori_2,GSM_cell_relation
+G09_Farato-Paradise City_3,G_Kombo Kerewan@Kombo Kerewan,GSM_cell_relation
+G09_Kombo Kerewan_1,G09_Basori_2,GSM_cell_relation
+G09_Kombo Kerewan_1,G_Kombo Kerewan@Kombo Kerewan,GSM_cell_relation
+G09_Kombo Kerewan_2,G09_Basori_2,GSM_cell_relation
+G09_Kombo Kerewan_2,G_Kombo Kerewan@Kombo Kerewan,GSM_cell_relation
+G09_Kombo Kerewan_3,G09_Basori_2,GSM_cell_relation
+G09_Kombo Kerewan_3,G_Kombo Kerewan@Kombo Kerewan,GSM_cell_relation
+G09_Mandinari_1,G09_Basori_2,GSM_cell_relation
+G09_Mandinari_1,G_Kombo Kerewan@Kombo Kerewan,GSM_cell_relation
+G09_Mandinari_2,G09_Basori_2,GSM_cell_relation
+G09_Mandinari_2,G_Kombo Kerewan@Kombo Kerewan,GSM_cell_relation
+G09_Kubariko_3,G09_Basori_2,GSM_cell_relation
+G09_Kubariko_3,G_Kombo Kerewan@Kombo Kerewan,GSM_cell_relation
+G09_Brikama Cow_3,G09_Basori_2,GSM_cell_relation
+G09_Brikama Cow_3,G_Kombo Kerewan@Kombo Kerewan,GSM_cell_relation
+G09_Brikama Cow_1,G09_Basori_2,GSM_cell_relation
+G09_Brikama Cow_1,G_Kombo Kerewan@Kombo Kerewan,GSM_cell_relation
+G09_Brikama Cow_2,G09_Basori_2,GSM_cell_relation
+G09_Brikama Cow_2,G_Kombo Kerewan@Kombo Kerewan,GSM_cell_relation
+G09_Kubariko_1,G09_Basori_3,GSM_cell_relation
+G09_Kubariko_1,G_Sanyang@Sanyang,GSM_cell_relation
+G09_Kubariko_2,G09_Basori_3,GSM_cell_relation
+G09_Kubariko_2,G_Sanyang@Sanyang,GSM_cell_relation
+G09_Kombo Kerewan_1,G09_Basori_3,GSM_cell_relation
+G09_Kombo Kerewan_1,G_Sanyang@Sanyang,GSM_cell_relation
+G09_Kombo Kerewan_2,G09_Basori_3,GSM_cell_relation
+G09_Kombo Kerewan_2,G_Sanyang@Sanyang,GSM_cell_relation
+G09_Kombo Kerewan_3,G09_Basori_3,GSM_cell_relation
+G09_Kombo Kerewan_3,G_Sanyang@Sanyang,GSM_cell_relation
+G09_Mandinari_1,G09_Basori_3,GSM_cell_relation
+G09_Mandinari_1,G_Sanyang@Sanyang,GSM_cell_relation
+G09_Mandinari_2,G09_Basori_3,GSM_cell_relation
+G09_Mandinari_2,G_Sanyang@Sanyang,GSM_cell_relation
+G09_Mandinari_3,G09_Basori_3,GSM_cell_relation
+G09_Mandinari_3,G_Sanyang@Sanyang,GSM_cell_relation
+G09_Kubariko_3,G09_Basori_3,GSM_cell_relation
+G09_Kubariko_3,G_Sanyang@Sanyang,GSM_cell_relation
+G09_Brikama II_1,G09_Basori_3,GSM_cell_relation
+G09_Brikama II_1,G_Sanyang@Sanyang,GSM_cell_relation
+G09_Brikama Cow_1,G09_Kabafita_2,GSM_cell_relation
+G09_Brikama Cow_1,G09_Kabafita_3,GSM_cell_relation
+G09_Brikama Cow_1,G09_Farato-Paradise City_2,GSM_cell_relation
+G09_Brikama Cow_2,G09_Farato-Paradise City_2,GSM_cell_relation
+G09_Kabafita_2,G09_Brikama Cow_1,GSM_cell_relation
+G09_Kabafita_3,G09_Brikama Cow_1,GSM_cell_relation
+G09_Farato-Paradise City_2,G09_Brikama Cow_1,GSM_cell_relation
+G09_Farato-Paradise City_2,G09_Brikama Cow_2,GSM_cell_relation
+G09_Brikama UTG_1,G09_Brikama Cow_3,GSM_cell_relation
+G09_Brikama Cow_3,G09_Brikama UTG_1,GSM_cell_relation
+G09_Arab Islamic Bank_1,G09_SOS_3,GSM_cell_relation
+G09_Arab Islamic Bank_1,G_GTMI@GTMI,GSM_cell_relation
+G_Fatoto@Fatoto,G09_SOS_3,GSM_cell_relation
+G_Fatoto@Fatoto,G_GTMI@GTMI,GSM_cell_relation
+G09_Brikama Cow_3,G09_Kabafita_3,GSM_cell_relation
+G09_Kabafita_3,G09_Brikama Cow_3,GSM_cell_relation
+G09_Brikama Cow_1,G09_Farato-Paradise City_1,GSM_cell_relation
+G09_Brikama Cow_1,G09_Brikama UTG_1,GSM_cell_relation
+G09_Brikama Cow_1,G09_Brikama UTG_3,GSM_cell_relation
+G09_Brikama Cow_1,G09_Kabafita_1,GSM_cell_relation
+G09_Brikama Cow_2,G09_Kabafita_3,GSM_cell_relation
+G09_Brikama Cow_2,G09_Brikama UTG_1,GSM_cell_relation
+G09_Brikama Cow_2,G09_Brikama UTG_3,GSM_cell_relation
+G09_Brikama Cow_2,G09_Kabafita_1,GSM_cell_relation
+G09_Brikama Cow_2,G09_Kabafita_2,GSM_cell_relation
+G09_Brikama Cow_3,G09_Farato-Paradise City_1,GSM_cell_relation
+G09_Brikama Cow_3,G09_Kabafita_1,GSM_cell_relation
+G09_Future Lecce_3,G09_Somo Bldg_3,GSM_cell_relation
+G_Serra Kunda Mkt Bldg@Serra Kunda Mkt Bldg,G09_Somo Bldg_3,GSM_cell_relation
+G09_Ebo Town_1,G09_Nema Kunku_2,GSM_cell_relation
+G09_Ebo Town_3,G09_Nema Kunku_2,GSM_cell_relation
+G09_Ebo Town_3,G09_Earth Station_3,GSM_cell_relation
+G09_Ebo Town_3,G_New Jeshwang@New Jeshwang,GSM_cell_relation
+G09_New Jeshwang_3,G09_Soul Samba Street_1,GSM_cell_relation
+G09_Nemasu_1,G09_Arab Islamic Bank_1,GSM_cell_relation
+G09_Nemasu_1,G_Fatoto@Fatoto,GSM_cell_relation
+G_Califonia@Califonia,G09_Arab Islamic Bank_1,GSM_cell_relation
+G_Califonia@Califonia,G_Fatoto@Fatoto,GSM_cell_relation
+G09_Saad Raslan_1,G09_White House_2,GSM_cell_relation
+G_Banjulinding@Banjulinding,G09_White House_2,GSM_cell_relation
+G09_Soul Samba Street_1,G09_New Jeshwang_3,GSM_cell_relation
+G09_SOS_3,G09_Arab Islamic Bank_1,GSM_cell_relation
+G09_SOS_3,G_Fatoto@Fatoto,GSM_cell_relation
+G_GTMI@GTMI,G09_Arab Islamic Bank_1,GSM_cell_relation
+G_GTMI@GTMI,G_Fatoto@Fatoto,GSM_cell_relation
+G09_Farato-Paradise City_1,G09_Brikama Cow_1,GSM_cell_relation
+G09_Brikama UTG_1,G09_Brikama Cow_1,GSM_cell_relation
+G09_Brikama UTG_3,G09_Brikama Cow_1,GSM_cell_relation
+G09_Kabafita_1,G09_Brikama Cow_1,GSM_cell_relation
+G09_Kabafita_2,G09_Brikama Cow_2,GSM_cell_relation
+G09_Kabafita_3,G09_Brikama Cow_2,GSM_cell_relation
+G09_Farato-Paradise City_1,G09_Brikama Cow_2,GSM_cell_relation
+G09_Brikama UTG_1,G09_Brikama Cow_2,GSM_cell_relation
+G09_Brikama UTG_3,G09_Brikama Cow_2,GSM_cell_relation
+G09_Kabafita_1,G09_Brikama Cow_3,GSM_cell_relation
+G09_Kabafita_1,G09_Brikama Cow_2,GSM_cell_relation
+G09_Nema Kunku_2,G09_Ebo Town_1,GSM_cell_relation
+G09_Arab Islamic Bank_1,G09_Nemasu_1,GSM_cell_relation
+G09_Arab Islamic Bank_1,G_Califonia@Califonia,GSM_cell_relation
+G_Fatoto@Fatoto,G09_Nemasu_1,GSM_cell_relation
+G_Fatoto@Fatoto,G_Califonia@Califonia,GSM_cell_relation
+G09_Soul Samba Street_1,G09_Somo Bldg_2,GSM_cell_relation
+G09_Soul Samba Street_1,G_Test@Test,GSM_cell_relation
+G09_Soul Samba Street_3,G09_Somo Bldg_3,GSM_cell_relation
+G09_Bundung_2,G09_Soul Samba Street_1,GSM_cell_relation
+G09_Arab Islamic Bank_3,G09_Denton Bridge_1,GSM_cell_relation
+G_George Town@George Town,G09_Denton Bridge_1,GSM_cell_relation
+G09_Arab Islamic Bank_2,G09_Denton Bridge_2,GSM_cell_relation
+G_Gamtel Bakau@Gamtel Bakau,G09_Denton Bridge_2,GSM_cell_relation
+G09_Brikama Cow_3,G09_Busumbala_2,GSM_cell_relation
+G09_Brikama Cow_2,G09_Busumbala_3,GSM_cell_relation
+G09_Earth Station_2,G09_Arab Islamic Bank_3,GSM_cell_relation
+G09_Earth Station_2,G_George Town@George Town,GSM_cell_relation
+G_Faji Kunda@Faji Kunda,G09_Arab Islamic Bank_3,GSM_cell_relation
+G_Faji Kunda@Faji Kunda,G_George Town@George Town,GSM_cell_relation
+G09_Somo Bldg_3,G09_Future Lecce_3,GSM_cell_relation
+G09_Somo Bldg_3,G_Serra Kunda Mkt Bldg@Serra Kunda Mkt Bldg,GSM_cell_relation
+G09_Nema Kunku_2,G09_Ebo Town_3,GSM_cell_relation
+G09_Earth Station_3,G09_Ebo Town_3,GSM_cell_relation
+G_New Jeshwang@New Jeshwang,G09_Ebo Town_3,GSM_cell_relation
+G09_Somo Bldg_2,G09_Soul Samba Street_1,GSM_cell_relation
+G_Test@Test,G09_Soul Samba Street_1,GSM_cell_relation
+G09_Soul Samba Street_1,G09_Bundung_2,GSM_cell_relation
+G09_Busumbala_2,G09_Brikama Cow_3,GSM_cell_relation
+G09_Denton Bridge_2,G09_Arab Islamic Bank_2,GSM_cell_relation
+G09_Denton Bridge_2,G_Gamtel Bakau@Gamtel Bakau,GSM_cell_relation
+G09_Denton Bridge_1,G09_Arab Islamic Bank_3,GSM_cell_relation
+G09_Denton Bridge_1,G_George Town@George Town,GSM_cell_relation
+G09_Busumbala_3,G09_Brikama Cow_2,GSM_cell_relation
+G09_Arab Islamic Bank_3,G09_Earth Station_2,GSM_cell_relation
+G09_Arab Islamic Bank_3,G_Faji Kunda@Faji Kunda,GSM_cell_relation
+G_George Town@George Town,G09_Earth Station_2,GSM_cell_relation
+G_George Town@George Town,G_Faji Kunda@Faji Kunda,GSM_cell_relation
+G09_Farato_1,G09_Farato_2,GSM_cell_relation
+G09_Farato_2,G09_Farato_1,GSM_cell_relation
+G09_Farato_3,G09_Farato_1,GSM_cell_relation
+G09_Farato_3,G09_Farato_2,GSM_cell_relation
+G09_Farato_1,G09_Farato_3,GSM_cell_relation
+G09_Farato_2,G09_Farato_3,GSM_cell_relation
+G09_Brikama Newtown_2,G09_Brikama Newtown_1,GSM_cell_relation
+G09_Brikama Newtown_1,G09_Brikama Newtown_2,GSM_cell_relation
+G09_Brikama Newtown_1,G09_Brikama Newtown_3,GSM_cell_relation
+G09_Brikama Newtown_2,G09_Brikama Newtown_3,GSM_cell_relation
+G09_Brikama Newtown_3,G09_Brikama Newtown_1,GSM_cell_relation
+G09_Brikama Newtown_3,G09_Brikama Newtown_2,GSM_cell_relation
+G09_Brikama Cow_1,G09_Brikama Medina_1,GSM_cell_relation
+G09_Ebo Town_3,G09_Gamtel Bakau_1,GSM_cell_relation
+G09_Ebo Town_3,G_Marakissa@Marakissa,GSM_cell_relation
+G09_Ebo Town_3,G09_Gamtel Bakau_2,GSM_cell_relation
+G09_Ebo Town_3,G_Ebo Town@Ebo Town,GSM_cell_relation
+G09_Ebo Town_3,G09_Nemasu_1,GSM_cell_relation
+G09_Ebo Town_3,G_Califonia@Califonia,GSM_cell_relation
+G09_Ebo Town_3,G09_Soul Samba Street_2,GSM_cell_relation
+G09_Arab Islamic Bank_1,G09_Sukuta_2,GSM_cell_relation
+G_Fatoto@Fatoto,G09_Sukuta_2,GSM_cell_relation
+G09_Brikama Cow_3,G09_Farato-Paradise City_2,GSM_cell_relation
+G09_Brikama Cow_3,G09_Farato-Paradise City_3,GSM_cell_relation
+G09_Gamtel Bakau_1,G09_Future Lecce_2,GSM_cell_relation
+G09_Gamtel Bakau_1,G_Banjul Tower@Banjul Tower,GSM_cell_relation
+G_Marakissa@Marakissa,G09_Future Lecce_2,GSM_cell_relation
+G_Marakissa@Marakissa,G_Banjul Tower@Banjul Tower,GSM_cell_relation
+G09_Sukuta_2,G09_Arab Islamic Bank_1,GSM_cell_relation
+G09_Sukuta_2,G_Fatoto@Fatoto,GSM_cell_relation
+G09_Farato-Paradise City_2,G09_Brikama Cow_3,GSM_cell_relation
+G09_Farato-Paradise City_3,G09_Brikama Cow_3,GSM_cell_relation
+G09_Soul Samba Street_2,G09_Ebo Town_3,GSM_cell_relation
+G09_Gamtel Bakau_2,G09_Ebo Town_3,GSM_cell_relation
+G_Ebo Town@Ebo Town,G09_Ebo Town_3,GSM_cell_relation
+G09_Brikama Medina_1,G09_Brikama Cow_1,GSM_cell_relation
+G09_Jambur_2,G09_Farato_3,GSM_cell_relation
+G_Somita@Somita,G09_Farato_3,GSM_cell_relation
+G09_Farato_3,G09_Jambur_2,GSM_cell_relation
+G09_Farato_3,G_Somita@Somita,GSM_cell_relation
+G09_Future Lecce_2,G09_Gamtel Bakau_1,GSM_cell_relation
+G09_Future Lecce_2,G_Marakissa@Marakissa,GSM_cell_relation
+G_Banjul Tower@Banjul Tower,G09_Gamtel Bakau_1,GSM_cell_relation
+G_Banjul Tower@Banjul Tower,G_Marakissa@Marakissa,GSM_cell_relation
+G09_Essau_3,G09_Gamstar_1,GSM_cell_relation
+G09_Essau_3,G_White House@White House,GSM_cell_relation
+G09_Denton Bridge_1,G09_Gamstar_2,GSM_cell_relation
+G09_Denton Bridge_1,G_Ndugu Kebbeh@Ndugu Kebbeh,GSM_cell_relation
+G09_Gamstar_1,G09_Essau_3,GSM_cell_relation
+G_White House@White House,G09_Essau_3,GSM_cell_relation
+G09_Gamstar_2,G09_Denton Bridge_1,GSM_cell_relation
+G_Ndugu Kebbeh@Ndugu Kebbeh,G09_Denton Bridge_1,GSM_cell_relation
+G09_Brusubi_3,G09_Tabokoto_2,GSM_cell_relation
+G09_Brikama Cow_3,G09_Busumbala_3,GSM_cell_relation
+G09_Brikama Cow_1,G09_Busumbala_3,GSM_cell_relation
+G09_Earth Station_2,G09_Serra kunda mkt bldg_3,GSM_cell_relation
+G09_Earth Station_2,G_Lamin Sateyba@Lamin Sateyba,GSM_cell_relation
+G_Faji Kunda@Faji Kunda,G09_Serra kunda mkt bldg_3,GSM_cell_relation
+G_Faji Kunda@Faji Kunda,G_Lamin Sateyba@Lamin Sateyba,GSM_cell_relation
+G09_Earth Station_2,G09_Sukuta_3,GSM_cell_relation
+G_Faji Kunda@Faji Kunda,G09_Sukuta_3,GSM_cell_relation
+G09_Gamtel Bakau_1,G09_New Jeshwang_3,GSM_cell_relation
+G_Marakissa@Marakissa,G09_New Jeshwang_3,GSM_cell_relation
+G09_Denton Bridge_2,G09_HQ_3,GSM_cell_relation
+G09_Jabang Estate_3,G09_Sinchubaliya_2,GSM_cell_relation
+G09_Jabang Estate_3,G_Allunghari@Allunghari,GSM_cell_relation
+G09_Gamtel Bakau_3,G09_New Jeshwang_3,GSM_cell_relation
+G_Bakadagi@Bakadagi,G09_New Jeshwang_3,GSM_cell_relation
+G09_Nema Kunku_2,G09_Arab Islamic Bank_1,GSM_cell_relation
+G09_Nema Kunku_2,G_Fatoto@Fatoto,GSM_cell_relation
+G09_SOS_2,G09_Gamtel Bakau_3,GSM_cell_relation
+G09_SOS_2,G_Bakadagi@Bakadagi,GSM_cell_relation
+G_Bakau Newtown@Bakau Newtown,G09_Gamtel Bakau_3,GSM_cell_relation
+G_Bakau Newtown@Bakau Newtown,G_Bakadagi@Bakadagi,GSM_cell_relation
+G09_Soul Samba Street_3,G09_Somo Bldg_2,GSM_cell_relation
+G09_Soul Samba Street_3,G_Test@Test,GSM_cell_relation
+G09_Senegambia_1,G09_Soul Samba Street_1,GSM_cell_relation
+G_HQ@HQ,G09_Soul Samba Street_1,GSM_cell_relation
+G09_Tabokoto_2,G09_Brusubi_3,GSM_cell_relation
+G09_Busumbala_3,G09_Brikama Cow_3,GSM_cell_relation
+G09_Busumbala_3,G09_Brikama Cow_1,GSM_cell_relation
+G09_Gamtel Bakau_3,G09_SOS_2,GSM_cell_relation
+G09_Gamtel Bakau_3,G_Bakau Newtown@Bakau Newtown,GSM_cell_relation
+G_Bakadagi@Bakadagi,G09_SOS_2,GSM_cell_relation
+G_Bakadagi@Bakadagi,G_Bakau Newtown@Bakau Newtown,GSM_cell_relation
+G09_Sinchubaliya_2,G09_Jabang Estate_3,GSM_cell_relation
+G_Allunghari@Allunghari,G09_Jabang Estate_3,GSM_cell_relation
+G09_Arab Islamic Bank_1,G09_Nema Kunku_2,GSM_cell_relation
+G_Fatoto@Fatoto,G09_Nema Kunku_2,GSM_cell_relation
+G09_New Jeshwang_3,G09_Gamtel Bakau_1,GSM_cell_relation
+G09_New Jeshwang_3,G_Marakissa@Marakissa,GSM_cell_relation
+G09_New Jeshwang_3,G09_Gamtel Bakau_3,GSM_cell_relation
+G09_New Jeshwang_3,G_Bakadagi@Bakadagi,GSM_cell_relation
+G09_Soul Samba Street_1,G09_Senegambia_1,GSM_cell_relation
+G09_Soul Samba Street_1,G_HQ@HQ,GSM_cell_relation
+G09_Tendaba Camp_1,G09_Illiassa_1,GSM_cell_relation
+G09_Tendaba Camp_1,G09_Illiassa_2,GSM_cell_relation
+G09_Tendaba Camp_1,G09_Illiassa_3,GSM_cell_relation
+G09_Tendaba Camp_2,G09_Tendaba Camp_1,GSM_cell_relation
+G09_Tendaba Camp_1,G09_Tendaba Camp_2,GSM_cell_relation
+G09_Tendaba Camp_1,G09_Kwenilla_1,GSM_cell_relation
+G09_Tendaba Camp_1,G_Farato@Farato,GSM_cell_relation
+G09_Tendaba Camp_1,G09_Kwenilla_2,GSM_cell_relation
+G09_Tendaba Camp_1,G_Tendaba Camp,GSM_cell_relation
+G09_Tendaba Camp_1,G09_Kaiaf_3,GSM_cell_relation
+G09_Tendaba Camp_1,G_Bwiam@Bwiam,GSM_cell_relation
+G09_Tendaba Camp_1,G09_Kaiaf_1,GSM_cell_relation
+G09_Tendaba Camp_1,G_Saad Raslan@Saad Raslan,GSM_cell_relation
+G09_Tendaba Camp_1,G09_Kaiaf_2,GSM_cell_relation
+G09_Tendaba Camp_1,G_Bajakunda@Baja Kunda,GSM_cell_relation
+G09_Tendaba Camp_1,G09_Kwenilla_3,GSM_cell_relation
+G09_Tendaba Camp_1,G_Jambajelli@Jambajelli,GSM_cell_relation
+G09_Tendaba Camp_1,G09_Minteh Kunda_1,GSM_cell_relation
+G09_Tendaba Camp_1,G_Sukuta 2@Sukuta 2,GSM_cell_relation
+G09_Tendaba Camp_1,G09_Minteh Kunda_2,GSM_cell_relation
+G09_Tendaba Camp_1,G_Jalambang@Jalambang,GSM_cell_relation
+G09_Tendaba Camp_1,G09_Minteh Kunda_3,GSM_cell_relation
+G09_Tendaba Camp_1,G_Jabang@Jabang,GSM_cell_relation
+G09_Tendaba Camp_2,G09_Illiassa_1,GSM_cell_relation
+G09_Tendaba Camp_2,G09_Kaiaf_1,GSM_cell_relation
+G09_Tendaba Camp_2,G_Saad Raslan@Saad Raslan,GSM_cell_relation
+G09_Tendaba Camp_2,G09_Kwenilla_1,GSM_cell_relation
+G09_Tendaba Camp_2,G_Farato@Farato,GSM_cell_relation
+G09_Tendaba Camp_2,G09_Kwenilla_2,GSM_cell_relation
+G09_Tendaba Camp_2,G_Tendaba Camp,GSM_cell_relation
+G09_Tendaba Camp_2,G09_Kwenilla_3,GSM_cell_relation
+G09_Tendaba Camp_2,G_Jambajelli@Jambajelli,GSM_cell_relation
+G09_Tendaba Camp_2,G09_Kaiaf_3,GSM_cell_relation
+G09_Tendaba Camp_2,G_Bwiam@Bwiam,GSM_cell_relation
+G09_Tendaba Camp_2,G09_Kaiaf_2,GSM_cell_relation
+G09_Tendaba Camp_2,G_Bajakunda@Baja Kunda,GSM_cell_relation
+G09_Tendaba Camp_2,G09_Minteh Kunda_1,GSM_cell_relation
+G09_Tendaba Camp_2,G_Sukuta 2@Sukuta 2,GSM_cell_relation
+G09_Tendaba Camp_2,G09_Minteh Kunda_2,GSM_cell_relation
+G09_Tendaba Camp_2,G_Jalambang@Jalambang,GSM_cell_relation
+G09_Tendaba Camp_2,G09_Minteh Kunda_3,GSM_cell_relation
+G09_Tendaba Camp_2,G_Jabang@Jabang,GSM_cell_relation
+G09_Kaiaf_3,G09_Tendaba Camp_1,GSM_cell_relation
+G_Bwiam@Bwiam,G09_Tendaba Camp_1,GSM_cell_relation
+G09_Illiassa_1,G09_Tendaba Camp_1,GSM_cell_relation
+G09_Illiassa_2,G09_Tendaba Camp_1,GSM_cell_relation
+G09_Illiassa_3,G09_Tendaba Camp_1,GSM_cell_relation
+G09_Kaiaf_1,G09_Tendaba Camp_1,GSM_cell_relation
+G_Saad Raslan@Saad Raslan,G09_Tendaba Camp_1,GSM_cell_relation
+G09_Kaiaf_2,G09_Tendaba Camp_1,GSM_cell_relation
+G_Bajakunda@Baja Kunda,G09_Tendaba Camp_1,GSM_cell_relation
+G09_Kwenilla_1,G09_Tendaba Camp_1,GSM_cell_relation
+G09_Yuna_3,G09_Yuna_2,GSM_cell_relation
+G_Farato@Farato,G09_Tendaba Camp_1,GSM_cell_relation
+G09_Kwenilla_2,G09_Tendaba Camp_1,GSM_cell_relation

@@ -1,0 +1,5 @@
+NE Name,fdn,IPADDR,MOIndex,SN,SRN,className,name,neID
+FTBSC02,"NE=280,ETHIP=0_0_22_1",10.181.0.6,26_1_22_0_0,22,1,BSC6900GSMETHIP,"IP address index=0, Port No.=0, Slot No.=22, Subrack No.=1",26
+FTBSC02,"NE=280,ETHIP=0_2_22_0",10.18.1.12,26_0_22_2_0,22,0,BSC6900GSMETHIP,"IP address index=0, Port No.=2, Slot No.=22, Subrack No.=0",26
+FTBSC02,"NE=280,ETHIP=0_0_24_1",10.18.1.44,26_1_24_0_0,24,1,BSC6900GSMETHIP,"IP address index=0, Port No.=0, Slot No.=24, Subrack No.=1",26
+FTBSC02,"NE=280,ETHIP=0_1_24_1",10.24.0.12,26_1_24_1_0,24,1,BSC6900GSMETHIP,"IP address index=0, Port No.=1, Slot No.=24, Subrack No.=1",26

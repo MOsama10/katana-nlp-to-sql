@@ -1,0 +1,3 @@
+NE Name,fdn,MOIndex,className,name,neID
+3G_ALKALIA,"NE=1346,GTPU=only",1102,BTS3900GTPU,GPRS Tunneling Protocol-User Plane Parameters,1102
+3G_ADAMSTREET,"NE=1071,GTPU=only",827,BTS3900GTPU,GPRS Tunneling Protocol-User Plane Parameters,827

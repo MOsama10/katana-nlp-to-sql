@@ -1,0 +1,1001 @@
+object_attribute_name,vendor_name
+Bearing Port Type,huawei
+Operator Name,huawei
+Cabinet No.,huawei
+S1Interface ID,huawei
+NodeB Function Name,huawei
+DestObjLabel,huawei
+Cell FDD TDD indication,huawei
+SGSN Node ID,huawei
+Cell Name,huawei
+CNNAME,huawei
+Cell ID,huawei
+UL BB Resource Group No.,huawei
+CNINDEX,huawei
+eNodeB Function Name,huawei
+FTBSC02,huawei
+SLC,huawei
+Local NSVL Indentifier,huawei
+RNC cell ID,huawei
+Port Slot No.,huawei
+Link No.,huawei
+NODE,huawei
+OspIndex,huawei
+BT,huawei
+NODEBID,huawei
+CNNodeID,huawei
+SCTPLNKN,huawei
+ROGBIN,huawei
+Port No.,huawei
+eNodeB ID,huawei
+CellIndex,huawei
+Port Subrack No.,huawei
+DPX,huawei
+Logic No.,huawei
+Trunk No.,huawei
+Node Id,huawei
+LABEL,huawei
+RNC ID,huawei
+ANI,huawei
+INDEX,huawei
+Label,huawei
+Bearing Port No.,huawei
+CNOPINDEX,huawei
+BTS Index,huawei
+SCTP link No.,huawei
+Signalling link set index,huawei
+CN Node Index,huawei
+DENO,huawei
+Mobile country code,huawei
+Adjacent Node ID,huawei
+RNCID,huawei
+Subrack No.,huawei
+Session ID,huawei
+Local cell ID,huawei
+Path ID,huawei
+GERAN cell ID,huawei
+Local IP Address,huawei
+Local cell name,huawei
+Subboard Type,huawei
+Mobile network code,huawei
+Sector Equipment ID,huawei
+eNodeB ID Configured with Sector Equipment,huawei
+SRN,huawei
+Bearing Type,huawei
+DestObjType,huawei
+Subrack No,huawei
+SCTP Link ID,huawei
+BSC ID,huawei
+Signaling link ID,huawei
+Local eNodeB ID,huawei
+DPC Group index,huawei
+NodeB Name,huawei
+Bearer Type,huawei
+Standby Status,huawei
+Board Type,huawei
+Port Cabinet No.,huawei
+Sector equipment ID,huawei
+Resource Group ID,huawei
+Subsystem No.,huawei
+TOMBODU,huawei
+CGI,huawei
+BTS Name,huawei
+LKS,huawei
+SN,huawei
+IP Address Type,huawei
+Slot No.,huawei
+X2Interface ID,huawei
+SSN,huawei
+Location area code,huawei
+GPS Clock No.,huawei
+CellID,huawei
+FTBSC01,huawei
+SIGLKSX,huawei
+Local Cell ID,huawei
+PN,huawei
+Bearing Port Type,huawei
+Operator Name,huawei
+Cabinet No.,huawei
+S1Interface ID,huawei
+NodeB Function Name,huawei
+DestObjLabel,huawei
+Cell FDD TDD indication,huawei
+SGSN Node ID,huawei
+Cell Name,huawei
+CNNAME,huawei
+Cell ID,huawei
+UL BB Resource Group No.,huawei
+CNINDEX,huawei
+APEQM,nokia
+eNodeB Function Name,huawei
+CABINET,nokia
+FTBSC02,huawei
+CLOCK,nokia
+RMOD,nokia
+SLC,huawei
+MNLENT,nokia
+Local NSVL Indentifier,huawei
+ETHIF,nokia
+RNC cell ID,huawei
+ANTL,nokia
+Port Slot No.,huawei
+IPVOL,nokia
+Link No.,huawei
+ECI,nokia
+NODE,huawei
+SFP,nokia
+OspIndex,huawei
+UARFCN,nokia
+BT,huawei
+LNMME,nokia
+NODEBID,huawei
+LTAC,nokia
+VLANIF,nokia
+CNNodeID,huawei
+SCTPLNKN,huawei
+TNL,nokia
+ROGBIN,huawei
+TNLSVC,nokia
+Port No.,huawei
+eNodeB ID,huawei
+BRGPRT,nokia
+CellIndex,huawei
+CMCC,nokia
+Port Subrack No.,huawei
+HOT,nokia
+DPX,huawei
+MRBTS,nokia
+Logic No.,huawei
+Trunk No.,huawei
+TOP,nokia
+Node Id,huawei
+LNADJ,nokia
+LABEL,huawei
+FSTSCH,nokia
+RNC ID,huawei
+SYNC,nokia
+ANI,huawei
+TOPF,nokia
+INDEX,huawei
+Label,huawei
+TAC,nokia
+Bearing Port No.,huawei
+EQM,nokia
+CNOPINDEX,huawei
+ETHSVC,nokia
+BTS Index,huawei
+IPADDRESSV4,nokia
+SCTP link No.,huawei
+Signalling link set index,huawei
+CN Node Index,huawei
+DENO,huawei
+Mobile country code,huawei
+Adjacent Node ID,huawei
+RNCID,huawei
+Subrack No.,huawei
+Session ID,huawei
+Local cell ID,huawei
+Path ID,huawei
+GERAN cell ID,huawei
+Local IP Address,huawei
+Local cell name,huawei
+Subboard Type,huawei
+Mobile network code,huawei
+Sector Equipment ID,huawei
+eNodeB ID Configured with Sector Equipment,huawei
+SRN,huawei
+Bearing Type,huawei
+DestObjType,huawei
+Subrack No,huawei
+SCTP Link ID,huawei
+BSC ID,huawei
+Signaling link ID,huawei
+Local eNodeB ID,huawei
+DPC Group index,huawei
+NodeB Name,huawei
+Bearer Type,huawei
+Standby Status,huawei
+Board Type,huawei
+Port Cabinet No.,huawei
+Sector equipment ID,huawei
+Resource Group ID,huawei
+Subsystem No.,huawei
+TOMBODU,huawei
+CGI,huawei
+BTS Name,huawei
+LKS,huawei
+SN,huawei
+IP Address Type,huawei
+Slot No.,huawei
+X2Interface ID,huawei
+SSN,huawei
+Location area code,huawei
+GPS Clock No.,huawei
+CellID,huawei
+FTBSC01,huawei
+SIGLKSX,huawei
+Local Cell ID,huawei
+PN,huawei
+APEQM,nokia
+CABINET,nokia
+CLOCK,nokia
+RMOD,nokia
+MNLENT,nokia
+ETHIF,nokia
+ANTL,nokia
+IPVOL,nokia
+ECI,nokia
+SFP,nokia
+UARFCN,nokia
+LNMME,nokia
+LTAC,nokia
+VLANIF,nokia
+TNL,nokia
+TNLSVC,nokia
+BRGPRT,nokia
+CMCC,nokia
+HOT,nokia
+MRBTS,nokia
+TOP,nokia
+LNADJ,nokia
+FSTSCH,nokia
+SYNC,nokia
+TOPF,nokia
+TAC,nokia
+EQM,nokia
+ETHSVC,nokia
+IPADDRESSV4,nokia
+L2SWI,nokia
+IPIF,nokia
+EARFCN,nokia
+ETHLK,nokia
+MNC,nokia
+LNCEL,nokia
+SMOD,nokia
+MNL,nokia
+MCC,nokia
+LNBTS,nokia
+CMNC,nokia
+IPNO,nokia
+QOS,nokia
+TCID,nokia
+SubNetwork,ericsson
+ManagedElement,ericsson
+Aich,ericsson
+NodeBFunction,ericsson
+MeContext,ericsson
+Carrier,ericsson
+Sector,ericsson
+Bearing Port Type,huawei
+Operator Name,huawei
+Cabinet No.,huawei
+S1Interface ID,huawei
+NodeB Function Name,huawei
+DestObjLabel,huawei
+Cell FDD TDD indication,huawei
+SGSN Node ID,huawei
+Cell Name,huawei
+CNNAME,huawei
+Cell ID,huawei
+UL BB Resource Group No.,huawei
+CNINDEX,huawei
+eNodeB Function Name,huawei
+FTBSC02,huawei
+SLC,huawei
+Local NSVL Indentifier,huawei
+RNC cell ID,huawei
+Port Slot No.,huawei
+Link No.,huawei
+NODE,huawei
+OspIndex,huawei
+BT,huawei
+NODEBID,huawei
+CNNodeID,huawei
+SCTPLNKN,huawei
+ROGBIN,huawei
+Port No.,huawei
+eNodeB ID,huawei
+CellIndex,huawei
+Port Subrack No.,huawei
+DPX,huawei
+Logic No.,huawei
+Trunk No.,huawei
+Node Id,huawei
+LABEL,huawei
+RNC ID,huawei
+ANI,huawei
+INDEX,huawei
+Label,huawei
+Bearing Port No.,huawei
+CNOPINDEX,huawei
+BTS Index,huawei
+SCTP link No.,huawei
+Signalling link set index,huawei
+CN Node Index,huawei
+DENO,huawei
+Mobile country code,huawei
+Adjacent Node ID,huawei
+RNCID,huawei
+Subrack No.,huawei
+Session ID,huawei
+Local cell ID,huawei
+Path ID,huawei
+GERAN cell ID,huawei
+Local IP Address,huawei
+Local cell name,huawei
+Subboard Type,huawei
+Mobile network code,huawei
+Sector Equipment ID,huawei
+eNodeB ID Configured with Sector Equipment,huawei
+SRN,huawei
+Bearing Type,huawei
+DestObjType,huawei
+Bearing Port Type,huawei
+Operator Name,huawei
+Cabinet No.,huawei
+S1Interface ID,huawei
+NodeB Function Name,huawei
+DestObjLabel,huawei
+Cell FDD TDD indication,huawei
+SGSN Node ID,huawei
+Cell Name,huawei
+CNNAME,huawei
+Cell ID,huawei
+UL BB Resource Group No.,huawei
+CNINDEX,huawei
+eNodeB Function Name,huawei
+FTBSC02,huawei
+SLC,huawei
+Local NSVL Indentifier,huawei
+RNC cell ID,huawei
+Port Slot No.,huawei
+Link No.,huawei
+NODE,huawei
+OspIndex,huawei
+BT,huawei
+NODEBID,huawei
+CNNodeID,huawei
+SCTPLNKN,huawei
+ROGBIN,huawei
+Port No.,huawei
+eNodeB ID,huawei
+CellIndex,huawei
+Port Subrack No.,huawei
+DPX,huawei
+Logic No.,huawei
+Trunk No.,huawei
+Node Id,huawei
+LABEL,huawei
+RNC ID,huawei
+ANI,huawei
+INDEX,huawei
+Label,huawei
+Bearing Port No.,huawei
+CNOPINDEX,huawei
+BTS Index,huawei
+SCTP link No.,huawei
+Signalling link set index,huawei
+CN Node Index,huawei
+DENO,huawei
+Mobile country code,huawei
+Adjacent Node ID,huawei
+RNCID,huawei
+Subrack No.,huawei
+Session ID,huawei
+Local cell ID,huawei
+Path ID,huawei
+GERAN cell ID,huawei
+Local IP Address,huawei
+Local cell name,huawei
+Subboard Type,huawei
+Mobile network code,huawei
+Sector Equipment ID,huawei
+eNodeB ID Configured with Sector Equipment,huawei
+SRN,huawei
+Bearing Type,huawei
+DestObjType,huawei
+Subrack No,huawei
+SCTP Link ID,huawei
+BSC ID,huawei
+Signaling link ID,huawei
+Local eNodeB ID,huawei
+DPC Group index,huawei
+NodeB Name,huawei
+Bearer Type,huawei
+Standby Status,huawei
+Board Type,huawei
+Port Cabinet No.,huawei
+Sector equipment ID,huawei
+Resource Group ID,huawei
+Subsystem No.,huawei
+TOMBODU,huawei
+CGI,huawei
+BTS Name,huawei
+LKS,huawei
+SN,huawei
+IP Address Type,huawei
+Slot No.,huawei
+X2Interface ID,huawei
+SSN,huawei
+Location area code,huawei
+GPS Clock No.,huawei
+CellID,huawei
+FTBSC01,huawei
+SIGLKSX,huawei
+Local Cell ID,huawei
+PN,huawei
+APEQM,nokia
+CABINET,nokia
+CLOCK,nokia
+RMOD,nokia
+MNLENT,nokia
+ETHIF,nokia
+ANTL,nokia
+IPVOL,nokia
+ECI,nokia
+SFP,nokia
+UARFCN,nokia
+LNMME,nokia
+LTAC,nokia
+VLANIF,nokia
+TNL,nokia
+TNLSVC,nokia
+BRGPRT,nokia
+CMCC,nokia
+HOT,nokia
+MRBTS,nokia
+TOP,nokia
+LNADJ,nokia
+FSTSCH,nokia
+SYNC,nokia
+TOPF,nokia
+TAC,nokia
+EQM,nokia
+ETHSVC,nokia
+IPADDRESSV4,nokia
+L2SWI,nokia
+IPIF,nokia
+EARFCN,nokia
+ETHLK,nokia
+MNC,nokia
+LNCEL,nokia
+SMOD,nokia
+MNL,nokia
+MCC,nokia
+LNBTS,nokia
+CMNC,nokia
+IPNO,nokia
+QOS,nokia
+TCID,nokia
+SubNetwork,ericsson
+ManagedElement,ericsson
+Aich,ericsson
+NodeBFunction,ericsson
+MeContext,ericsson
+Carrier,ericsson
+Sector,ericsson
+Subrack No,huawei
+SCTP Link ID,huawei
+BSC ID,huawei
+Signaling link ID,huawei
+Local eNodeB ID,huawei
+DPC Group index,huawei
+NodeB Name,huawei
+Bearer Type,huawei
+Standby Status,huawei
+Board Type,huawei
+Port Cabinet No.,huawei
+Sector equipment ID,huawei
+Resource Group ID,huawei
+Subsystem No.,huawei
+TOMBODU,huawei
+CGI,huawei
+BTS Name,huawei
+LKS,huawei
+SN,huawei
+IP Address Type,huawei
+Slot No.,huawei
+X2Interface ID,huawei
+SSN,huawei
+Bearing Port Type,huawei
+Operator Name,huawei
+Cabinet No.,huawei
+S1Interface ID,huawei
+NodeB Function Name,huawei
+DestObjLabel,huawei
+Cell FDD TDD indication,huawei
+SGSN Node ID,huawei
+Cell Name,huawei
+CNNAME,huawei
+Cell ID,huawei
+UL BB Resource Group No.,huawei
+CNINDEX,huawei
+eNodeB Function Name,huawei
+FTBSC02,huawei
+SLC,huawei
+Local NSVL Indentifier,huawei
+RNC cell ID,huawei
+Port Slot No.,huawei
+Link No.,huawei
+NODE,huawei
+OspIndex,huawei
+BT,huawei
+NODEBID,huawei
+CNNodeID,huawei
+SCTPLNKN,huawei
+ROGBIN,huawei
+Port No.,huawei
+eNodeB ID,huawei
+CellIndex,huawei
+Port Subrack No.,huawei
+DPX,huawei
+Logic No.,huawei
+Trunk No.,huawei
+Node Id,huawei
+LABEL,huawei
+RNC ID,huawei
+ANI,huawei
+INDEX,huawei
+Label,huawei
+Bearing Port No.,huawei
+CNOPINDEX,huawei
+BTS Index,huawei
+SCTP link No.,huawei
+Signalling link set index,huawei
+CN Node Index,huawei
+DENO,huawei
+Mobile country code,huawei
+Adjacent Node ID,huawei
+RNCID,huawei
+Subrack No.,huawei
+Session ID,huawei
+Local cell ID,huawei
+Path ID,huawei
+GERAN cell ID,huawei
+Local IP Address,huawei
+Local cell name,huawei
+Subboard Type,huawei
+Mobile network code,huawei
+Sector Equipment ID,huawei
+eNodeB ID Configured with Sector Equipment,huawei
+SRN,huawei
+Bearing Type,huawei
+DestObjType,huawei
+Subrack No,huawei
+SCTP Link ID,huawei
+BSC ID,huawei
+Signaling link ID,huawei
+Local eNodeB ID,huawei
+DPC Group index,huawei
+NodeB Name,huawei
+Bearer Type,huawei
+Standby Status,huawei
+Board Type,huawei
+Port Cabinet No.,huawei
+Sector equipment ID,huawei
+Resource Group ID,huawei
+Subsystem No.,huawei
+TOMBODU,huawei
+CGI,huawei
+BTS Name,huawei
+LKS,huawei
+SN,huawei
+IP Address Type,huawei
+Slot No.,huawei
+X2Interface ID,huawei
+SSN,huawei
+Location area code,huawei
+GPS Clock No.,huawei
+CellID,huawei
+FTBSC01,huawei
+SIGLKSX,huawei
+Local Cell ID,huawei
+PN,huawei
+SubNetwork,ericsson
+ManagedElement,ericsson
+Aich,ericsson
+NodeBFunction,ericsson
+MeContext,ericsson
+Carrier,ericsson
+Sector,ericsson
+Bearing Port Type,huawei
+Operator Name,huawei
+Cabinet No.,huawei
+S1Interface ID,huawei
+NodeB Function Name,huawei
+DestObjLabel,huawei
+Cell FDD TDD indication,huawei
+SGSN Node ID,huawei
+Cell Name,huawei
+CNNAME,huawei
+Cell ID,huawei
+UL BB Resource Group No.,huawei
+CNINDEX,huawei
+eNodeB Function Name,huawei
+FTBSC02,huawei
+SLC,huawei
+Local NSVL Indentifier,huawei
+RNC cell ID,huawei
+Port Slot No.,huawei
+Link No.,huawei
+NODE,huawei
+OspIndex,huawei
+BT,huawei
+NODEBID,huawei
+CNNodeID,huawei
+SCTPLNKN,huawei
+ROGBIN,huawei
+Port No.,huawei
+eNodeB ID,huawei
+CellIndex,huawei
+Port Subrack No.,huawei
+DPX,huawei
+Logic No.,huawei
+Trunk No.,huawei
+Node Id,huawei
+LABEL,huawei
+RNC ID,huawei
+ANI,huawei
+INDEX,huawei
+Label,huawei
+Bearing Port No.,huawei
+CNOPINDEX,huawei
+BTS Index,huawei
+SCTP link No.,huawei
+Signalling link set index,huawei
+CN Node Index,huawei
+DENO,huawei
+Mobile country code,huawei
+Adjacent Node ID,huawei
+RNCID,huawei
+Subrack No.,huawei
+Session ID,huawei
+Local cell ID,huawei
+Path ID,huawei
+GERAN cell ID,huawei
+Local IP Address,huawei
+Local cell name,huawei
+Subboard Type,huawei
+Mobile network code,huawei
+Sector Equipment ID,huawei
+Bearing Port Type,huawei
+Operator Name,huawei
+Cabinet No.,huawei
+S1Interface ID,huawei
+NodeB Function Name,huawei
+DestObjLabel,huawei
+Cell FDD TDD indication,huawei
+SGSN Node ID,huawei
+Cell Name,huawei
+CNNAME,huawei
+Cell ID,huawei
+UL BB Resource Group No.,huawei
+CNINDEX,huawei
+eNodeB Function Name,huawei
+FTBSC02,huawei
+SLC,huawei
+Local NSVL Indentifier,huawei
+RNC cell ID,huawei
+Port Slot No.,huawei
+Link No.,huawei
+NODE,huawei
+OspIndex,huawei
+BT,huawei
+NODEBID,huawei
+CNNodeID,huawei
+SCTPLNKN,huawei
+ROGBIN,huawei
+Port No.,huawei
+eNodeB ID,huawei
+CellIndex,huawei
+Port Subrack No.,huawei
+DPX,huawei
+Logic No.,huawei
+Trunk No.,huawei
+Node Id,huawei
+LABEL,huawei
+RNC ID,huawei
+ANI,huawei
+INDEX,huawei
+Label,huawei
+Bearing Port No.,huawei
+CNOPINDEX,huawei
+BTS Index,huawei
+SCTP link No.,huawei
+Signalling link set index,huawei
+CN Node Index,huawei
+DENO,huawei
+Mobile country code,huawei
+Adjacent Node ID,huawei
+RNCID,huawei
+Subrack No.,huawei
+Session ID,huawei
+Local cell ID,huawei
+Path ID,huawei
+GERAN cell ID,huawei
+Local IP Address,huawei
+Local cell name,huawei
+Subboard Type,huawei
+Mobile network code,huawei
+Sector Equipment ID,huawei
+eNodeB ID Configured with Sector Equipment,huawei
+SRN,huawei
+Bearing Type,huawei
+DestObjType,huawei
+Subrack No,huawei
+SCTP Link ID,huawei
+BSC ID,huawei
+Signaling link ID,huawei
+Local eNodeB ID,huawei
+DPC Group index,huawei
+NodeB Name,huawei
+Bearer Type,huawei
+Standby Status,huawei
+Board Type,huawei
+Port Cabinet No.,huawei
+Sector equipment ID,huawei
+Resource Group ID,huawei
+Subsystem No.,huawei
+TOMBODU,huawei
+CGI,huawei
+BTS Name,huawei
+LKS,huawei
+SN,huawei
+IP Address Type,huawei
+Slot No.,huawei
+X2Interface ID,huawei
+SSN,huawei
+Location area code,huawei
+GPS Clock No.,huawei
+CellID,huawei
+FTBSC01,huawei
+SIGLKSX,huawei
+Local Cell ID,huawei
+PN,huawei
+SubNetwork,ericsson
+ManagedElement,ericsson
+Aich,ericsson
+NodeBFunction,ericsson
+MeContext,ericsson
+Carrier,ericsson
+Sector,ericsson
+eNodeB ID Configured with Sector Equipment,huawei
+SRN,huawei
+Bearing Type,huawei
+DestObjType,huawei
+Subrack No,huawei
+SCTP Link ID,huawei
+BSC ID,huawei
+Signaling link ID,huawei
+Local eNodeB ID,huawei
+DPC Group index,huawei
+NodeB Name,huawei
+Bearer Type,huawei
+Standby Status,huawei
+Board Type,huawei
+Port Cabinet No.,huawei
+Sector equipment ID,huawei
+Resource Group ID,huawei
+Subsystem No.,huawei
+TOMBODU,huawei
+CGI,huawei
+BTS Name,huawei
+LKS,huawei
+SN,huawei
+IP Address Type,huawei
+Slot No.,huawei
+X2Interface ID,huawei
+SSN,huawei
+Location area code,huawei
+GPS Clock No.,huawei
+CellID,huawei
+FTBSC01,huawei
+SIGLKSX,huawei
+Local Cell ID,huawei
+PN,huawei
+SubNetwork,ericsson
+ManagedElement,ericsson
+Aich,ericsson
+NodeBFunction,ericsson
+MeContext,ericsson
+Carrier,ericsson
+Sector,ericsson
+Bearing Port Type,huawei
+Operator Name,huawei
+Cabinet No.,huawei
+S1Interface ID,huawei
+NodeB Function Name,huawei
+DestObjLabel,huawei
+Cell FDD TDD indication,huawei
+SGSN Node ID,huawei
+Cell Name,huawei
+CNNAME,huawei
+Cell ID,huawei
+UL BB Resource Group No.,huawei
+CNINDEX,huawei
+eNodeB Function Name,huawei
+FTBSC02,huawei
+SLC,huawei
+Local NSVL Indentifier,huawei
+RNC cell ID,huawei
+Port Slot No.,huawei
+Bearing Port Type,huawei
+Operator Name,huawei
+Cabinet No.,huawei
+S1Interface ID,huawei
+NodeB Function Name,huawei
+DestObjLabel,huawei
+Cell FDD TDD indication,huawei
+SGSN Node ID,huawei
+Cell Name,huawei
+CNNAME,huawei
+Cell ID,huawei
+UL BB Resource Group No.,huawei
+CNINDEX,huawei
+eNodeB Function Name,huawei
+FTBSC02,huawei
+SLC,huawei
+Local NSVL Indentifier,huawei
+RNC cell ID,huawei
+Port Slot No.,huawei
+Link No.,huawei
+NODE,huawei
+OspIndex,huawei
+BT,huawei
+NODEBID,huawei
+CNNodeID,huawei
+SCTPLNKN,huawei
+ROGBIN,huawei
+Port No.,huawei
+eNodeB ID,huawei
+CellIndex,huawei
+Port Subrack No.,huawei
+DPX,huawei
+Logic No.,huawei
+Trunk No.,huawei
+Node Id,huawei
+LABEL,huawei
+RNC ID,huawei
+ANI,huawei
+INDEX,huawei
+Label,huawei
+Bearing Port No.,huawei
+CNOPINDEX,huawei
+BTS Index,huawei
+SCTP link No.,huawei
+Signalling link set index,huawei
+CN Node Index,huawei
+DENO,huawei
+Mobile country code,huawei
+Adjacent Node ID,huawei
+RNCID,huawei
+Subrack No.,huawei
+Session ID,huawei
+Local cell ID,huawei
+Path ID,huawei
+GERAN cell ID,huawei
+Local IP Address,huawei
+Local cell name,huawei
+Subboard Type,huawei
+Mobile network code,huawei
+Sector Equipment ID,huawei
+eNodeB ID Configured with Sector Equipment,huawei
+SRN,huawei
+Bearing Type,huawei
+DestObjType,huawei
+Subrack No,huawei
+SCTP Link ID,huawei
+BSC ID,huawei
+Signaling link ID,huawei
+Local eNodeB ID,huawei
+DPC Group index,huawei
+NodeB Name,huawei
+Bearer Type,huawei
+Standby Status,huawei
+Board Type,huawei
+Port Cabinet No.,huawei
+Sector equipment ID,huawei
+Resource Group ID,huawei
+Subsystem No.,huawei
+TOMBODU,huawei
+CGI,huawei
+BTS Name,huawei
+LKS,huawei
+SN,huawei
+IP Address Type,huawei
+Slot No.,huawei
+X2Interface ID,huawei
+SSN,huawei
+Location area code,huawei
+GPS Clock No.,huawei
+CellID,huawei
+FTBSC01,huawei
+SIGLKSX,huawei
+Local Cell ID,huawei
+PN,huawei
+SubNetwork,ericsson
+ManagedElement,ericsson
+Aich,ericsson
+NodeBFunction,ericsson
+MeContext,ericsson
+Carrier,ericsson
+Sector,ericsson
+Bearing Port Type,huawei
+Operator Name,huawei
+Cabinet No.,huawei
+S1Interface ID,huawei
+NodeB Function Name,huawei
+DestObjLabel,huawei
+Cell FDD TDD indication,huawei
+SGSN Node ID,huawei
+Cell Name,huawei
+CNNAME,huawei
+Cell ID,huawei
+UL BB Resource Group No.,huawei
+CNINDEX,huawei
+eNodeB Function Name,huawei
+FTBSC02,huawei
+SLC,huawei
+Local NSVL Indentifier,huawei
+RNC cell ID,huawei
+Port Slot No.,huawei
+Link No.,huawei
+NODE,huawei
+OspIndex,huawei
+BT,huawei
+NODEBID,huawei
+CNNodeID,huawei
+SCTPLNKN,huawei
+ROGBIN,huawei
+Port No.,huawei
+eNodeB ID,huawei
+CellIndex,huawei
+Port Subrack No.,huawei
+DPX,huawei
+Logic No.,huawei
+Trunk No.,huawei
+Node Id,huawei
+LABEL,huawei
+RNC ID,huawei
+ANI,huawei
+INDEX,huawei
+Label,huawei
+Bearing Port No.,huawei
+CNOPINDEX,huawei
+BTS Index,huawei
+SCTP link No.,huawei
+Signalling link set index,huawei
+CN Node Index,huawei
+DENO,huawei
+Mobile country code,huawei
+Adjacent Node ID,huawei
+RNCID,huawei
+Subrack No.,huawei
+Session ID,huawei
+Local cell ID,huawei
+Path ID,huawei
+GERAN cell ID,huawei
+Local IP Address,huawei
+Local cell name,huawei
+Subboard Type,huawei
+Mobile network code,huawei
+Sector Equipment ID,huawei
+APEQM,nokia
+CABINET,nokia
+CLOCK,nokia
+RMOD,nokia
+MNLENT,nokia
+ETHIF,nokia
+ANTL,nokia
+IPVOL,nokia
+ECI,nokia
+SFP,nokia
+UARFCN,nokia
+LNMME,nokia
+LTAC,nokia
+VLANIF,nokia
+TNL,nokia
+TNLSVC,nokia
+BRGPRT,nokia
+CMCC,nokia
+HOT,nokia

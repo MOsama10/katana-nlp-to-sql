@@ -1,0 +1,3 @@
+NE Name,fdn,CN,MOIndex,SN,SRN,className,name,neID
+3G_ALKALIA,"NE=1346,BBUFAN=0_16_0",0,1102_0_0_16,16,0,BTS3900BBUFAN,"Board Type=BBUFAN, Cabinet No.=0, Subrack No.=0, Slot No.=16",1102
+3G_ADAMSTREET,"NE=1071,BBUFAN=0_16_0",0,827_0_0_16,16,0,BTS3900BBUFAN,"Board Type=BBUFAN, Cabinet No.=0, Subrack No.=0, Slot No.=16",827

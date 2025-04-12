@@ -1,0 +1,306 @@
+[
+  {
+    "prompt": "What is covered in the section: KATANA Platform – NPN Operations?",
+    "response": "KATANA Platform – NPN Operations\nEnabling Smarter Networks"
+  },
+  {
+    "prompt": "What is covered in the section: What is Private Network?",
+    "response": "What is Private Network\n• Definition"
+  },
+  {
+    "prompt": "What is covered in the section: Private networks are dedicated communication networks?",
+    "response": "Private networks are dedicated communication networks\nbuilt for a specific organization or use case\n• Benefits\n• Enhanced security and data privacy"
+  },
+  {
+    "prompt": "What is covered in the section: • Improved network performance and reliability?",
+    "response": "• Improved network performance and reliability\n• Customized coverage and capacity\n• Integration with existing systems and infrastructure\n• A private (mobile) network is where network infrastructure is\nused exclusively by devices authorized by the end-user\norganization.\n• Typically, this infrastructure is deployed in one or more specific\nlocations which are owned or occupied by the end-user\norganization.\n• Devices that are registered on public mobile networks will not"
+  },
+  {
+    "prompt": "What is covered in the section: work on the private network except where specifically?",
+    "response": "work on the private network except where specifically\nauthorized.\n• Formally these are known as 'non-public networks' however the"
+  },
+  {
+    "prompt": "What is covered in the section: term private network is more commonly used across vertical?",
+    "response": "term private network is more commonly used across vertical\nindustries."
+  },
+  {
+    "prompt": "What is covered in the section: PNI-NPN: Public Network Integrated – Non Public?",
+    "response": "PNI-NPN: Public Network Integrated – Non Public"
+  },
+  {
+    "prompt": "What is covered in the section: SNPN, Standalone Non-Public Network?",
+    "response": "SNPN, Standalone Non-Public Network\nNetwork\n- Operated by an NPN operator that does not rely on MNO\n- Access to the public network is possible under certain - NPN deployed with MNO support: hosted completely or partially on public\nconditions (Firewall) network infrastructure"
+  },
+  {
+    "prompt": "What is covered in the section: • NPN is deployed as an independent, standalone network Network Isolated Private 5G Network?",
+    "response": "• NPN is deployed as an independent, standalone network Network Isolated Private 5G Network\n• Private company has exclusive responsibility for\noperating the NPN and for all service attributes\n• The only communication path between the NPN and the\npublic network can be done optionally via a firewall\nstandalone network. Under this deployment model, all network functions\nare located within the facility where the network operates, including the"
+  },
+  {
+    "prompt": "What is covered in the section: radio access network (RAN) and control plane elements. Standalone,?",
+    "response": "radio access network (RAN) and control plane elements. Standalone,"
+  },
+  {
+    "prompt": "What is covered in the section: isolated private networks would typically use dedicated spectrum (licensed?",
+    "response": "isolated private networks would typically use dedicated spectrum (licensed\nor unlicensed) purchased through a mobile network operator (MNO) or, in\nsome cases, directly from government agencies."
+  },
+  {
+    "prompt": "What is covered in the section: Hybrid Private Network?",
+    "response": "Hybrid Private Network\nHybrid Private Network"
+  },
+  {
+    "prompt": "What is covered in the section: • Shared ran with dedicated Core?",
+    "response": "• Shared ran with dedicated Core\n• NPN and the public network share part of the radio\naccess network, while other network functions remain\nseparated"
+  },
+  {
+    "prompt": "What is covered in the section: This scenario involves an NPN sharing a radio-access network (RAN) with the?",
+    "response": "This scenario involves an NPN sharing a radio-access network (RAN) with the\nservice provider. Under this scenario, control plane elements and other\nnetwork functions physically reside at the NPN site.\nThis type of deployment enables local routing of network traffic within the NPN’s\nphysical premises, while data bound for outside premises is routed to the service\nprovider’s network. 3GPP has specifications that cover network sharing. (A variation of\nThis scenario involves an NPN sharing a radio-access network (RAN) with the\nservice provider. Under this scenario, control plane elements and other\nnetwork functions physically reside at the NPN site”\nstandalone network. Under this deployment model, all network functions are\nlocated within the facility where the network operates, including the radio access"
+  },
+  {
+    "prompt": "What is covered in the section: this deployment scenario involves the NPN sharing both the RAN and control plane?",
+    "response": "this deployment scenario involves the NPN sharing both the RAN and control plane\nfunctions, but with the NPN traffic remaining on the site where the NPN is located and\nnot flowing out to the public network.)"
+  },
+  {
+    "prompt": "What is covered in the section: PNI-NPN: Deployment with shared RAN and?",
+    "response": "PNI-NPN: Deployment with shared RAN and\nControl Plane"
+  },
+  {
+    "prompt": "What is covered in the section: • Shared RAN and core control Plane?",
+    "response": "• Shared RAN and core control Plane"
+  },
+  {
+    "prompt": "What is covered in the section: • Both RAN and Core Sharing from control side, with the?",
+    "response": "• Both RAN and Core Sharing from control side, with the"
+  },
+  {
+    "prompt": "What is covered in the section: RAN and Core elements managed by the Public 5G?",
+    "response": "RAN and Core elements managed by the Public 5G\nnetwork.\n• NPN only handles user plane connectivity"
+  },
+  {
+    "prompt": "What is covered in the section: network (RAN) and control plane elements. Standalone, isolated private networks?",
+    "response": "network (RAN) and control plane elements. Standalone, isolated private networks\nwould typically use dedicated spectrum (licensed or unlicensed) purchased\nthrough a mobile network operator (MNO) or, in some cases, directly from\ngovernment agencies."
+  },
+  {
+    "prompt": "What is covered in the section: PNI-NPN: NPN Deployment in?",
+    "response": "PNI-NPN: NPN Deployment in\npublic network"
+  },
+  {
+    "prompt": "What is covered in the section: • 5G Public-Private Network Slice?",
+    "response": "• 5G Public-Private Network Slice\n• NPN hosted by the public network\n• Complete outsourcing of the network, where devices on"
+  },
+  {
+    "prompt": "What is covered in the section: the private network utilize the Public 5G network RAN.?",
+    "response": "the private network utilize the Public 5G network RAN.\n• This scenario can be implemented by means of network\nslicing\nThe third primary type of NPN deployment is where the NPN is\nhosted directly on a public network. In this type of deployment, both"
+  },
+  {
+    "prompt": "What is covered in the section: the public network and private network traffic are located off-site?",
+    "response": "the public network and private network traffic are located off-site\n.”\nThrough virtualization of network functions and in a technique known as network"
+  },
+  {
+    "prompt": "What is covered in the section: slicing, the public-network operator of the private network partitions between the?",
+    "response": "slicing, the public-network operator of the private network partitions between the\npublic network and the NPN, keeping them completely separate."
+  },
+  {
+    "prompt": "What is covered in the section: o Fully Cloud Native / Containerized solution?",
+    "response": "o Fully Cloud Native / Containerized solution\no Multi Technology CUPS solution: o DPI / Local breakout included"
+  },
+  {
+    "prompt": "What is covered in the section: o 3G/4G/5G combo microservices o Deployment MODEL: On Premises, Hybrid?",
+    "response": "o 3G/4G/5G combo microservices o Deployment MODEL: On Premises, Hybrid\no Lightweight NFs: (EDGE + Central), Cloud.\no Minimum of 0,5vCPU for 2Gbps for the UPF,"
+  },
+  {
+    "prompt": "What is covered in the section: o Network in a Box: Complete 4G/5G?",
+    "response": "o Network in a Box: Complete 4G/5G\nProduct Overview"
+  },
+  {
+    "prompt": "What is covered in the section: PRODUCT PHILOSOPHY?",
+    "response": "PRODUCT PHILOSOPHY\nOur products are Vendor Agnostic, Multi-technology, and Multi-Domains which"
+  },
+  {
+    "prompt": "What is covered in the section: enables us to pave the road toward cognitive operations, SOC operations, and INOC?",
+    "response": "enables us to pave the road toward cognitive operations, SOC operations, and INOC\nData Driven Faster response Deploy Anywhere Enhanced Overall Efficient Resource\nDecision-Making Times MTTD and MTTR Utilization"
+  },
+  {
+    "prompt": "What is covered in the section: KATANA PLATFORM APPLICATIONS?",
+    "response": "KATANA PLATFORM APPLICATIONS\niPM NetEye UFM iSight iMaster SkyView 3rd Party"
+  },
+  {
+    "prompt": "What is covered in the section: Performance Configuration Faults Network Autonomous Driveless Application?",
+    "response": "Performance Configuration Faults Network Autonomous Driveless Application\nManagement Management Management OptimAIzation Networks Optimization Integration\nCHALLENGES – VALUE PROPOSITION"
+  },
+  {
+    "prompt": "What is covered in the section: Challenges KATANA Solution?",
+    "response": "Challenges KATANA Solution\nStreaming data ingestion from customer OSS to\nETL Jobs with a predefined schedule and interval\nDATA INGESTION"
+  },
+  {
+    "prompt": "What is covered in the section: KATANA provides near real-time data availability?",
+    "response": "KATANA provides near real-time data availability"
+  },
+  {
+    "prompt": "What is covered in the section: limited by performance and costs.?",
+    "response": "limited by performance and costs.\nData is aggregated in real- time giving the needed\nflexibility for each application\nData is coming from different Vendors’ OSS\nDATA\nsources reducing the flexibility."
+  },
+  {
+    "prompt": "What is covered in the section: TRANSFORMATION?",
+    "response": "TRANSFORMATION\nAPI-Based micro services architecture enables live\ndata integration to other applications and"
+  },
+  {
+    "prompt": "What is covered in the section: DATA Slow Dashboards with old web technologies and SMEs Logics to process all the given data from?",
+    "response": "DATA Slow Dashboards with old web technologies and SMEs Logics to process all the given data from\nCONSUMPTION no API Access. different sources to give you the best settings you\nneed to have excellent customer centricity"
+  },
+  {
+    "prompt": "What is covered in the section: KATANA integrates AIOps in both Operations and Performance fronts, enabling big telco to?",
+    "response": "KATANA integrates AIOps in both Operations and Performance fronts, enabling big telco to\nunlock the AI capabilities in MTTD/MTTR enhancement as well as CAPEX/OPEX reduction\nNetwork insights and"
+  },
+  {
+    "prompt": "What is covered in the section: AI based Fault Management?",
+    "response": "AI based Fault Management\ntroubleshooting\nAutomated Ticketing – Alerting AI-based forecasting\nAI-based Fault Detection TopN assessment\nFault Isolation Worst Degraded List analysis\nAI-based alarm correlation Worst Node List analysis"
+  },
+  {
+    "prompt": "What is covered in the section: Topology Viewer?",
+    "response": "Topology Viewer\nCapacity Management &\nTopology Viewer"
+  },
+  {
+    "prompt": "What is covered in the section: Performance Forecasting?",
+    "response": "Performance Forecasting\nImpact Analysis\nAI-based Capacity Assessment &\nAnomaly Detection & Impact\nLoad Forecasting\nAssessment"
+  },
+  {
+    "prompt": "What is covered in the section: KPIs & KQIs Performance AI based Degradation detection & Capacity Management &?",
+    "response": "KPIs & KQIs Performance AI based Degradation detection & Capacity Management &"
+  },
+  {
+    "prompt": "What is covered in the section: Monitoring Impact Analysis Performance Forecasting?",
+    "response": "Monitoring Impact Analysis Performance Forecasting\nMulti-Technology Customized\nAutomated Alerting & Ticketing"
+  },
+  {
+    "prompt": "What is covered in the section: Network Topology View?",
+    "response": "Network Topology View\nAudits\nOperation Commander Automated Front Office\nNew Nodes Detection\nAI Network Insights and"
+  },
+  {
+    "prompt": "What is covered in the section: Activity log viewer AI based Network Studies?",
+    "response": "Activity log viewer AI based Network Studies\ntroubleshooting"
+  },
+  {
+    "prompt": "What is covered in the section: & traditional RAN operations?",
+    "response": "& traditional RAN operations\nVendor and technology\n2 Increasing staff efficiency\nagnostic solution\nGen Ai adoption\nEnhancing MTTD and MTTR 8\nCornerstone of Cognitive Automated Dashboard\n4 9\nOperations Analytics\n5 Near-RT Operations\nMain Product"
+  },
+  {
+    "prompt": "What is covered in the section: PLATFORM APPLICATIONS?",
+    "response": "PLATFORM APPLICATIONS\n*Snapshot from the production platform\nMaintaining the integrity of the\nnetwork parameter settings\nAn advanced easy to use module to have\nvery deep view of radio network with root\nProviding the vendor and\ncause analysis functions & open & Closed\ntechnology-agnostic, network\nloop optimization letting the user visualize"
+  },
+  {
+    "prompt": "What is covered in the section: performance management?",
+    "response": "performance management\nand manage the network effectively\ncapabilities"
+  },
+  {
+    "prompt": "What is covered in the section: Analyzing geo-located metrics and KPIs?",
+    "response": "Analyzing geo-located metrics and KPIs\nthrough user-defined multi-dimensional\nMaintaining network\nanalytics for effective problem detection\nconnectivity and preventing\nand resolution and Visualizing radio\nHardware failures, power outage"
+  },
+  {
+    "prompt": "What is covered in the section: performance and traffic heatmaps based on?",
+    "response": "performance and traffic heatmaps based on\nby triggering alarms\nuser-defined element, call, KPI and handset\nbasis in seconds"
+  },
+  {
+    "prompt": "What is covered in the section: New Site Activation acceptance is an important site roll-out activity that?",
+    "response": "New Site Activation acceptance is an important site roll-out activity that\nverifies the completion of a successful installation. In this module, we"
+  },
+  {
+    "prompt": "What is covered in the section: validate in an automated way the new integrated sites performance?",
+    "response": "validate in an automated way the new integrated sites performance"
+  },
+  {
+    "prompt": "What is covered in the section: Performance?",
+    "response": "Performance\nManagement\nPerformance\nManagement\nPerformance\nVendor A\nManagement\nVendor B\nPerformance\nManagement\nVendor A + Vendor B"
+  },
+  {
+    "prompt": "What is covered in the section: IPM MODULES (KPI Creation Single Vendor)?",
+    "response": "IPM MODULES (KPI Creation Single Vendor)\niPM"
+  },
+  {
+    "prompt": "What is covered in the section: IPM MODULES (KPI Creation Multi Vendor)?",
+    "response": "IPM MODULES (KPI Creation Multi Vendor)\niPM"
+  },
+  {
+    "prompt": "What is covered in the section: UFM MODULES?",
+    "response": "UFM MODULES\nUFM\nFaults\nManagement\nUFM Module Features\nUFM is an End-to-End Solution for managing network events used in collecting event data, receiving alerts, diagnosing and\ninvestigating network issues, analyzing network events, correlating faults, proposing actions & automating their resolution\nCorrelation with iPM & NetEye Report Generation\nAutomatic Fault Handling Fault Analysis & ML for\nAlerting – Ticketing - SMS Root Cause Analysis"
+  },
+  {
+    "prompt": "What is covered in the section: NetEye Module Basic Features?",
+    "response": "NetEye Module Basic Features\nNetEye\nConfiguration\nManagement\nNetEye Module Basic Features\nNetEye\nConfiguration"
+  },
+  {
+    "prompt": "What is covered in the section: Parameter Browser?",
+    "response": "Parameter Browser\nManagement\nParameter values are represented\nSearching for needed\ngeographically for selected\nparameters values on Cell\nnetwork zone and time period.\nLevel or Relation Level for\ndifferent vendors and\ntechnologies\nParameter Penetration &"
+  },
+  {
+    "prompt": "What is covered in the section: Viewing activity logs of?",
+    "response": "Viewing activity logs of\nNetwork discrepancies are presented in a single view,\nvarious nodes showing the"
+  },
+  {
+    "prompt": "What is covered in the section: with intuitive filtering and drill down capabilities.?",
+    "response": "with intuitive filtering and drill down capabilities.\nactions taken or error logs\nNetEye can automatically generate report to help the\ncollected on a specific\nuser quickly identify the inconsistent configuration\nnode, or searching for a\nparameters and their penetration for a selected zone\ngiven log item or looking\nsuch as missing neighbor definition, incorrect external"
+  },
+  {
+    "prompt": "What is covered in the section: into a time range for any?",
+    "response": "into a time range for any\ncell definitions, etc. and update parameter values and\nchanges or errors.\nresolve discrepancies ensuring no human error is\nintroduced"
+  },
+  {
+    "prompt": "What is covered in the section: INOS PLATFORM APPLICATIONS?",
+    "response": "INOS PLATFORM APPLICATIONS\nINOS paves MNOs way toward proper field intelligence as a service approach"
+  },
+  {
+    "prompt": "What is covered in the section: CBTP NXI ARP Octomind Connectsphere?",
+    "response": "CBTP NXI ARP Octomind Connectsphere\nCloud-based testing platform Next generation Investigation Automatic Reporting Module Intricately constructed upon a"
+  },
+  {
+    "prompt": "What is covered in the section: SOC and KPIs Dashboard that?",
+    "response": "SOC and KPIs Dashboard that\nmodule is responsible for module is our on-screen provides users three types of robustartificialintelligenceengine,\ncomes to you on different\nScripting, handling the postprocessing and robotics reporting: automated, seamlessly incorporating machine\naggregation level starting of 1\nlogfiles, and controlling all postprocessing module built customized and high-level learninganddeeplearningmodels.\nminute aggregation, 15"
+  },
+  {
+    "prompt": "What is covered in the section: kinds of drive testing kits as on KPIs engine and events overall reporting. In only 15 ItsynergizeswithINOSDTdataand?",
+    "response": "kinds of drive testing kits as on KPIs engine and events overall reporting. In only 15 ItsynergizeswithINOSDTdataand\nMinutes aggregations, 1 Hour"
+  },
+  {
+    "prompt": "What is covered in the section: well as user and SIM engine minutes you will have your DT Katana IPM KPIs, effectively?",
+    "response": "well as user and SIM engine minutes you will have your DT Katana IPM KPIs, effectively\naggregation, daily\nmanagement. reports. providing you with comprehensive\naggregation, weekly and\nPCI,RSI,Frequency,PSC,andBSIC\nmonthly aggregations.\nthat are meticulously planned . It\nexcels in delivering pinpoint\naccuracy in terms of Automatic\nCell Planning (ACP) and Accurate\nSitePlanning(ASP).\nKits\nCloud Scripting X Mins\nEdge\nData collection in Field X Hours\nWatcher\nUpload Data to cloud Real Time\nLite"
+  },
+  {
+    "prompt": "What is covered in the section: Dashboards &?",
+    "response": "Dashboards &\nOn-screen\noptimization action\npost-processing\nCompact\nKPI analysis &\nGauge"
+  },
+  {
+    "prompt": "What is covered in the section: branded reports?",
+    "response": "branded reports\nScripting & Kits\nMonitoring"
+  },
+  {
+    "prompt": "What is covered in the section: SOC – Active?",
+    "response": "SOC – Active\nCustomer\nSingle Site Cluster\nProbing"
+  },
+  {
+    "prompt": "What is covered in the section: Indoor Testing Complaint IoT Testing OpenRAN?",
+    "response": "Indoor Testing Complaint IoT Testing OpenRAN\nAir\nVerification Benchmarking\nHandling\nSUPPORTED"
+  },
+  {
+    "prompt": "What is covered in the section: 2G – 3G – 4G – 5G?",
+    "response": "2G – 3G – 4G – 5G\nDATA\nloT\nWiFi - VoWiFi\nOTTs"
+  },
+  {
+    "prompt": "What is covered in the section: VoLTE 1. 5. 8.?",
+    "response": "VoLTE 1. 5. 8.\nSimplified equipment – No laptop or Logfiles are uploaded in near Real-time Robotics-based post-processing saves the\nexternal controller is needed Processing and investigation fully based Operations team from manual tasks\n2. 9."
+  },
+  {
+    "prompt": "What is covered in the section: Compatible with Commercially available on the Cloud Purpose-built SOC Dashboard improves?",
+    "response": "Compatible with Commercially available on the Cloud Purpose-built SOC Dashboard improves\nhandsets (all Chipsets) Fast Post-processing & reporting response time significantly\nDeep Layers capturing L1/L2/L3/PCAP (Onscreen in 15 minutes)\nFixed Broadband 4.\nOver the Air Script updates\nVideo & Voice Quality Standards:\nIOT"
+  },
+  {
+    "prompt": "What is covered in the section: Flexible Dashboards Live Location Maps?",
+    "response": "Flexible Dashboards Live Location Maps\n• Tailored to user requirements\n• visualization of probe locations.\n• Widgets include Time Charts (Line, Bar, Day to Day),\nTimetables, Real-time Tables\nAggregation and Visualization Examples"
+  },
+  {
+    "prompt": "What is covered in the section: OUR PRESENCE & KEY CUSTOMERS?",
+    "response": "OUR PRESENCE & KEY CUSTOMERS\nLondon\nUK\nHeadquarters\nUSA\nRiyadh\nCairo\nSaudi\nEgypt\nArabia\nDubai\n2020 UAE\n2016 2021\nLuanda\nAngola"
+  },
+  {
+    "prompt": "What is covered in the section: Thank you?",
+    "response": "Thank you\nRegional offices\nSaudi Arabia\nNimr Al Nakheel centre, Imam Saud Bin Abdulaziz Bin\nUnited Kingdom\nWimbledon Business Centre, SW19 8YB, London\nUAE\nTechnology & support centre\nAl Sinyar Building, MH 03D51 AL NAHDA1, Dubai\nEgypt\nBuilding 3, Street 218, Degla, Maadi, Cairo Angola\n6, Park Avenue Building, Rua Ndunduma 33, Luanda"
+  }
+]

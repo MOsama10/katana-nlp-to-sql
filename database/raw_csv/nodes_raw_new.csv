@@ -1,0 +1,1001 @@
+node_id,node_name,tech,domain,type,vendor,lat,long,azimuth,Zone,district,region
+3,G09_Banjul Tower_1,2G,Radio,cell,Huawei,13.458224,-16.584069,60,GBA,Banjul,Banjul
+4,G09_Banjul Tower_2,2G,Radio,cell,Huawei,13.458224,-16.584069,170,GBA,Banjul,Banjul
+5,G09_Banjul Tower_3,2G,Radio,cell,Huawei,13.458224,-16.584069,280,GBA,Banjul,Banjul
+6,G09_HQ_1,2G,Radio,cell,Huawei,13.455589,-16.683532,0,GBA,Kanifing,Kanifing Municipality
+8,G09_Kaiaf_2,2G,Radio,cell,Huawei,13.411158,-15.610371,170,Rural,Kiang East,Lower River Region
+9,G09_Dobson_1,2G,Radio,cell,Huawei,13.449784,-16.575675,130,GBA,Banjul,Banjul
+10,G09_Dobson_2,2G,Radio,cell,Huawei,13.449784,-16.575675,215,GBA,Banjul,Banjul
+11,G09_Dobson_3,2G,Radio,cell,Huawei,13.449784,-16.575675,320,GBA,Banjul,Banjul
+15,G09_Kaiaf_3,2G,Radio,cell,Huawei,13.411158,-15.610371,280,Rural,Kiang East,Lower River Region
+16,G09_Kaur_1,2G,Radio,cell,Huawei,13.697851,-15.326958,60,Rural,Sabach - Sanjal,North Bank Region
+17,G09_Kaur_2,2G,Radio,cell,Huawei,13.697851,-15.326958,140,Rural,Sabach - Sanjal,North Bank Region
+19,G09_Airport_1,2G,Radio,cell,Huawei,13.349056,-16.658,100,GBA,Kombo North,Western Region
+20,G09_Airport_2,2G,Radio,cell,Huawei,13.349056,-16.658,230,GBA,Kombo North,Western Region
+21,G09_Airport_3,2G,Radio,cell,Huawei,13.349056,-16.658,330,GBA,Kombo North,Western Region
+22,G09_Arab Islamic Bank_1,2G,Radio,cell,Huawei,13.445166,-16.674637,90,GBA,Kanifing,Kanifing Municipality
+23,G09_Arab Islamic Bank_2,2G,Radio,cell,Huawei,13.445166,-16.674637,190,GBA,Kanifing,Kanifing Municipality
+24,G09_Arab Islamic Bank_3,2G,Radio,cell,Huawei,13.445166,-16.674637,330,GBA,Kanifing,Kanifing Municipality
+25,G09_Bajakunda_1,2G,Radio,cell,Huawei,13.481843,-14.053507,60,Rural,Wuli East,Upper River Region
+37,G09_Brikama Ba_1,2G,Radio,cell,Huawei,13.532752,-14.925251,180,Rural,Fuladou West,Central River Region
+38,G09_Jambur_2,2G,Radio,cell,Huawei,13.307093,-16.696712,160,GBA,Kombo South,Western Region
+39,G09_Brikama Ba_2,2G,Radio,cell,Huawei,13.532752,-14.925251,240,Rural,Fuladou West,Central River Region
+40,G09_Jambur_3,2G,Radio,cell,Huawei,13.307093,-16.696712,330,GBA,Kombo South,Western Region
+41,G09_Basori_1,2G,Radio,cell,Huawei,13.22767,-16.579877,160,Rural,Kombo North,Western Region
+42,G09_Basori_2,2G,Radio,cell,Huawei,13.22767,-16.579877,250,Rural,Kombo North,Western Region
+49,G09_White Building_1,2G,Radio,cell,Huawei,13.465954,-16.691005,0,GBA,Kanifing,Kanifing Municipality
+50,G09_White Building_2,2G,Radio,cell,Huawei,13.465954,-16.691005,160,GBA,Kanifing,Kanifing Municipality
+51,G09_White Building_3,2G,Radio,cell,Huawei,13.465954,-16.691005,240,GBA,Kanifing,Kanifing Municipality
+55,G09_Earth Station_1,2G,Radio,cell,Huawei,13.401895,-16.653944,110,GBA,Kanifing,Kanifing Municipality
+56,G09_Earth Station_2,2G,Radio,cell,Huawei,13.401895,-16.653944,200,GBA,Kanifing,Kanifing Municipality
+57,G09_Earth Station_3,2G,Radio,cell,Huawei,13.401895,-16.653944,20,GBA,Kanifing,Kanifing Municipality
+64,G09_Fass_1,2G,Radio,cell,Huawei,13.564781,-16.428517,20,Rural,Lower Niumi,North Bank Region
+65,G09_Fass_2,2G,Radio,cell,Huawei,13.564781,-16.428517,130,Rural,Lower Niumi,North Bank Region
+27,G09_Bajakunda_3,2G,Radio,cell,Huawei,13.481843,-14.053507,270,Rural,Wuli East,Upper River Region
+66,G09_Fass_3,2G,Radio,cell,Huawei,13.564781,-16.428517,240,Rural,Lower Niumi,North Bank Region
+67,G09_Fatoto_1,2G,Radio,cell,Huawei,13.39304,-13.907269,10,Rural,Kantora,Upper River Region
+68,G09_Fatoto_2,2G,Radio,cell,Huawei,13.39304,-13.907269,115,Rural,Kantora,Upper River Region
+69,G09_Fatoto_3,2G,Radio,cell,Huawei,13.39304,-13.907269,270,Rural,Kantora,Upper River Region
+76,G09_Gunjur_1,2G,Radio,cell,Huawei,13.16955,-16.760743,0,GBA,Kombo South,Western Region
+77,G09_Gunjur_2,2G,Radio,cell,Huawei,13.16955,-16.760743,100,GBA,Kombo South,Western Region
+78,G09_Gunjur_3,2G,Radio,cell,Huawei,13.16955,-16.760743,200,GBA,Kombo South,Western Region
+79,G09_Senegambia_1,2G,Radio,cell,Huawei,13.44226,-16.721727,0,GBA,Kanifing,Kanifing Municipality
+80,G09_Senegambia_2,2G,Radio,cell,Huawei,13.44226,-16.721727,135,GBA,Kanifing,Kanifing Municipality
+81,G09_Senegambia_3,2G,Radio,cell,Huawei,13.44226,-16.721727,260,GBA,Kanifing,Kanifing Municipality
+88,G09_Sukuta Jabang Highway_2,2G,Radio,cell,Huawei,13.394479,-16.705676,125,GBA,Kombo North,Western Region
+89,G09_Sukuta Jabang Highway_3,2G,Radio,cell,Huawei,13.394479,-16.705676,215,GBA,Kombo North,Western Region
+90,G09_Jabang Estate_1,2G,Radio,cell,Huawei,13.356374,-16.705119,95,GBA,Kombo North,Western Region
+101,G09_Kwenilla_2,2G,Radio,cell,Huawei,13.396557,-15.793325,230,Rural,Kiang Central,Lower River Region
+103,G09_Lamin_1,2G,Radio,cell,Huawei,13.383897,-16.644597,20,GBA,Kombo North,Western Region
+104,G09_Lamin_2,2G,Radio,cell,Huawei,13.383897,-16.644597,120,GBA,Kombo North,Western Region
+105,G09_Lamin_3,2G,Radio,cell,Huawei,13.383897,-16.644597,240,GBA,Kombo North,Western Region
+106,G09_Mansakonko_1,2G,Radio,cell,Huawei,13.455152,-15.535005,70,Rural,Mansakonko,Lower River Region
+107,G09_Mansakonko_2,2G,Radio,cell,Huawei,13.455152,-15.535005,140,Rural,Mansakonko,Lower River Region
+108,G09_Mansakonko_3,2G,Radio,cell,Huawei,13.455152,-15.535005,240,Rural,Mansakonko,Lower River Region
+115,G09_Ndugu Kebbeh_1,2G,Radio,cell,Huawei,13.542507,-16.319659,120,Rural,Lower Niumi,North Bank Region
+116,G09_Ndugu Kebbeh_2,2G,Radio,cell,Huawei,13.542507,-16.319659,230,Rural,Lower Niumi,North Bank Region
+117,G09_Ndugu Kebbeh_3,2G,Radio,cell,Huawei,13.542507,-16.319659,330,Rural,Lower Niumi,North Bank Region
+130,G09_Sanyang_1,2G,Radio,cell,Huawei,13.268192,-16.762662,30,GBA,Kombo South,Western Region
+131,G09_Sanyang_2,2G,Radio,cell,Huawei,13.268192,-16.762662,160,GBA,Kombo South,Western Region
+132,G09_Sanyang_3,2G,Radio,cell,Huawei,13.268192,-16.762662,280,GBA,Kombo South,Western Region
+133,G09_Serra kunda mkt bldg_1,2G,Radio,cell,Huawei,13.439217,-16.682959,70,GBA,Kanifing,Kanifing Municipality
+100,G09_Kwenilla_1,2G,Radio,cell,Huawei,13.396557,-15.793325,80,Rural,Kiang Central,Lower River Region
+102,G09_Kwenilla_3,2G,Radio,cell,Huawei,13.396557,-15.793325,340,Rural,Kiang Central,Lower River Region
+134,G09_Serra kunda mkt bldg_2,2G,Radio,cell,Huawei,13.439217,-16.682959,200,GBA,Kanifing,Kanifing Municipality
+135,G09_Serra kunda mkt bldg_3,2G,Radio,cell,Huawei,13.439217,-16.682959,335,GBA,Kanifing,Kanifing Municipality
+145,G09_Sinchubaliya_1,2G,Radio,cell,Huawei,13.393696,-16.674208,30,GBA,Kombo North,Western Region
+146,G09_Sinchubaliya_2,2G,Radio,cell,Huawei,13.393696,-16.674208,150,GBA,Kombo North,Western Region
+147,G09_Sinchubaliya_3,2G,Radio,cell,Huawei,13.393696,-16.674208,230,GBA,Kombo North,Western Region
+148,G09_Somo Bldg_1,2G,Radio,cell,Huawei,13.425182,-16.674104,65,GBA,Kanifing,Kanifing Municipality
+149,G09_Somo Bldg_2,2G,Radio,cell,Huawei,13.425182,-16.674104,190,GBA,Kanifing,Kanifing Municipality
+154,G09_Sudowol_1,2G,Radio,cell,Huawei,13.361017,-13.99968,80,Rural,Kantora,Upper River Region
+155,G09_Sudowol_2,2G,Radio,cell,Huawei,13.361017,-13.99968,190,Rural,Kantora,Upper River Region
+156,G09_Sudowol_3,2G,Radio,cell,Huawei,13.361017,-13.99968,260,Rural,Kantora,Upper River Region
+166,G09_Bundung_1,2G,Radio,cell,Huawei,13.426453,-16.6837,20,GBA,Kanifing,Kanifing Municipality
+167,G09_Bundung_2,2G,Radio,cell,Huawei,13.426453,-16.6837,190,GBA,Kanifing,Kanifing Municipality
+168,G09_Bundung_3,2G,Radio,cell,Huawei,13.426453,-16.6837,300,GBA,Kanifing,Kanifing Municipality
+169,G09_Faji Kunda_1,2G,Radio,cell,Huawei,13.419903,-16.667111,80,GBA,Kanifing,Kanifing Municipality
+170,G09_Faji Kunda_2,2G,Radio,cell,Huawei,13.419903,-16.667111,190,GBA,Kanifing,Kanifing Municipality
+171,G09_Faji Kunda_3,2G,Radio,cell,Huawei,13.419903,-16.667111,300,GBA,Kanifing,Kanifing Municipality
+172,G09_New Jeshwang_1,2G,Radio,cell,Huawei,13.436689,-16.674701,80,GBA,Kanifing,Kanifing Municipality
+173,G09_New Jeshwang_2,2G,Radio,cell,Huawei,13.436689,-16.674701,190,GBA,Kanifing,Kanifing Municipality
+174,G09_New Jeshwang_3,2G,Radio,cell,Huawei,13.436689,-16.674701,280,GBA,Kanifing,Kanifing Municipality
+175,G09_Kabafita_1,2G,Radio,cell,Huawei,13.28309,-16.636769,90,GBA,Kombo Central,Western Region
+178,G09_Jabang Estate_2,2G,Radio,cell,Huawei,13.356374,-16.705119,190,GBA,Kombo North,Western Region
+179,G09_Jabang Estate_3,2G,Radio,cell,Huawei,13.356374,-16.705119,310,GBA,Kombo North,Western Region
+180,G09_Mandinari_1,2G,Radio,cell,Huawei,13.367586,-16.60632,20,GBA,Kombo North,Western Region
+181,G09_Mandinari_2,2G,Radio,cell,Huawei,13.367586,-16.60632,140,GBA,Kombo North,Western Region
+182,G09_Mandinari_3,2G,Radio,cell,Huawei,13.367586,-16.60632,240,GBA,Kombo North,Western Region
+183,G09_Illiassa_1,2G,Radio,cell,Huawei,13.565307,-15.748364,20,Rural,Lower Badibu,North Bank Region
+187,G09_Essau_2,2G,Radio,cell,Huawei,13.482011,-16.522206,125,Rural,Lower Niumi,North Bank Region
+188,G09_Essau_3,2G,Radio,cell,Huawei,13.482011,-16.522206,270,Rural,Lower Niumi,North Bank Region
+189,G09_Denton Bridge_1,2G,Radio,cell,Huawei,13.468615,-16.629499,95,GBA,Kanifing,Kanifing Municipality
+190,G09_Denton Bridge_2,2G,Radio,cell,Huawei,13.468615,-16.629499,265,GBA,Kanifing,Kanifing Municipality
+193,G09_Kubariko_3,2G,Radio,cell,Huawei,13.332168,-16.629319,240,GBA,Kombo North,Western Region
+194,G09_Farato-Paradise City_1,2G,Radio,cell,Huawei,13.307454,-16.658267,75,GBA,Kombo Central,Western Region
+195,G09_Farato-Paradise City_2,2G,Radio,cell,Huawei,13.307454,-16.658267,195,GBA,Kombo Central,Western Region
+192,G09_Kubariko_2,2G,Radio,cell,Huawei,13.332168,-16.629319,105,GBA,Kombo North,Western Region
+160,G09_Tabokoto_1,2G,Radio,cell,Huawei,13.410206,-16.668953,50,GBA,Kanifing,Kanifing Municipality
+161,G09_Tabokoto_2,2G,Radio,cell,Huawei,13.410206,-16.668953,120,GBA,Kanifing,Kanifing Municipality
+162,G09_Tabokoto_3,2G,Radio,cell,Huawei,13.410206,-16.668953,260,GBA,Kanifing,Kanifing Municipality
+191,G09_Kubariko_1,2G,Radio,cell,Huawei,13.332168,-16.629319,15,GBA,Kombo North,Western Region
+210,G09_Ebo Town_1,2G,Radio,cell,Huawei,13.436607,-16.669311,60,GBA,Kanifing,Kanifing Municipality
+211,G09_Ebo Town_2,2G,Radio,cell,Huawei,13.436607,-16.669311,150,GBA,Kanifing,Kanifing Municipality
+214,G09_Busumbala II_2,2G,Radio,cell,Huawei,13.339416,-16.682984,120,GBA,Kombo North,Western Region
+215,G09_Busumbala II_3,2G,Radio,cell,Huawei,13.339416,-16.682984,255,GBA,Kombo North,Western Region
+216,G09_Farafenni 2_1,2G,Radio,cell,Huawei,13.575382,-15.601391,40,Rural,Upper Badibu,North Bank Region
+217,G09_Busumbala_1,2G,Radio,cell,Huawei,13.320299,-16.667309,330,GBA,Kombo North,Western Region
+218,G09_Busumbala_2,2G,Radio,cell,Huawei,13.320299,-16.667309,95,GBA,Kombo North,Western Region
+219,G09_Busumbala_3,2G,Radio,cell,Huawei,13.320299,-16.667309,240,GBA,Kombo North,Western Region
+220,G09_Brikama II_1,2G,Radio,cell,Huawei,13.266641,-16.642473,120,GBA,Kombo Central,Western Region
+221,G09_Brikama II_2,2G,Radio,cell,Huawei,13.266641,-16.642473,200,GBA,Kombo Central,Western Region
+222,G09_Brikama II_3,2G,Radio,cell,Huawei,13.266641,-16.642473,320,GBA,Kombo Central,Western Region
+223,G09_Kartong_1,2G,Radio,cell,Huawei,13.097707,-16.761586,20,GBA,Kombo South,Western Region
+225,G09_Farafenni 2_3,2G,Radio,cell,Huawei,13.575382,-15.601391,250,Rural,Upper Badibu,North Bank Region
+226,G18_Test_2,2G,Radio,cell,Huawei,,,,,,
+228,G09_Brikama Tower_1,2G,Radio,cell,Huawei,13.274743,-16.649217,30,GBA,Kombo Central,Western Region
+229,G09_Brikama Tower_2,2G,Radio,cell,Huawei,13.274743,-16.649217,170,GBA,Kombo Central,Western Region
+230,G09_Brikama Tower_3,2G,Radio,cell,Huawei,13.274743,-16.649217,290,GBA,Kombo Central,Western Region
+240,G09_Kartong_2,2G,Radio,cell,Huawei,13.097707,-16.761586,90,GBA,Kombo South,Western Region
+241,G09_Kartong_3,2G,Radio,cell,Huawei,13.097707,-16.761586,160,GBA,Kombo South,Western Region
+242,G09_Marakissa_1,2G,Radio,cell,Huawei,13.216425,-16.648561,50,GBA,Kombo Central,Western Region
+243,G09_Marakissa_2,2G,Radio,cell,Huawei,13.216425,-16.648561,160,GBA,Kombo Central,Western Region
+245,G09_Brikama Ba_3,2G,Radio,cell,Huawei,13.532752,-14.925251,340,Rural,Fuladou West,Central River Region
+253,G09_Nema Kunku_1,2G,Radio,cell,Huawei,13.402433,-16.683128,10,GBA,Kombo North,Western Region
+254,G09_Nema Kunku_2,2G,Radio,cell,Huawei,13.402433,-16.683128,140,GBA,Kombo North,Western Region
+255,G09_Nema Kunku_3,2G,Radio,cell,Huawei,13.402433,-16.683128,255,GBA,Kombo North,Western Region
+9,L21_Dippa Kunda_9,4G,Radio,cell,Huawei,,,,,,
+256,G09_Kombo Kerewan_1,2G,Radio,cell,Huawei,13.371528,-16.625793,90,GBA,Kombo North,Western Region
+257,G09_Kombo Kerewan_2,2G,Radio,cell,Huawei,13.371528,-16.625793,150,GBA,Kombo North,Western Region
+258,G09_Kombo Kerewan_3,2G,Radio,cell,Huawei,13.371528,-16.625793,230,GBA,Kombo North,Western Region
+259,G09_Somita_1,2G,Radio,cell,Huawei,13.205891,-16.305407,110,Rural,Foni Brefet,Western Region
+260,G09_Somita_2,2G,Radio,cell,Huawei,13.205891,-16.305407,190,Rural,Foni Brefet,Western Region
+261,G09_Somita_3,2G,Radio,cell,Huawei,13.205891,-16.305407,270,Rural,Foni Brefet,Western Region
+272,G09_Jiboroh_1,2G,Radio,cell,Huawei,13.185054,-16.577187,90,Rural,Kombo East,Western Region
+273,G09_Jiboroh_2,2G,Radio,cell,Huawei,13.185054,-16.577187,190,Rural,Kombo East,Western Region
+274,G09_Jiboroh_3,2G,Radio,cell,Huawei,13.185054,-16.577187,340,Rural,Kombo East,Western Region
+289,G09_Marakissa_3,2G,Radio,cell,Huawei,13.216425,-16.648561,240,GBA,Kombo Central,Western Region
+291,G09_Kerr Jarga_1,2G,Radio,cell,Huawei,,,,,,
+292,G09_Kerr Jarga_2,2G,Radio,cell,Huawei,,,,,,
+293,G09_Kerr Jarga_3,2G,Radio,cell,Huawei,,,,,,
+144,G09_Sheraton_3,2G,Radio,cell,Huawei,13.395622,-16.753732,220,GBA,Kombo North,Western Region
+26,G09_Bajakunda_2,2G,Radio,cell,Huawei,13.481843,-14.053507,160,Rural,Wuli East,Upper River Region
+275,G09_Bakadagi_1,2G,Radio,cell,Huawei,13.302762,-14.387321,35,Rural,Jimara,Upper River Region
+276,G09_Bakadagi_2,2G,Radio,cell,Huawei,13.302762,-14.387321,170,Rural,Jimara,Upper River Region
+277,G09_Bakadagi_3,2G,Radio,cell,Huawei,13.302762,-14.387321,280,Rural,Jimara,Upper River Region
+142,G09_Sheraton_1,2G,Radio,cell,Huawei,13.395622,-16.753732,60,GBA,Kombo North,Western Region
+143,G09_Sheraton_2,2G,Radio,cell,Huawei,13.395622,-16.753732,140,GBA,Kombo North,Western Region
+12,G09_Gamstar_1,2G,Radio,cell,Huawei,13.453018,-16.57429,185,GBA,Banjul,Banjul
+13,G09_Gamstar_2,2G,Radio,cell,Huawei,13.453018,-16.57429,280,GBA,Banjul,Banjul
+14,G09_Gamstar_3,2G,Radio,cell,Huawei,13.453018,-16.57429,310,GBA,Banjul,Banjul
+70,G09_Gamtel Bakau_1,2G,Radio,cell,Huawei,13.479507,-16.66756,0,GBA,Kanifing,Kanifing Municipality
+71,G09_Gamtel Bakau_2,2G,Radio,cell,Huawei,13.479507,-16.66756,100,GBA,Kanifing,Kanifing Municipality
+72,G09_Gamtel Bakau_3,2G,Radio,cell,Huawei,13.479507,-16.66756,210,GBA,Kanifing,Kanifing Municipality
+31,G09_Bato Kunku_1,2G,Radio,cell,Huawei,13.325792,-16.798796,10,GBA,Kombo South,Western Region
+32,G09_Bato Kunku_2,2G,Radio,cell,Huawei,13.325792,-16.798796,90,GBA,Kombo South,Western Region
+33,G09_Bato Kunku_3,2G,Radio,cell,Huawei,13.325792,-16.798796,170,GBA,Kombo South,Western Region
+7,G09_Kaiaf_1,2G,Radio,cell,Huawei,13.411158,-15.610371,55,Rural,Kiang East,Lower River Region
+279,G09_Ngeyen Sanjal_1,2G,Radio,cell,Huawei,13.592373,-15.44222,30,Rural,Sabach - Sanjal,North Bank Region
+280,G09_Ngeyen Sanjal_2,2G,Radio,cell,Huawei,13.592373,-15.44222,150,Rural,Sabach - Sanjal,North Bank Region
+281,G09_Ngeyen Sanjal_3,2G,Radio,cell,Huawei,13.592373,-15.44222,300,Rural,Sabach - Sanjal,North Bank Region
+207,G09_Tanji_2,2G,Radio,cell,Huawei,13.358275,-16.797257,150,GBA,Kombo South,Western Region
+208,G09_Tanji_3,2G,Radio,cell,Huawei,13.358275,-16.797257,245,GBA,Kombo South,Western Region
+209,G09_Busumbala II_1,2G,Radio,cell,Huawei,13.339416,-16.682984,15,GBA,Kombo North,Western Region
+176,G09_Kabafita_2,2G,Radio,cell,Huawei,13.28309,-16.636769,200,GBA,Kombo Central,Western Region
+177,G09_Kabafita_3,2G,Radio,cell,Huawei,13.28309,-16.636769,320,GBA,Kombo Central,Western Region
+250,G09_Brikama UTG_1,2G,Radio,cell,Huawei,13.284296,-16.654309,30,GBA,Kombo Central,Western Region
+251,G09_Brikama UTG_2,2G,Radio,cell,Huawei,13.284296,-16.654309,160,GBA,Kombo Central,Western Region
+252,G09_Brikama UTG_3,2G,Radio,cell,Huawei,13.284296,-16.654309,280,GBA,Kombo Central,Western Region
+232,G09_Brikama Cow_3,2G,Radio,cell,Huawei,13.272474,-16.65124,320,GBA,Kombo Central,Western Region
+233,G09_Tendaba Camp_1,2G,Radio,cell,Huawei,,,,,,
+94,G09_Kudang_1,2G,Radio,cell,Huawei,13.660402,-15.065687,0,Rural,Niamina East,Central River Region
+95,G09_Kudang_2,2G,Radio,cell,Huawei,13.660402,-15.065687,120,Rural,Niamina East,Central River Region
+96,G09_Kudang_3,2G,Radio,cell,Huawei,13.660402,-15.065687,200,Rural,Niamina East,Central River Region
+43,G09_Basori_3,2G,Radio,cell,Huawei,13.22767,-16.579877,350,Rural,Kombo North,Western Region
+44,G09_Bulock_2,2G,Radio,cell,Huawei,13.183806,-16.405517,180,Rural,Foni Brefet,Western Region
+45,G09_Bulock_3,2G,Radio,cell,Huawei,13.183806,-16.405517,290,Rural,Foni Brefet,Western Region
+282,G09_Bulock_1,2G,Radio,cell,Huawei,13.183806,-16.405517,80,Rural,Foni Brefet,Western Region
+91,G09_Kerewan_1,2G,Radio,cell,Huawei,13.495771,-16.087754,30,Rural,Lower Badibu,North Bank Region
+93,G09_Kerewan_3,2G,Radio,cell,Huawei,13.495771,-16.087754,290,Rural,Lower Badibu,North Bank Region
+92,G09_Kerewan_2,2G,Radio,cell,Huawei,13.495771,-16.087754,125,Rural,Lower Badibu,North Bank Region
+85,G09_Kanuma_1,2G,Radio,cell,Huawei,13.497422,-16.509055,20,Rural,Lower Niumi,North Bank Region
+86,G09_Kanuma_2,2G,Radio,cell,Huawei,13.497422,-16.509055,120,Rural,Lower Niumi,North Bank Region
+87,G09_Kanuma_3,2G,Radio,cell,Huawei,13.497422,-16.509055,250,Rural,Lower Niumi,North Bank Region
+46,G09_Bwiam_1,2G,Radio,cell,Huawei,13.231701,-16.077638,0,Rural,Foni Kansala,Western Region
+47,G09_Bwiam_2,2G,Radio,cell,Huawei,13.231701,-16.077638,100,Rural,Foni Kansala,Western Region
+48,G09_Bwiam_3,2G,Radio,cell,Huawei,13.231701,-16.077638,230,Rural,Foni Kansala,Western Region
+201,G09_Brusubi_1,2G,Radio,cell,Huawei,13.398599,-16.726664,40,GBA,Kombo North,Western Region
+202,G09_Brusubi_2,2G,Radio,cell,Huawei,13.398599,-16.726664,120,GBA,Kombo North,Western Region
+203,G09_Brusubi_3,2G,Radio,cell,Huawei,13.398599,-16.726664,230,GBA,Kombo North,Western Region
+82,G09_Kalaji_1,2G,Radio,cell,Huawei,13.248927,-15.834784,160,Rural,Foni Jarrol,Western Region
+83,G09_Kalaji_2,2G,Radio,cell,Huawei,13.248927,-15.834784,250,Rural,Foni Jarrol,Western Region
+84,G09_Kalaji_3,2G,Radio,cell,Huawei,13.248927,-15.834784,350,Rural,Foni Jarrol,Western Region
+139,G09_Sibanor_1,2G,Radio,cell,Huawei,13.207006,-16.191847,80,Rural,Foni Brefet,Western Region
+140,G09_Sibanor_2,2G,Radio,cell,Huawei,13.207006,-16.191847,170,Rural,Foni Brefet,Western Region
+141,G09_Sibanor_3,2G,Radio,cell,Huawei,13.207006,-16.191847,270,Rural,Foni Brefet,Western Region
+58,G09_Farababanta_1,2G,Radio,cell,Huawei,13.248195,-16.520254,20,Rural,Kombo East,Western Region
+59,G09_Farababanta_2,2G,Radio,cell,Huawei,13.248195,-16.520254,140,Rural,Kombo East,Western Region
+60,G09_Farababanta_3,2G,Radio,cell,Huawei,13.248195,-16.520254,280,Rural,Kombo East,Western Region
+124,G09_Pakali Ba_1,2G,Radio,cell,Huawei,,,,,,
+125,G09_Pakali Ba_2,2G,Radio,cell,Huawei,,,,,,
+126,G09_Pakali Ba_3,2G,Radio,cell,Huawei,,,,,,
+61,G09_Farafenni_1,2G,Radio,cell,Huawei,13.572049,-15.596224,90,Rural,Upper Badibu,North Bank Region
+62,G09_Farafenni_2,2G,Radio,cell,Huawei,13.572049,-15.596224,170,Rural,Upper Badibu,North Bank Region
+63,G09_Farafenni_3,2G,Radio,cell,Huawei,13.572049,-15.596224,280,Rural,Upper Badibu,North Bank Region
+198,G09_Farato-Paradise City_3,2G,Radio,cell,Huawei,13.307454,-16.658267,315,GBA,Kombo Central,Western Region
+118,G09_Nemasu_1,2G,Radio,cell,Huawei,13.416081,-16.690895,50,GBA,Kombo North,Western Region
+119,G09_Nemasu_2,2G,Radio,cell,Huawei,13.416081,-16.690895,180,GBA,Kombo North,Western Region
+120,G09_Nemasu_3,2G,Radio,cell,Huawei,13.416081,-16.690895,280,GBA,Kombo North,Western Region
+28,G09_Bansang_1,2G,Radio,cell,Huawei,13.432151,-14.656466,30,Rural,Fuladou West,Upper River Region
+30,G09_Jambur_1,2G,Radio,cell,Huawei,13.307093,-16.696712,60,GBA,Kombo South,Western Region
+290,G09_Bansang_3,2G,Radio,cell,Huawei,13.432151,-14.656466,280,Rural,Fuladou West,Upper River Region
+29,G09_Bansang_2,2G,Radio,cell,Huawei,13.432151,-14.656466,160,Rural,Fuladou West,Upper River Region
+224,G09_Farafenni 2_2,2G,Radio,cell,Huawei,13.575382,-15.601391,135,Rural,Upper Badibu,North Bank Region
+199,G09_Tanji_1,2G,Radio,cell,Huawei,13.358275,-16.797257,45,GBA,Kombo South,Western Region
+200,G09_Basse_1,2G,Radio,cell,Huawei,13.31112,-14.213155,0,Rural,Fuladou East,Upper River Region
+212,G09_Basse_2,2G,Radio,cell,Huawei,13.31112,-14.213155,160,Rural,Fuladou East,Upper River Region
+213,G09_Basse_3,2G,Radio,cell,Huawei,13.31112,-14.213155,280,Rural,Fuladou East,Upper River Region
+97,G09_Kuntaur_1,2G,Radio,cell,Huawei,13.65549,-14.871401,120,Rural,Niani,Central River Region
+52,G09_Diabugu_1,2G,Radio,cell,Huawei,13.389266,-14.402954,80,Rural,Sandu,Upper River Region
+53,G09_Diabugu_2,2G,Radio,cell,Huawei,13.389266,-14.402954,200,Rural,Sandu,Upper River Region
+54,G09_Diabugu_3,2G,Radio,cell,Huawei,13.389266,-14.402954,280,Rural,Sandu,Upper River Region
+73,G09_Sukuta Jabang Highway_1,2G,Radio,cell,Huawei,13.394479,-16.705676,25,GBA,Kombo North,Western Region
+74,G09_George Town_2,2G,Radio,cell,Huawei,13.538347,-14.756994,240,Rural,Janjanbureh,Central River Region
+75,G09_George Town_3,2G,Radio,cell,Huawei,13.538347,-14.756994,340,Rural,Janjanbureh,Central River Region
+285,G09_George Town_1,2G,Radio,cell,Huawei,13.538347,-14.756994,120,Rural,Janjanbureh,Central River Region
+34,G09_Bijilo Tower_1,2G,Radio,cell,Huawei,13.420461,-16.727907,90,GBA,Kombo North,Western Region
+35,G09_Bijilo Tower_2,2G,Radio,cell,Huawei,13.420461,-16.727907,250,GBA,Kombo North,Western Region
+36,G09_Bijilo Tower_3,2G,Radio,cell,Huawei,13.420461,-16.727907,345,GBA,Kombo North,Western Region
+123,G09_Numuyel_3,2G,Radio,cell,Huawei,13.281032,-14.296418,280,Rural,Fuladou East,Upper River Region
+122,G09_Numuyel_2,2G,Radio,cell,Huawei,13.281032,-14.296418,200,Rural,Fuladou East,Upper River Region
+121,G09_Numuyel_1,2G,Radio,cell,Huawei,13.281032,-14.296418,120,Rural,Fuladou East,Upper River Region
+157,G09_Sukuta_1,2G,Radio,cell,Huawei,13.419277,-16.705192,50,GBA,Kombo North,Western Region
+158,G09_Sukuta_2,2G,Radio,cell,Huawei,13.419277,-16.705192,170,GBA,Kombo North,Western Region
+159,G09_Sukuta_3,2G,Radio,cell,Huawei,13.419277,-16.705192,290,GBA,Kombo North,Western Region
+196,G09_Kanilai Village_1,2G,Radio,cell,Huawei,13.167975,-16.010147,60,Rural,Foni Kansala,Western Region
+197,G09_Kanilai Village_2,2G,Radio,cell,Huawei,13.167975,-16.010147,230,Rural,Foni Kansala,Western Region
+278,G09_Kanilai Village_3,2G,Radio,cell,Huawei,13.167975,-16.010147,330,Rural,Foni Kansala,Western Region
+234,G09_Comium Residence_1,2G,Radio,cell,Huawei,13.437878,-16.718046,40,GBA,Kanifing,Kanifing Municipality
+235,G09_Comium Residence_2,2G,Radio,cell,Huawei,13.437878,-16.718046,140,GBA,Kanifing,Kanifing Municipality
+236,G09_Comium Residence_3,2G,Radio,cell,Huawei,13.437878,-16.718046,275,GBA,Kanifing,Kanifing Municipality
+109,G09_Mariama Kunda_1,2G,Radio,cell,Huawei,13.36486,-16.729403,120,GBA,Kombo North,Western Region
+110,G09_Mariama Kunda_2,2G,Radio,cell,Huawei,13.36486,-16.729403,240,GBA,Kombo North,Western Region
+111,G09_Mariama Kunda_3,2G,Radio,cell,Huawei,13.36486,-16.729403,340,GBA,Kombo North,Western Region
+204,G09_Old Yundum_1,2G,Radio,cell,Huawei,13.368239,-16.686616,160,GBA,Kombo North,Western Region
+205,G09_Old Yundum_2,2G,Radio,cell,Huawei,13.368239,-16.686616,230,GBA,Kombo North,Western Region
+206,G09_Old Yundum_3,2G,Radio,cell,Huawei,13.368239,-16.686616,300,GBA,Kombo North,Western Region
+237,G09_Tendaba Camp_2,2G,Radio,cell,Huawei,,,,,,
+184,G09_Illiassa_2,2G,Radio,cell,Huawei,13.565307,-15.748364,180,Rural,Lower Badibu,North Bank Region
+185,G09_Illiassa_3,2G,Radio,cell,Huawei,13.565307,-15.748364,260,Rural,Lower Badibu,North Bank Region
+186,G09_Essau_1,2G,Radio,cell,Huawei,13.482011,-16.522206,20,Rural,Lower Niumi,North Bank Region
+163,G09_White House_1,2G,Radio,cell,Huawei,13.433214,-16.691999,60,GBA,Kanifing,Kanifing Municipality
+164,G09_White House_2,2G,Radio,cell,Huawei,13.433214,-16.691999,210,GBA,Kanifing,Kanifing Municipality
+165,G09_White House_3,2G,Radio,cell,Huawei,13.433214,-16.691999,320,GBA,Kanifing,Kanifing Municipality
+127,G09_SOS_1,2G,Radio,cell,Huawei,13.441559,-16.70297,60,GBA,Kanifing,Kanifing Municipality
+128,G09_SOS_2,2G,Radio,cell,Huawei,13.441559,-16.70297,200,GBA,Kanifing,Kanifing Municipality
+129,G09_SOS_3,2G,Radio,cell,Huawei,13.441559,-16.70297,315,GBA,Kanifing,Kanifing Municipality
+0,G09_Future Lecce_1,2G,Radio,cell,Huawei,13.455391,-16.703818,80,GBA,Kanifing,Kanifing Municipality
+1,G09_Future Lecce_2,2G,Radio,cell,Huawei,13.455391,-16.703818,160,GBA,Kanifing,Kanifing Municipality
+2,G09_Future Lecce_3,2G,Radio,cell,Huawei,13.455391,-16.703818,240,GBA,Kanifing,Kanifing Municipality
+18,G09_Kaur_3,2G,Radio,cell,Huawei,13.697851,-15.326958,270,Rural,Sabach - Sanjal,North Bank Region
+136,G09_Saad Raslan_1,2G,Radio,cell,Huawei,13.457916,-16.662042,30,GBA,Kanifing,Kanifing Municipality
+137,G09_Saad Raslan_2,2G,Radio,cell,Huawei,13.457916,-16.662042,180,GBA,Kanifing,Kanifing Municipality
+138,G09_Saad Raslan_3,2G,Radio,cell,Huawei,13.457916,-16.662042,300,GBA,Kanifing,Kanifing Municipality
+151,G09_Soul Samba Street_1,2G,Radio,cell,Huawei,13.474328,-16.678082,40,GBA,Kanifing,Kanifing Municipality
+152,G09_Soul Samba Street_2,2G,Radio,cell,Huawei,13.474328,-16.678082,140,GBA,Kanifing,Kanifing Municipality
+153,G09_Soul Samba Street_3,2G,Radio,cell,Huawei,13.474328,-16.678082,295,GBA,Kanifing,Kanifing Municipality
+112,G09_Minteh Kunda_1,2G,Radio,cell,Huawei,13.572082,-15.865203,100,Rural,Central Baddibu,North Bank Region
+113,G09_Minteh Kunda_2,2G,Radio,cell,Huawei,13.572082,-15.865203,180,Rural,Central Baddibu,North Bank Region
+114,G09_Minteh Kunda_3,2G,Radio,cell,Huawei,13.572082,-15.865203,320,Rural,Central Baddibu,North Bank Region
+98,G09_Kuntaur_2,2G,Radio,cell,Huawei,13.65549,-14.871401,210,Rural,Niani,Central River Region
+99,G09_Kuntaur_3,2G,Radio,cell,Huawei,13.65549,-14.871401,320,Rural,Niani,Central River Region
+263,G09_Bureng_1,2G,Radio,cell,Huawei,13.396583,-15.270363,140,Rural,Jarra East,Lower River Region
+264,G09_Bureng_2,2G,Radio,cell,Huawei,13.396583,-15.270363,210,Rural,Jarra East,Lower River Region
+265,G09_Bureng_3,2G,Radio,cell,Huawei,13.396583,-15.270363,300,Rural,Jarra East,Lower River Region
+150,G09_Somo Bldg_3,2G,Radio,cell,Huawei,13.425182,-16.674104,280,GBA,Kanifing,Kanifing Municipality
+301,G09_HQ_2,2G,Radio,cell,Huawei,13.455589,-16.683532,90,GBA,Kanifing,Kanifing Municipality
+302,G09_HQ_3,2G,Radio,cell,Huawei,13.455589,-16.683532,280,GBA,Kanifing,Kanifing Municipality
+294,G09_Brufut_Mkt_1,2G,Radio,cell,Huawei,13.380397,-16.749969,20,GBA,Kombo North,Western Region
+295,G09_Brufut_Mkt_2,2G,Radio,cell,Huawei,13.380397,-16.749969,155,GBA,Kombo North,Western Region
+296,G09_Brufut_Mkt_3,2G,Radio,cell,Huawei,13.380397,-16.749969,245,GBA,Kombo North,Western Region
+303,G09_Sifo_1,2G,Radio,cell,Huawei,13.186536,-16.698533,15,GBA,Kombo South,Western Region
+304,G09_Sifo_2,2G,Radio,cell,Huawei,13.186536,-16.698533,135,GBA,Kombo South,Western Region
+305,G09_Sifo_3,2G,Radio,cell,Huawei,13.186536,-16.698533,255,GBA,Kombo South,Western Region
+306,G09_Brikama Medina_1,2G,Radio,cell,Huawei,13.262571,-16.652669,45,GBA,Kombo Central,Western Region
+307,G09_Brikama Medina_2,2G,Radio,cell,Huawei,13.262571,-16.652669,165,GBA,Kombo Central,Western Region
+308,G09_Brikama Medina_3,2G,Radio,cell,Huawei,13.262571,-16.652669,288,GBA,Kombo Central,Western Region
+309,G09_Busumbala Central_1,2G,Radio,cell,Huawei,13.337755,-16.669288,3,GBA,Kombo North,Western Region
+310,G09_Busumbala Central_2,2G,Radio,cell,Huawei,13.337755,-16.669288,121,GBA,Kombo North,Western Region
+311,G09_Busumbala Central_3,2G,Radio,cell,Huawei,13.337755,-16.669288,240,GBA,Kombo North,Western Region
+312,G09_Ebo Town_3,2G,Radio,cell,Huawei,13.436607,-16.669311,300,GBA,Kanifing,Kanifing Municipality
+313,G09_Brikama Cow_1,2G,Radio,cell,Huawei,13.272474,-16.65124,80,GBA,Kombo Central,Western Region
+314,G09_Brikama Cow_2,2G,Radio,cell,Huawei,13.272474,-16.65124,170,GBA,Kombo Central,Western Region
+315,G09_Brikama Newtown_1,2G,Radio,cell,Huawei,13.276498,-16.639722,90,GBA,Kombo Central,Western Region
+316,G09_Brikama Newtown_2,2G,Radio,cell,Huawei,13.276498,-16.639722,210,GBA,Kombo Central,Western Region
+317,G09_Brikama Newtown_3,2G,Radio,cell,Huawei,13.276498,-16.639722,330,GBA,Kombo Central,Western Region
+318,G09_Farato_1,2G,Radio,cell,Huawei,13.312439,-16.674004,30,GBA,Kombo South,Western Region
+319,G09_Farato_2,2G,Radio,cell,Huawei,13.312439,-16.674004,140,GBA,Kombo South,Western Region
+320,G09_Farato_3,2G,Radio,cell,Huawei,13.312439,-16.674004,290,GBA,Kombo South,Western Region
+321,G09_Jambajelli_1,2G,Radio,cell,Huawei,13.281885,-16.733081,20,GBA,Kombo South,Western Region
+322,G09_Jambajelli_2,2G,Radio,cell,Huawei,13.281885,-16.733081,120,GBA,Kombo South,Western Region
+323,G09_Jambajelli_3,2G,Radio,cell,Huawei,13.281885,-16.733081,230,GBA,Kombo South,Western Region
+327,G09_Sk Primary School_1,2G,Radio,cell,Huawei,,,,,,
+328,G09_Sk Primary School_2,2G,Radio,cell,Huawei,,,,,,
+329,G09_Sk Primary School_3,2G,Radio,cell,Huawei,,,,,,
+330,G09_Lamin 2_1,2G,Radio,cell,Huawei,13.387227,-16.637169,30,GBA,Kombo North,Western Region
+331,G09_Lamin 2_2,2G,Radio,cell,Huawei,13.387227,-16.637169,150,GBA,Kombo North,Western Region
+332,G09_Lamin 2_3,2G,Radio,cell,Huawei,13.387227,-16.637169,270,GBA,Kombo North,Western Region
+333,G09_Banjul Hope Street_1,2G,Radio,cell,Huawei,13.45518,-16.579537,0,GBA,Banjul,Banjul
+334,G09_Banjul Hope Street_2,2G,Radio,cell,Huawei,13.45518,-16.579537,120,GBA,Banjul,Banjul
+335,G09_Banjul Hope Street_3,2G,Radio,cell,Huawei,13.45518,-16.579537,240,GBA,Banjul,Banjul
+336,G09_Farato 2_1,2G,Radio,cell,Huawei,13.31827,-16.659674,0,GBA,Kombo North,Western Region
+337,G09_Farato 2_2,2G,Radio,cell,Huawei,13.31827,-16.659674,110,GBA,Kombo North,Western Region
+338,G09_Farato 2_3,2G,Radio,cell,Huawei,13.31827,-16.659674,190,GBA,Kombo North,Western Region
+339,G09_Brikama Sanchaba_1,2G,Radio,cell,Huawei,13.26667,-16.636266,45,GBA,Kombo Central,Western Region
+340,G09_Brikama Sanchaba_2,2G,Radio,cell,Huawei,13.26667,-16.636266,110,GBA,Kombo Central,Western Region
+341,G09_Brikama Sanchaba_3,2G,Radio,cell,Huawei,13.26667,-16.636266,180,GBA,Kombo Central,Western Region
+342,G09_Brufut Medina_1,2G,Radio,cell,Huawei,13.374471,-16.766777,65,GBA,Kombo East,Western Region
+343,G09_Brufut Medina_2,2G,Radio,cell,Huawei,13.374471,-16.766777,210,GBA,Kombo East,Western Region
+344,G09_Brufut Medina_3,2G,Radio,cell,Huawei,13.374471,-16.766777,335,GBA,Kombo East,Western Region
+345,G09_Kunkujang Keitaya_1,2G,Radio,cell,Huawei,13.38308,-16.671482,0,GBA,Kombo North,Western Region
+346,G09_Kunkujang Keitaya_2,2G,Radio,cell,Huawei,13.38308,-16.671482,120,GBA,Kombo North,Western Region
+347,G09_Kunkujang Keitaya_3,2G,Radio,cell,Huawei,13.38308,-16.671482,240,GBA,Kombo North,Western Region
+348,G09_Lamin Babylon_1,2G,Radio,cell,Huawei,13.352107,-16.628316,15,GBA,Kombo North,Western Region
+349,G09_Lamin Babylon_2,2G,Radio,cell,Huawei,13.352107,-16.628316,138,GBA,Kombo North,Western Region
+350,G09_Lamin Babylon_3,2G,Radio,cell,Huawei,13.352107,-16.628316,253,GBA,Kombo North,Western Region
+351,G09_LK Sabiji Market_1,2G,Radio,cell,Huawei,13.414763,-16.673953,85,GBA,Kanifing,Kanifing Municipality
+352,G09_LK Sabiji Market_2,2G,Radio,cell,Huawei,13.414763,-16.673953,190,GBA,Kanifing,Kanifing Municipality
+353,G09_LK Sabiji Market_3,2G,Radio,cell,Huawei,13.414763,-16.673953,325,GBA,Kanifing,Kanifing Municipality
+354,G09_Sukuta 2_1,2G,Radio,cell,Huawei,13.405242,-16.711958,60,GBA,Kombo North,Western Region
+355,G09_Sukuta 2_2,2G,Radio,cell,Huawei,13.405242,-16.711958,180,GBA,Kombo North,Western Region
+356,G09_Sukuta 2_3,2G,Radio,cell,Huawei,13.405242,-16.711958,300,GBA,Kombo North,Western Region
+357,G09_Jalambang_1,2G,Radio,cell,Huawei,13.284791,-16.683275,0,GBA,Kombo Central,Western Region
+358,G09_Jalambang_2,2G,Radio,cell,Huawei,13.284791,-16.683275,140,GBA,Kombo Central,Western Region
+359,G09_Jalambang_3,2G,Radio,cell,Huawei,13.284791,-16.683275,230,GBA,Kombo Central,Western Region
+360,G09_Jabang_1,2G,Radio,cell,Huawei,13.363692,-16.712418,60,GBA,Kombo North,Western Region
+361,G09_Jabang_2,2G,Radio,cell,Huawei,13.363692,-16.712418,220,GBA,Kombo North,Western Region
+362,G09_Jabang_3,2G,Radio,cell,Huawei,13.363692,-16.712418,300,GBA,Kombo North,Western Region
+363,G09_Kanifing Estate_1,2G,Radio,cell,Huawei,13.454845,-16.670718,0,GBA,Kanifing,Kanifing Municipality
+364,G09_Kanifing Estate_2,2G,Radio,cell,Huawei,13.454845,-16.670718,120,GBA,Kanifing,Kanifing Municipality
+365,G09_Kanifing Estate_3,2G,Radio,cell,Huawei,13.454845,-16.670718,240,GBA,Kanifing,Kanifing Municipality
+366,G09_Kerr Seringe_1,2G,Radio,cell,Huawei,13.428288,-16.725166,49,GBA,Kombo North,Western Region
+367,G09_Kerr Seringe_2,2G,Radio,cell,Huawei,13.428288,-16.725166,160,GBA,Kombo North,Western Region
+368,G09_Kerr Seringe_3,2G,Radio,cell,Huawei,13.428288,-16.725166,263,GBA,Kombo North,Western Region
+369,G09_LK School_1,2G,Radio,cell,Huawei,13.449622,-16.681927,108,GBA,Kanifing,Kanifing Municipality
+370,G09_LK School_2,2G,Radio,cell,Huawei,13.449622,-16.681927,225,GBA,Kanifing,Kanifing Municipality
+371,G09_LK School_3,2G,Radio,cell,Huawei,13.449622,-16.681927,350,GBA,Kanifing,Kanifing Municipality
+372,G09_Califonia_1,2G,Radio,cell,Huawei,13.382105,-16.73226,60,GBA,Kombo North,Western Region
+373,G09_Califonia_2,2G,Radio,cell,Huawei,13.382105,-16.73226,150,GBA,Kombo North,Western Region
+374,G09_Califonia_3,2G,Radio,cell,Huawei,13.382105,-16.73226,240,GBA,Kombo North,Western Region
+375,G09_Mamuda_1,2G,Radio,cell,Huawei,13.30083,-16.727552,70,GBA,Kombo South,Western Region
+376,G09_Mamuda_2,2G,Radio,cell,Huawei,13.30083,-16.727552,195,GBA,Kombo South,Western Region
+377,G09_Mamuda_3,2G,Radio,cell,Huawei,13.30083,-16.727552,305,GBA,Kombo South,Western Region
+378,G09_Tujereng Estate_1,2G,Radio,cell,Huawei,13.292919,-16.78291,80,GBA,Kombo South,Western Region
+379,G09_Tujereng Estate_2,2G,Radio,cell,Huawei,13.292919,-16.78291,190,GBA,Kombo South,Western Region
+380,G09_Tujereng Estate_3,2G,Radio,cell,Huawei,13.292919,-16.78291,305,GBA,Kombo South,Western Region
+381,G09_Brufut_Nema_1,2G,Radio,cell,Huawei,13.395149,-16.741104,40,GBA,Kombo North,Western Region
+382,G09_Brufut_Nema_2,2G,Radio,cell,Huawei,13.395149,-16.741104,180,GBA,Kombo North,Western Region
+383,G09_Brufut_Nema_3,2G,Radio,cell,Huawei,13.395149,-16.741104,270,GBA,Kombo North,Western Region
+384,G09_Latriya_1,2G,Radio,cell,Huawei,13.329909,-16.707367,110,GBA,Kombo North,Western Region
+385,G09_Latriya_2,2G,Radio,cell,Huawei,13.329909,-16.707367,240,GBA,Kombo North,Western Region
+386,G09_Latriya_3,2G,Radio,cell,Huawei,13.329909,-16.707367,350,GBA,Kombo North,Western Region
+387,G09_Old Yundum 3_1,2G,Radio,cell,Huawei,13.36629,-16.698078,57,GBA,Kombo North,Western Region
+388,G09_Old Yundum 3_2,2G,Radio,cell,Huawei,13.36629,-16.698078,165,GBA,Kombo North,Western Region
+389,G09_Old Yundum 3_3,2G,Radio,cell,Huawei,13.36629,-16.698078,301,GBA,Kombo North,Western Region
+390,G09_Sanchaba Touba_1,2G,Radio,cell,Huawei,13.431632,-16.705403,40,GBA,Kombo North,Western Region
+391,G09_Sanchaba Touba_2,2G,Radio,cell,Huawei,13.431632,-16.705403,130,GBA,Kombo North,Western Region
+392,G09_Sanchaba Touba_3,2G,Radio,cell,Huawei,13.431632,-16.705403,250,GBA,Kombo North,Western Region
+393,G09_Sinchu Sorry_1,2G,Radio,cell,Huawei,13.384708,-16.690123,5,GBA,Kombo North,Western Region
+394,G09_Sinchu Sorry_2,2G,Radio,cell,Huawei,13.384708,-16.690123,125,GBA,Kombo North,Western Region
+395,G09_Sinchu Sorry_3,2G,Radio,cell,Huawei,13.384708,-16.690123,245,GBA,Kombo North,Western Region
+396,G09_Welingara_1,2G,Radio,cell,Huawei,13.402477,-16.665657,10,GBA,Kanifing,Kanifing Municipality
+397,G09_Welingara_2,2G,Radio,cell,Huawei,13.402477,-16.665657,130,GBA,Kanifing,Kanifing Municipality
+398,G09_Welingara_3,2G,Radio,cell,Huawei,13.402477,-16.665657,240,GBA,Kanifing,Kanifing Municipality
+399,G09_Yundum Medina_1,2G,Radio,cell,Huawei,13.356411,-16.679857,15,GBA,Kombo North,Western Region
+400,G09_Yundum Medina_2,2G,Radio,cell,Huawei,13.356411,-16.679857,120,GBA,Kombo North,Western Region
+401,G09_Yundum Medina_3,2G,Radio,cell,Huawei,13.356411,-16.679857,255,GBA,Kombo North,Western Region
+402,G09_Bakau Newtown_1,2G,Radio,cell,Huawei,13.473304,-16.684997,40,GBA,Kanifing,Kanifing Municipality
+403,G09_Bakau Newtown_2,2G,Radio,cell,Huawei,13.473304,-16.684997,170,GBA,Kanifing,Kanifing Municipality
+404,G09_Bakau Newtown_3,2G,Radio,cell,Huawei,13.473304,-16.684997,260,GBA,Kanifing,Kanifing Municipality
+405,G09_GTMI_1,2G,Radio,cell,Huawei,13.4633,-16.6777,40,GBA,Kanifing,Kanifing Municipality
+406,G09_GTMI_2,2G,Radio,cell,Huawei,13.4633,-16.6777,140,GBA,Kanifing,Kanifing Municipality
+407,G09_GTMI_3,2G,Radio,cell,Huawei,13.4633,-16.6777,280,GBA,Kanifing,Kanifing Municipality
+408,G09_Kololi-Palma Junction_1,2G,Radio,cell,Huawei,13.450964,-16.711972,115,GBA,Kanifing,Kanifing Municipality
+409,G09_Kololi-Palma Junction_2,2G,Radio,cell,Huawei,13.450964,-16.711972,210,GBA,Kanifing,Kanifing Municipality
+410,G09_Kololi-Palma Junction_3,2G,Radio,cell,Huawei,13.450964,-16.711972,325,GBA,Kanifing,Kanifing Municipality
+411,G09_Yuna_1,2G,Radio,cell,Huawei,13.346569,-16.727217,0,GBA,Kombo North,Western Region
+412,G09_Yuna_2,2G,Radio,cell,Huawei,13.346569,-16.727217,120,GBA,Kombo North,Western Region
+413,G09_Yuna_3,2G,Radio,cell,Huawei,13.346569,-16.727217,240,GBA,Kombo North,Western Region
+414,G09_Lamin Daranka_1,2G,Radio,cell,Huawei,13.378986,-16.632254,15,GBA,Kombo North,Western Region
+415,G09_Lamin Daranka_2,2G,Radio,cell,Huawei,13.378986,-16.632254,150,GBA,Kombo North,Western Region
+416,G09_Lamin Daranka_3,2G,Radio,cell,Huawei,13.378986,-16.632254,255,GBA,Kombo North,Western Region
+417,G09_Manjai_1,2G,Radio,cell,Huawei,13.449818,-16.699864,105,GBA,Kanifing,Kanifing Municipality
+418,G09_Manjai_2,2G,Radio,cell,Huawei,13.449818,-16.699864,210,GBA,Kanifing,Kanifing Municipality
+419,G09_Manjai_3,2G,Radio,cell,Huawei,13.449818,-16.699864,290,GBA,Kanifing,Kanifing Municipality
+420,G09_Busumbala 4_1,2G,Radio,cell,Huawei,13.322172,-16.649661,12,GBA,Kombo North,Western Region
+421,G09_Busumbala 4_2,2G,Radio,cell,Huawei,13.322172,-16.649661,128,GBA,Kombo North,Western Region
+422,G09_Busumbala 4_3,2G,Radio,cell,Huawei,13.322172,-16.649661,240,GBA,Kombo North,Western Region
+423,G09_Lamin Sateyba_1,2G,Radio,cell,Huawei,13.390692,-16.638504,90,GBA,Kombo North,Western Region
+424,G09_Lamin Sateyba_2,2G,Radio,cell,Huawei,13.390692,-16.638504,202,GBA,Kombo North,Western Region
+425,G09_Lamin Sateyba_3,2G,Radio,cell,Huawei,13.390692,-16.638504,300,GBA,Kombo North,Western Region
+426,G09_Banjulinding_1,2G,Radio,cell,Huawei,13.378188,-16.661955,100,GBA,Kombo North,Western Region
+427,G09_Banjulinding_2,2G,Radio,cell,Huawei,13.378188,-16.661955,216,GBA,Kombo North,Western Region
+428,G09_Banjulinding_3,2G,Radio,cell,Huawei,13.378188,-16.661955,346,GBA,Kombo North,Western Region
+429,G09_Bijilo II_1,2G,Radio,cell,Huawei,13.415244,-16.715273,27,GBA,Kombo North,Western Region
+430,G09_Bijilo II_2,2G,Radio,cell,Huawei,13.415244,-16.715273,140,GBA,Kombo North,Western Region
+431,G09_Bijilo II_3,2G,Radio,cell,Huawei,13.415244,-16.715273,265,GBA,Kombo North,Western Region
+432,G09_Gouygui Market_1,2G,Radio,cell,Huawei,13.345562,-16.689922,70,GBA,Kombo North,Western Region
+433,G09_Gouygui Market_2,2G,Radio,cell,Huawei,13.345562,-16.689922,199,GBA,Kombo North,Western Region
+434,G09_Gouygui Market_3,2G,Radio,cell,Huawei,13.345562,-16.689922,328,GBA,Kombo North,Western Region
+435,G09_Gunjur 2_1,2G,Radio,cell,Huawei,13.179227,-16.757647,90,GBA,Kombo South,Western Region
+436,G09_Gunjur 2_2,2G,Radio,cell,Huawei,13.179227,-16.757647,260,GBA,Kombo South,Western Region
+437,G09_Gunjur 2_3,2G,Radio,cell,Huawei,13.179227,-16.757647,330,GBA,Kombo South,Western Region
+438,G09_Sanyang 2_1,2G,Radio,cell,Huawei,13.26792,-16.753997,10,GBA,Kombo South,Western Region
+439,G09_Sanyang 2_2,2G,Radio,cell,Huawei,13.26792,-16.753997,180,GBA,Kombo South,Western Region
+440,G09_Sanyang 2_3,2G,Radio,cell,Huawei,13.26792,-16.753997,265,GBA,Kombo South,Western Region
+441,G09_Brusubi 2_1,2G,Radio,cell,Huawei,13.399941,-16.732439,60,GBA,Kombo North,Western Region
+442,G09_Brusubi 2_2,2G,Radio,cell,Huawei,13.399941,-16.732439,180,GBA,Kombo North,Western Region
+443,G09_Brusubi 2_3,2G,Radio,cell,Huawei,13.399941,-16.732439,300,GBA,Kombo North,Western Region
+444,G09_Busumbala 3_1,2G,Radio,cell,Huawei,13.322111,-16.677615,30,GBA,Kombo North,Western Region
+445,G09_Busumbala 3_2,2G,Radio,cell,Huawei,13.322111,-16.677615,149,GBA,Kombo North,Western Region
+446,G09_Busumbala 3_3,2G,Radio,cell,Huawei,13.322111,-16.677615,251,GBA,Kombo North,Western Region
+447,G09_Brikama Jamisa II_1,2G,Radio,cell,Huawei,13.27063,-16.664241,110,GBA,Kombo Central,Western Region
+448,G09_Brikama Jamisa II_2,2G,Radio,cell,Huawei,13.27063,-16.664241,210,GBA,Kombo Central,Western Region
+449,G09_Brikama Jamisa II_3,2G,Radio,cell,Huawei,13.27063,-16.664241,280,GBA,Kombo Central,Western Region
+450,G09_Lamin Sanchaba_1,2G,Radio,cell,Huawei,13.381143,-16.651904,30,GBA,Kombo North,Western Region
+451,G09_Lamin Sanchaba_2,2G,Radio,cell,Huawei,13.381143,-16.651904,100,GBA,Kombo North,Western Region
+452,G09_Lamin Sanchaba_3,2G,Radio,cell,Huawei,13.381143,-16.651904,230,GBA,Kombo North,Western Region
+453,G09_Yundum Medina II_1,2G,Radio,cell,Huawei,13.348298,-16.677543,0,GBA,Kombo North,Western Region
+454,G09_Yundum Medina II_2,2G,Radio,cell,Huawei,13.348298,-16.677543,120,GBA,Kombo North,Western Region
+455,G09_Yundum Medina II_3,2G,Radio,cell,Huawei,13.348298,-16.677543,240,GBA,Kombo North,Western Region
+456,G09_Sinchu Alagie 2_1,2G,Radio,cell,Huawei,13.375224,-16.682885,0,GBA,Kombo North,Western Region
+457,G09_Sinchu Alagie 2_2,2G,Radio,cell,Huawei,13.375224,-16.682885,120,GBA,Kombo North,Western Region
+458,G09_Sinchu Alagie 2_3,2G,Radio,cell,Huawei,13.375224,-16.682885,240,GBA,Kombo North,Western Region
+459,G09_Allunghari_1,2G,Radio,cell,Huawei,13.314534,-14.234234,65,Rural,Fuladou East,Upper River Region
+460,G09_Allunghari_2,2G,Radio,cell,Huawei,13.314534,-14.234234,170,Rural,Fuladou East,Upper River Region
+461,G09_Allunghari_3,2G,Radio,cell,Huawei,13.314534,-14.234234,290,Rural,Fuladou East,Upper River Region
+465,G09_Brufut TAF Estate_1,2G,Radio,cell,Huawei,13.388248,-16.761083,60,GBA,Kombo North,Western Region
+466,G09_Brufut TAF Estate_2,2G,Radio,cell,Huawei,13.388248,-16.761083,130,GBA,Kombo North,Western Region
+467,G09_Brufut TAF Estate_3,2G,Radio,cell,Huawei,13.388248,-16.761083,220,GBA,Kombo North,Western Region
+462,G09_Mansajang_1,2G,Radio,cell,Huawei,13.300362,-14.212259,60,Rural,Fuladou East,Upper River Region
+463,G09_Mansajang_2,2G,Radio,cell,Huawei,13.300362,-14.212259,150,Rural,Fuladou East,Upper River Region
+10,L18_Dippa Kunda_10,4G,Radio,cell,Huawei,,,,,,
+464,G09_Mansajang_3,2G,Radio,cell,Huawei,13.300362,-14.212259,300,Rural,Fuladou East,Upper River Region
+888,G09_Test_1,2G,Radio,cell,Huawei,,,,,,
+1,G_Banjul Tower,2G,Radio,site,Huawei,13.458224,-16.584069,60,GBA,Banjul,Banjul
+1,G_Banjul Tower,2G,Radio,site,Huawei,13.458224,-16.584069,170,GBA,Banjul,Banjul
+1,G_Banjul Tower,2G,Radio,site,Huawei,13.458224,-16.584069,280,GBA,Banjul,Banjul
+79,G_HQ,2G,Radio,site,Huawei,13.455589,-16.683532,0,GBA,Kanifing,Kanifing Municipality
+79,G_HQ,2G,Radio,site,Huawei,13.455589,-16.683532,90,GBA,Kanifing,Kanifing Municipality
+79,G_HQ,2G,Radio,site,Huawei,13.455589,-16.683532,280,GBA,Kanifing,Kanifing Municipality
+47,G_Kaiaf,2G,Radio,site,Huawei,13.411158,-15.610371,55,Rural,Kiang East,Lower River Region
+47,G_Kaiaf,2G,Radio,site,Huawei,13.411158,-15.610371,170,Rural,Kiang East,Lower River Region
+47,G_Kaiaf,2G,Radio,site,Huawei,13.411158,-15.610371,280,Rural,Kiang East,Lower River Region
+66,G_Dobson,2G,Radio,site,Huawei,13.449784,-16.575675,130,GBA,Banjul,Banjul
+66,G_Dobson,2G,Radio,site,Huawei,13.449784,-16.575675,215,GBA,Banjul,Banjul
+66,G_Dobson,2G,Radio,site,Huawei,13.449784,-16.575675,320,GBA,Banjul,Banjul
+82,G_Kaur,2G,Radio,site,Huawei,13.697851,-15.326958,60,Rural,Sabach - Sanjal,North Bank Region
+82,G_Kaur,2G,Radio,site,Huawei,13.697851,-15.326958,140,Rural,Sabach - Sanjal,North Bank Region
+82,G_Kaur,2G,Radio,site,Huawei,13.697851,-15.326958,270,Rural,Sabach - Sanjal,North Bank Region
+6,G_Airport,2G,Radio,site,Huawei,13.349056,-16.658,100,GBA,Kombo North,Western Region
+6,G_Airport,2G,Radio,site,Huawei,13.349056,-16.658,230,GBA,Kombo North,Western Region
+6,G_Airport,2G,Radio,site,Huawei,13.349056,-16.658,330,GBA,Kombo North,Western Region
+0,G_Arab Islamic Bank,2G,Radio,site,Huawei,13.445166,-16.674637,90,GBA,Kanifing,Kanifing Municipality
+0,G_Arab Islamic Bank,2G,Radio,site,Huawei,13.445166,-16.674637,190,GBA,Kanifing,Kanifing Municipality
+0,G_Arab Islamic Bank,2G,Radio,site,Huawei,13.445166,-16.674637,330,GBA,Kanifing,Kanifing Municipality
+8,G_Bajakunda,2G,Radio,site,Huawei,13.481843,-14.053507,60,Rural,Wuli East,Upper River Region
+8,G_Bajakunda,2G,Radio,site,Huawei,13.481843,-14.053507,160,Rural,Wuli East,Upper River Region
+8,G_Bajakunda,2G,Radio,site,Huawei,13.481843,-14.053507,270,Rural,Wuli East,Upper River Region
+80,G_Brikama Ba,2G,Radio,site,Huawei,13.532752,-14.925251,180,Rural,Fuladou West,Central River Region
+80,G_Brikama Ba,2G,Radio,site,Huawei,13.532752,-14.925251,240,Rural,Fuladou West,Central River Region
+80,G_Brikama Ba,2G,Radio,site,Huawei,13.532752,-14.925251,340,Rural,Fuladou West,Central River Region
+62,G_Jambur,2G,Radio,site,Huawei,13.307093,-16.696712,60,GBA,Kombo South,Western Region
+62,G_Jambur,2G,Radio,site,Huawei,13.307093,-16.696712,160,GBA,Kombo South,Western Region
+62,G_Jambur,2G,Radio,site,Huawei,13.307093,-16.696712,330,GBA,Kombo South,Western Region
+65,G_Basori,2G,Radio,site,Huawei,13.22767,-16.579877,160,Rural,Kombo North,Western Region
+65,G_Basori,2G,Radio,site,Huawei,13.22767,-16.579877,250,Rural,Kombo North,Western Region
+65,G_Basori,2G,Radio,site,Huawei,13.22767,-16.579877,350,Rural,Kombo North,Western Region
+16,G_White Building,2G,Radio,site,Huawei,13.465954,-16.691005,0,GBA,Kanifing,Kanifing Municipality
+16,G_White Building,2G,Radio,site,Huawei,13.465954,-16.691005,160,GBA,Kanifing,Kanifing Municipality
+16,G_White Building,2G,Radio,site,Huawei,13.465954,-16.691005,240,GBA,Kanifing,Kanifing Municipality
+49,G_Earth Station,2G,Radio,site,Huawei,13.401895,-16.653944,110,GBA,Kanifing,Kanifing Municipality
+49,G_Earth Station,2G,Radio,site,Huawei,13.401895,-16.653944,200,GBA,Kanifing,Kanifing Municipality
+49,G_Earth Station,2G,Radio,site,Huawei,13.401895,-16.653944,20,GBA,Kanifing,Kanifing Municipality
+21,G_Fass,2G,Radio,site,Huawei,13.564781,-16.428517,20,Rural,Lower Niumi,North Bank Region
+21,G_Fass,2G,Radio,site,Huawei,13.564781,-16.428517,130,Rural,Lower Niumi,North Bank Region
+21,G_Fass,2G,Radio,site,Huawei,13.564781,-16.428517,240,Rural,Lower Niumi,North Bank Region
+22,G_Fatoto,2G,Radio,site,Huawei,13.39304,-13.907269,10,Rural,Kantora,Upper River Region
+22,G_Fatoto,2G,Radio,site,Huawei,13.39304,-13.907269,115,Rural,Kantora,Upper River Region
+22,G_Fatoto,2G,Radio,site,Huawei,13.39304,-13.907269,270,Rural,Kantora,Upper River Region
+25,G_Gunjur,2G,Radio,site,Huawei,13.16955,-16.760743,0,GBA,Kombo South,Western Region
+25,G_Gunjur,2G,Radio,site,Huawei,13.16955,-16.760743,100,GBA,Kombo South,Western Region
+25,G_Gunjur,2G,Radio,site,Huawei,13.16955,-16.760743,200,GBA,Kombo South,Western Region
+26,G_Senegambia,2G,Radio,site,Huawei,13.44226,-16.721727,0,GBA,Kanifing,Kanifing Municipality
+26,G_Senegambia,2G,Radio,site,Huawei,13.44226,-16.721727,135,GBA,Kanifing,Kanifing Municipality
+26,G_Senegambia,2G,Radio,site,Huawei,13.44226,-16.721727,260,GBA,Kanifing,Kanifing Municipality
+84,G_Sukuta-Jabang Highway,2G,Radio,site,Huawei,13.394479,-16.705676,25,GBA,Kombo North,Western Region
+84,G_Sukuta-Jabang Highway,2G,Radio,site,Huawei,13.394479,-16.705676,125,GBA,Kombo North,Western Region
+84,G_Sukuta-Jabang Highway,2G,Radio,site,Huawei,13.394479,-16.705676,215,GBA,Kombo North,Western Region
+83,G_Jabang Estate,2G,Radio,site,Huawei,13.356374,-16.705119,95,GBA,Kombo North,Western Region
+83,G_Jabang Estate,2G,Radio,site,Huawei,13.356374,-16.705119,190,GBA,Kombo North,Western Region
+83,G_Jabang Estate,2G,Radio,site,Huawei,13.356374,-16.705119,310,GBA,Kombo North,Western Region
+33,G_Kwenilla,2G,Radio,site,Huawei,13.396557,-15.793325,80,Rural,Kiang Central,Lower River Region
+33,G_Kwenilla,2G,Radio,site,Huawei,13.396557,-15.793325,230,Rural,Kiang Central,Lower River Region
+33,G_Kwenilla,2G,Radio,site,Huawei,13.396557,-15.793325,340,Rural,Kiang Central,Lower River Region
+34,G_Lamin,2G,Radio,site,Huawei,13.383897,-16.644597,20,GBA,Kombo North,Western Region
+34,G_Lamin,2G,Radio,site,Huawei,13.383897,-16.644597,120,GBA,Kombo North,Western Region
+34,G_Lamin,2G,Radio,site,Huawei,13.383897,-16.644597,240,GBA,Kombo North,Western Region
+64,G_Mansakonko,2G,Radio,site,Huawei,13.455152,-15.535005,70,Rural,Mansakonko,Lower River Region
+64,G_Mansakonko,2G,Radio,site,Huawei,13.455152,-15.535005,140,Rural,Mansakonko,Lower River Region
+64,G_Mansakonko,2G,Radio,site,Huawei,13.455152,-15.535005,240,Rural,Mansakonko,Lower River Region
+13,G_Ndugu Kebbeh,2G,Radio,site,Huawei,13.542507,-16.319659,120,Rural,Lower Niumi,North Bank Region
+13,G_Ndugu Kebbeh,2G,Radio,site,Huawei,13.542507,-16.319659,230,Rural,Lower Niumi,North Bank Region
+13,G_Ndugu Kebbeh,2G,Radio,site,Huawei,13.542507,-16.319659,330,Rural,Lower Niumi,North Bank Region
+43,G_Sanyang,2G,Radio,site,Huawei,13.268192,-16.762662,30,GBA,Kombo South,Western Region
+43,G_Sanyang,2G,Radio,site,Huawei,13.268192,-16.762662,160,GBA,Kombo South,Western Region
+43,G_Sanyang,2G,Radio,site,Huawei,13.268192,-16.762662,280,GBA,Kombo South,Western Region
+2,G_Serra Kunda Mkt Bldg,2G,Radio,site,Huawei,13.439217,-16.682959,70,GBA,Kanifing,Kanifing Municipality
+2,G_Serra Kunda Mkt Bldg,2G,Radio,site,Huawei,13.439217,-16.682959,200,GBA,Kanifing,Kanifing Municipality
+2,G_Serra Kunda Mkt Bldg,2G,Radio,site,Huawei,13.439217,-16.682959,335,GBA,Kanifing,Kanifing Municipality
+48,G_Sinchubaliya,2G,Radio,site,Huawei,13.393696,-16.674208,30,GBA,Kombo North,Western Region
+48,G_Sinchubaliya,2G,Radio,site,Huawei,13.393696,-16.674208,150,GBA,Kombo North,Western Region
+48,G_Sinchubaliya,2G,Radio,site,Huawei,13.393696,-16.674208,230,GBA,Kombo North,Western Region
+44,G_Somo Bldg,2G,Radio,site,Huawei,13.425182,-16.674104,65,GBA,Kanifing,Kanifing Municipality
+44,G_Somo Bldg,2G,Radio,site,Huawei,13.425182,-16.674104,190,GBA,Kanifing,Kanifing Municipality
+44,G_Somo Bldg,2G,Radio,site,Huawei,13.425182,-16.674104,280,GBA,Kanifing,Kanifing Municipality
+51,G_Sudowol,2G,Radio,site,Huawei,13.361017,-13.99968,80,Rural,Kantora,Upper River Region
+51,G_Sudowol,2G,Radio,site,Huawei,13.361017,-13.99968,190,Rural,Kantora,Upper River Region
+51,G_Sudowol,2G,Radio,site,Huawei,13.361017,-13.99968,260,Rural,Kantora,Upper River Region
+55,G_Bundung,2G,Radio,site,Huawei,13.426453,-16.6837,20,GBA,Kanifing,Kanifing Municipality
+55,G_Bundung,2G,Radio,site,Huawei,13.426453,-16.6837,190,GBA,Kanifing,Kanifing Municipality
+55,G_Bundung,2G,Radio,site,Huawei,13.426453,-16.6837,300,GBA,Kanifing,Kanifing Municipality
+56,G_Faji Kunda,2G,Radio,site,Huawei,13.419903,-16.667111,80,GBA,Kanifing,Kanifing Municipality
+56,G_Faji Kunda,2G,Radio,site,Huawei,13.419903,-16.667111,190,GBA,Kanifing,Kanifing Municipality
+56,G_Faji Kunda,2G,Radio,site,Huawei,13.419903,-16.667111,300,GBA,Kanifing,Kanifing Municipality
+57,G_New Jeshwang,2G,Radio,site,Huawei,13.436689,-16.674701,80,GBA,Kanifing,Kanifing Municipality
+57,G_New Jeshwang,2G,Radio,site,Huawei,13.436689,-16.674701,190,GBA,Kanifing,Kanifing Municipality
+57,G_New Jeshwang,2G,Radio,site,Huawei,13.436689,-16.674701,280,GBA,Kanifing,Kanifing Municipality
+58,G_Kabafita,2G,Radio,site,Huawei,13.28309,-16.636769,90,GBA,Kombo Central,Western Region
+58,G_Kabafita,2G,Radio,site,Huawei,13.28309,-16.636769,200,GBA,Kombo Central,Western Region
+58,G_Kabafita,2G,Radio,site,Huawei,13.28309,-16.636769,320,GBA,Kombo Central,Western Region
+86,G_Mandinari,2G,Radio,site,Huawei,13.367586,-16.60632,20,GBA,Kombo North,Western Region
+86,G_Mandinari,2G,Radio,site,Huawei,13.367586,-16.60632,140,GBA,Kombo North,Western Region
+86,G_Mandinari,2G,Radio,site,Huawei,13.367586,-16.60632,240,GBA,Kombo North,Western Region
+87,G_Illiassa,2G,Radio,site,Huawei,13.565307,-15.748364,20,Rural,Lower Badibu,North Bank Region
+87,G_Illiassa,2G,Radio,site,Huawei,13.565307,-15.748364,180,Rural,Lower Badibu,North Bank Region
+87,G_Illiassa,2G,Radio,site,Huawei,13.565307,-15.748364,260,Rural,Lower Badibu,North Bank Region
+85,G_Essau,2G,Radio,site,Huawei,13.482011,-16.522206,20,Rural,Lower Niumi,North Bank Region
+85,G_Essau,2G,Radio,site,Huawei,13.482011,-16.522206,125,Rural,Lower Niumi,North Bank Region
+85,G_Essau,2G,Radio,site,Huawei,13.482011,-16.522206,270,Rural,Lower Niumi,North Bank Region
+88,G_Denton Bridge,2G,Radio,site,Huawei,13.468615,-16.629499,95,GBA,Kanifing,Kanifing Municipality
+88,G_Denton Bridge,2G,Radio,site,Huawei,13.468615,-16.629499,265,GBA,Kanifing,Kanifing Municipality
+89,G_Kubariko,2G,Radio,site,Huawei,13.332168,-16.629319,15,GBA,Kombo North,Western Region
+89,G_Kubariko,2G,Radio,site,Huawei,13.332168,-16.629319,105,GBA,Kombo North,Western Region
+89,G_Kubariko,2G,Radio,site,Huawei,13.332168,-16.629319,240,GBA,Kombo North,Western Region
+90,G_Farato-Paradise City,2G,Radio,site,Huawei,13.307454,-16.658267,75,GBA,Kombo Central,Western Region
+90,G_Farato-Paradise City,2G,Radio,site,Huawei,13.307454,-16.658267,195,GBA,Kombo Central,Western Region
+90,G_Farato-Paradise City,2G,Radio,site,Huawei,13.307454,-16.658267,315,GBA,Kombo Central,Western Region
+52,G_Tabokoto,2G,Radio,site,Huawei,13.410206,-16.668953,50,GBA,Kanifing,Kanifing Municipality
+52,G_Tabokoto,2G,Radio,site,Huawei,13.410206,-16.668953,120,GBA,Kanifing,Kanifing Municipality
+52,G_Tabokoto,2G,Radio,site,Huawei,13.410206,-16.668953,260,GBA,Kanifing,Kanifing Municipality
+71,G_Ebo Town,2G,Radio,site,Huawei,13.436607,-16.669311,60,GBA,Kanifing,Kanifing Municipality
+71,G_Ebo Town,2G,Radio,site,Huawei,13.436607,-16.669311,150,GBA,Kanifing,Kanifing Municipality
+71,G_Ebo Town,2G,Radio,site,Huawei,13.436607,-16.669311,300,GBA,Kanifing,Kanifing Municipality
+92,G_Busumbala II,2G,Radio,site,Huawei,13.339416,-16.682984,15,GBA,Kombo North,Western Region
+92,G_Busumbala II,2G,Radio,site,Huawei,13.339416,-16.682984,120,GBA,Kombo North,Western Region
+92,G_Busumbala II,2G,Radio,site,Huawei,13.339416,-16.682984,255,GBA,Kombo North,Western Region
+93,G_Farafenni 2,2G,Radio,site,Huawei,13.575382,-15.601391,40,Rural,Upper Badibu,North Bank Region
+93,G_Farafenni 2,2G,Radio,site,Huawei,13.575382,-15.601391,135,Rural,Upper Badibu,North Bank Region
+93,G_Farafenni 2,2G,Radio,site,Huawei,13.575382,-15.601391,250,Rural,Upper Badibu,North Bank Region
+75,G_Busumbala,2G,Radio,site,Huawei,13.320299,-16.667309,330,GBA,Kombo North,Western Region
+75,G_Busumbala,2G,Radio,site,Huawei,13.320299,-16.667309,95,GBA,Kombo North,Western Region
+75,G_Busumbala,2G,Radio,site,Huawei,13.320299,-16.667309,240,GBA,Kombo North,Western Region
+76,G_Brikama II,2G,Radio,site,Huawei,13.266641,-16.642473,120,GBA,Kombo Central,Western Region
+76,G_Brikama II,2G,Radio,site,Huawei,13.266641,-16.642473,200,GBA,Kombo Central,Western Region
+76,G_Brikama II,2G,Radio,site,Huawei,13.266641,-16.642473,320,GBA,Kombo Central,Western Region
+39,G_Kartong,2G,Radio,site,Huawei,13.097707,-16.761586,20,GBA,Kombo South,Western Region
+39,G_Kartong,2G,Radio,site,Huawei,13.097707,-16.761586,90,GBA,Kombo South,Western Region
+39,G_Kartong,2G,Radio,site,Huawei,13.097707,-16.761586,160,GBA,Kombo South,Western Region
+149,G_Test,2G,Radio,site,Huawei,,,,,,
+68,G_Brikama Tower,2G,Radio,site,Huawei,13.274743,-16.649217,30,GBA,Kombo Central,Western Region
+68,G_Brikama Tower,2G,Radio,site,Huawei,13.274743,-16.649217,170,GBA,Kombo Central,Western Region
+68,G_Brikama Tower,2G,Radio,site,Huawei,13.274743,-16.649217,290,GBA,Kombo Central,Western Region
+70,G_Marakissa,2G,Radio,site,Huawei,13.216425,-16.648561,50,GBA,Kombo Central,Western Region
+70,G_Marakissa,2G,Radio,site,Huawei,13.216425,-16.648561,160,GBA,Kombo Central,Western Region
+70,G_Marakissa,2G,Radio,site,Huawei,13.216425,-16.648561,240,GBA,Kombo Central,Western Region
+35,G_Nema Kunku,2G,Radio,site,Huawei,13.402433,-16.683128,10,GBA,Kombo North,Western Region
+35,G_Nema Kunku,2G,Radio,site,Huawei,13.402433,-16.683128,140,GBA,Kombo North,Western Region
+35,G_Nema Kunku,2G,Radio,site,Huawei,13.402433,-16.683128,255,GBA,Kombo North,Western Region
+42,G_Kombo Kerewan,2G,Radio,site,Huawei,13.371528,-16.625793,90,GBA,Kombo North,Western Region
+42,G_Kombo Kerewan,2G,Radio,site,Huawei,13.371528,-16.625793,150,GBA,Kombo North,Western Region
+42,G_Kombo Kerewan,2G,Radio,site,Huawei,13.371528,-16.625793,230,GBA,Kombo North,Western Region
+38,G_Somita,2G,Radio,site,Huawei,13.205891,-16.305407,110,Rural,Foni Brefet,Western Region
+38,G_Somita,2G,Radio,site,Huawei,13.205891,-16.305407,190,Rural,Foni Brefet,Western Region
+38,G_Somita,2G,Radio,site,Huawei,13.205891,-16.305407,270,Rural,Foni Brefet,Western Region
+3,G_Jiboroh,2G,Radio,site,Huawei,13.185054,-16.577187,90,Rural,Kombo East,Western Region
+3,G_Jiboroh,2G,Radio,site,Huawei,13.185054,-16.577187,190,Rural,Kombo East,Western Region
+3,G_Jiboroh,2G,Radio,site,Huawei,13.185054,-16.577187,340,Rural,Kombo East,Western Region
+77,G_Kerr Jarga,2G,Radio,site,Huawei,,,,,,
+29,G_Sheraton,2G,Radio,site,Huawei,13.395622,-16.753732,60,GBA,Kombo North,Western Region
+29,G_Sheraton,2G,Radio,site,Huawei,13.395622,-16.753732,140,GBA,Kombo North,Western Region
+29,G_Sheraton,2G,Radio,site,Huawei,13.395622,-16.753732,220,GBA,Kombo North,Western Region
+72,G_Bakadagi,2G,Radio,site,Huawei,13.302762,-14.387321,35,Rural,Jimara,Upper River Region
+72,G_Bakadagi,2G,Radio,site,Huawei,13.302762,-14.387321,170,Rural,Jimara,Upper River Region
+72,G_Bakadagi,2G,Radio,site,Huawei,13.302762,-14.387321,280,Rural,Jimara,Upper River Region
+4,G_Gamstar,2G,Radio,site,Huawei,13.453018,-16.57429,185,GBA,Banjul,Banjul
+4,G_Gamstar,2G,Radio,site,Huawei,13.453018,-16.57429,280,GBA,Banjul,Banjul
+4,G_Gamstar,2G,Radio,site,Huawei,13.453018,-16.57429,310,GBA,Banjul,Banjul
+23,G_Gamtel Bakau,2G,Radio,site,Huawei,13.479507,-16.66756,0,GBA,Kanifing,Kanifing Municipality
+23,G_Gamtel Bakau,2G,Radio,site,Huawei,13.479507,-16.66756,100,GBA,Kanifing,Kanifing Municipality
+23,G_Gamtel Bakau,2G,Radio,site,Huawei,13.479507,-16.66756,210,GBA,Kanifing,Kanifing Municipality
+60,G_Bato Kunku,2G,Radio,site,Huawei,13.325792,-16.798796,10,GBA,Kombo South,Western Region
+60,G_Bato Kunku,2G,Radio,site,Huawei,13.325792,-16.798796,90,GBA,Kombo South,Western Region
+60,G_Bato Kunku,2G,Radio,site,Huawei,13.325792,-16.798796,170,GBA,Kombo South,Western Region
+59,G_Ngeyen Sanjal,2G,Radio,site,Huawei,13.592373,-15.44222,30,Rural,Sabach - Sanjal,North Bank Region
+59,G_Ngeyen Sanjal,2G,Radio,site,Huawei,13.592373,-15.44222,150,Rural,Sabach - Sanjal,North Bank Region
+59,G_Ngeyen Sanjal,2G,Radio,site,Huawei,13.592373,-15.44222,300,Rural,Sabach - Sanjal,North Bank Region
+91,G_Tanji,2G,Radio,site,Huawei,13.358275,-16.797257,45,GBA,Kombo South,Western Region
+91,G_Tanji,2G,Radio,site,Huawei,13.358275,-16.797257,150,GBA,Kombo South,Western Region
+91,G_Tanji,2G,Radio,site,Huawei,13.358275,-16.797257,245,GBA,Kombo South,Western Region
+20,G_Brikama UTG,2G,Radio,site,Huawei,13.284296,-16.654309,30,GBA,Kombo Central,Western Region
+20,G_Brikama UTG,2G,Radio,site,Huawei,13.284296,-16.654309,160,GBA,Kombo Central,Western Region
+20,G_Brikama UTG,2G,Radio,site,Huawei,13.284296,-16.654309,280,GBA,Kombo Central,Western Region
+98,G_Brikama Cow,2G,Radio,site,Huawei,13.272474,-16.65124,80,GBA,Kombo Central,Western Region
+98,G_Brikama Cow,2G,Radio,site,Huawei,13.272474,-16.65124,170,GBA,Kombo Central,Western Region
+98,G_Brikama Cow,2G,Radio,site,Huawei,13.272474,-16.65124,320,GBA,Kombo Central,Western Region
+101,G_Tendaba Camp,2G,Radio,site,Huawei,,,,,,
+31,G_Kudang,2G,Radio,site,Huawei,13.660402,-15.065687,0,Rural,Niamina East,Central River Region
+31,G_Kudang,2G,Radio,site,Huawei,13.660402,-15.065687,120,Rural,Niamina East,Central River Region
+31,G_Kudang,2G,Radio,site,Huawei,13.660402,-15.065687,200,Rural,Niamina East,Central River Region
+14,G_Bulock,2G,Radio,site,Huawei,13.183806,-16.405517,80,Rural,Foni Brefet,Western Region
+14,G_Bulock,2G,Radio,site,Huawei,13.183806,-16.405517,180,Rural,Foni Brefet,Western Region
+14,G_Bulock,2G,Radio,site,Huawei,13.183806,-16.405517,290,Rural,Foni Brefet,Western Region
+30,G_Kerewan,2G,Radio,site,Huawei,13.495771,-16.087754,30,Rural,Lower Badibu,North Bank Region
+30,G_Kerewan,2G,Radio,site,Huawei,13.495771,-16.087754,125,Rural,Lower Badibu,North Bank Region
+30,G_Kerewan,2G,Radio,site,Huawei,13.495771,-16.087754,290,Rural,Lower Badibu,North Bank Region
+28,G_Kanuma,2G,Radio,site,Huawei,13.497422,-16.509055,20,Rural,Lower Niumi,North Bank Region
+28,G_Kanuma,2G,Radio,site,Huawei,13.497422,-16.509055,120,Rural,Lower Niumi,North Bank Region
+28,G_Kanuma,2G,Radio,site,Huawei,13.497422,-16.509055,250,Rural,Lower Niumi,North Bank Region
+15,G_Bwiam,2G,Radio,site,Huawei,13.231701,-16.077638,0,Rural,Foni Kansala,Western Region
+15,G_Bwiam,2G,Radio,site,Huawei,13.231701,-16.077638,100,Rural,Foni Kansala,Western Region
+15,G_Bwiam,2G,Radio,site,Huawei,13.231701,-16.077638,230,Rural,Foni Kansala,Western Region
+53,G_Brusubi,2G,Radio,site,Huawei,13.398599,-16.726664,40,GBA,Kombo North,Western Region
+53,G_Brusubi,2G,Radio,site,Huawei,13.398599,-16.726664,120,GBA,Kombo North,Western Region
+53,G_Brusubi,2G,Radio,site,Huawei,13.398599,-16.726664,230,GBA,Kombo North,Western Region
+27,G_Kalaji,2G,Radio,site,Huawei,13.248927,-15.834784,160,Rural,Foni Jarrol,Western Region
+27,G_Kalaji,2G,Radio,site,Huawei,13.248927,-15.834784,250,Rural,Foni Jarrol,Western Region
+27,G_Kalaji,2G,Radio,site,Huawei,13.248927,-15.834784,350,Rural,Foni Jarrol,Western Region
+18,G_Sibanor,2G,Radio,site,Huawei,13.207006,-16.191847,80,Rural,Foni Brefet,Western Region
+18,G_Sibanor,2G,Radio,site,Huawei,13.207006,-16.191847,170,Rural,Foni Brefet,Western Region
+18,G_Sibanor,2G,Radio,site,Huawei,13.207006,-16.191847,270,Rural,Foni Brefet,Western Region
+19,G_Farababanta,2G,Radio,site,Huawei,13.248195,-16.520254,20,Rural,Kombo East,Western Region
+19,G_Farababanta,2G,Radio,site,Huawei,13.248195,-16.520254,140,Rural,Kombo East,Western Region
+19,G_Farababanta,2G,Radio,site,Huawei,13.248195,-16.520254,280,Rural,Kombo East,Western Region
+41,G_Pakali Ba,2G,Radio,site,Huawei,,,,,,
+67,G_Farafenni,2G,Radio,site,Huawei,13.572049,-15.596224,90,Rural,Upper Badibu,North Bank Region
+67,G_Farafenni,2G,Radio,site,Huawei,13.572049,-15.596224,170,Rural,Upper Badibu,North Bank Region
+67,G_Farafenni,2G,Radio,site,Huawei,13.572049,-15.596224,280,Rural,Upper Badibu,North Bank Region
+5,G_Nemasu,2G,Radio,site,Huawei,13.416081,-16.690895,50,GBA,Kombo North,Western Region
+5,G_Nemasu,2G,Radio,site,Huawei,13.416081,-16.690895,180,GBA,Kombo North,Western Region
+5,G_Nemasu,2G,Radio,site,Huawei,13.416081,-16.690895,280,GBA,Kombo North,Western Region
+9,G_Bansang,2G,Radio,site,Huawei,13.432151,-14.656466,30,Rural,Fuladou West,Upper River Region
+9,G_Bansang,2G,Radio,site,Huawei,13.432151,-14.656466,160,Rural,Fuladou West,Upper River Region
+9,G_Bansang,2G,Radio,site,Huawei,13.432151,-14.656466,280,Rural,Fuladou West,Upper River Region
+17,G_Basse,2G,Radio,site,Huawei,13.31112,-14.213155,0,Rural,Fuladou East,Upper River Region
+17,G_Basse,2G,Radio,site,Huawei,13.31112,-14.213155,160,Rural,Fuladou East,Upper River Region
+17,G_Basse,2G,Radio,site,Huawei,13.31112,-14.213155,280,Rural,Fuladou East,Upper River Region
+32,G_Kuntaur,2G,Radio,site,Huawei,13.65549,-14.871401,120,Rural,Niani,Central River Region
+32,G_Kuntaur,2G,Radio,site,Huawei,13.65549,-14.871401,210,Rural,Niani,Central River Region
+32,G_Kuntaur,2G,Radio,site,Huawei,13.65549,-14.871401,320,Rural,Niani,Central River Region
+74,G_Diabugu,2G,Radio,site,Huawei,13.389266,-14.402954,80,Rural,Sandu,Upper River Region
+74,G_Diabugu,2G,Radio,site,Huawei,13.389266,-14.402954,200,Rural,Sandu,Upper River Region
+74,G_Diabugu,2G,Radio,site,Huawei,13.389266,-14.402954,280,Rural,Sandu,Upper River Region
+24,G_George Town,2G,Radio,site,Huawei,13.538347,-14.756994,120,Rural,Janjanbureh,Central River Region
+24,G_George Town,2G,Radio,site,Huawei,13.538347,-14.756994,240,Rural,Janjanbureh,Central River Region
+24,G_George Town,2G,Radio,site,Huawei,13.538347,-14.756994,340,Rural,Janjanbureh,Central River Region
+11,G_Bijilo Tower,2G,Radio,site,Huawei,13.420461,-16.727907,90,GBA,Kombo North,Western Region
+11,G_Bijilo Tower,2G,Radio,site,Huawei,13.420461,-16.727907,250,GBA,Kombo North,Western Region
+11,G_Bijilo Tower,2G,Radio,site,Huawei,13.420461,-16.727907,345,GBA,Kombo North,Western Region
+46,G_Numuyel,2G,Radio,site,Huawei,13.281032,-14.296418,120,Rural,Fuladou East,Upper River Region
+46,G_Numuyel,2G,Radio,site,Huawei,13.281032,-14.296418,200,Rural,Fuladou East,Upper River Region
+46,G_Numuyel,2G,Radio,site,Huawei,13.281032,-14.296418,280,Rural,Fuladou East,Upper River Region
+40,G_Sukuta,2G,Radio,site,Huawei,13.419277,-16.705192,50,GBA,Kombo North,Western Region
+40,G_Sukuta,2G,Radio,site,Huawei,13.419277,-16.705192,170,GBA,Kombo North,Western Region
+40,G_Sukuta,2G,Radio,site,Huawei,13.419277,-16.705192,290,GBA,Kombo North,Western Region
+45,G_Kanilai Village,2G,Radio,site,Huawei,13.167975,-16.010147,60,Rural,Foni Kansala,Western Region
+45,G_Kanilai Village,2G,Radio,site,Huawei,13.167975,-16.010147,230,Rural,Foni Kansala,Western Region
+45,G_Kanilai Village,2G,Radio,site,Huawei,13.167975,-16.010147,330,Rural,Foni Kansala,Western Region
+63,G_Comium Residence,2G,Radio,site,Huawei,13.437878,-16.718046,40,GBA,Kanifing,Kanifing Municipality
+63,G_Comium Residence,2G,Radio,site,Huawei,13.437878,-16.718046,140,GBA,Kanifing,Kanifing Municipality
+63,G_Comium Residence,2G,Radio,site,Huawei,13.437878,-16.718046,275,GBA,Kanifing,Kanifing Municipality
+36,G_Mariama Kunda,2G,Radio,site,Huawei,13.36486,-16.729403,120,GBA,Kombo North,Western Region
+36,G_Mariama Kunda,2G,Radio,site,Huawei,13.36486,-16.729403,240,GBA,Kombo North,Western Region
+36,G_Mariama Kunda,2G,Radio,site,Huawei,13.36486,-16.729403,340,GBA,Kombo North,Western Region
+69,G_Old Yundum,2G,Radio,site,Huawei,13.368239,-16.686616,160,GBA,Kombo North,Western Region
+69,G_Old Yundum,2G,Radio,site,Huawei,13.368239,-16.686616,230,GBA,Kombo North,Western Region
+69,G_Old Yundum,2G,Radio,site,Huawei,13.368239,-16.686616,300,GBA,Kombo North,Western Region
+12,G_White House,2G,Radio,site,Huawei,13.433214,-16.691999,60,GBA,Kanifing,Kanifing Municipality
+12,G_White House,2G,Radio,site,Huawei,13.433214,-16.691999,210,GBA,Kanifing,Kanifing Municipality
+12,G_White House,2G,Radio,site,Huawei,13.433214,-16.691999,320,GBA,Kanifing,Kanifing Municipality
+10,G_SOS,2G,Radio,site,Huawei,13.441559,-16.70297,60,GBA,Kanifing,Kanifing Municipality
+10,G_SOS,2G,Radio,site,Huawei,13.441559,-16.70297,200,GBA,Kanifing,Kanifing Municipality
+10,G_SOS,2G,Radio,site,Huawei,13.441559,-16.70297,315,GBA,Kanifing,Kanifing Municipality
+78,G_Future Lecce,2G,Radio,site,Huawei,13.455391,-16.703818,80,GBA,Kanifing,Kanifing Municipality
+78,G_Future Lecce,2G,Radio,site,Huawei,13.455391,-16.703818,160,GBA,Kanifing,Kanifing Municipality
+78,G_Future Lecce,2G,Radio,site,Huawei,13.455391,-16.703818,240,GBA,Kanifing,Kanifing Municipality
+7,G_Saad Raslan,2G,Radio,site,Huawei,13.457916,-16.662042,30,GBA,Kanifing,Kanifing Municipality
+7,G_Saad Raslan,2G,Radio,site,Huawei,13.457916,-16.662042,180,GBA,Kanifing,Kanifing Municipality
+7,G_Saad Raslan,2G,Radio,site,Huawei,13.457916,-16.662042,300,GBA,Kanifing,Kanifing Municipality
+50,G_Soul Samba Street,2G,Radio,site,Huawei,13.474328,-16.678082,40,GBA,Kanifing,Kanifing Municipality
+50,G_Soul Samba Street,2G,Radio,site,Huawei,13.474328,-16.678082,140,GBA,Kanifing,Kanifing Municipality
+50,G_Soul Samba Street,2G,Radio,site,Huawei,13.474328,-16.678082,295,GBA,Kanifing,Kanifing Municipality
+37,G_Minteh Kunda,2G,Radio,site,Huawei,13.572082,-15.865203,100,Rural,Central Baddibu,North Bank Region
+37,G_Minteh Kunda,2G,Radio,site,Huawei,13.572082,-15.865203,180,Rural,Central Baddibu,North Bank Region
+37,G_Minteh Kunda,2G,Radio,site,Huawei,13.572082,-15.865203,320,Rural,Central Baddibu,North Bank Region
+54,G_Bureng,2G,Radio,site,Huawei,13.396583,-15.270363,140,Rural,Jarra East,Lower River Region
+54,G_Bureng,2G,Radio,site,Huawei,13.396583,-15.270363,210,Rural,Jarra East,Lower River Region
+54,G_Bureng,2G,Radio,site,Huawei,13.396583,-15.270363,300,Rural,Jarra East,Lower River Region
+73,G_Brufut_Mkt,2G,Radio,site,Huawei,13.380397,-16.749969,20,GBA,Kombo North,Western Region
+73,G_Brufut_Mkt,2G,Radio,site,Huawei,13.380397,-16.749969,155,GBA,Kombo North,Western Region
+73,G_Brufut_Mkt,2G,Radio,site,Huawei,13.380397,-16.749969,245,GBA,Kombo North,Western Region
+95,G_Sifo,2G,Radio,site,Huawei,,,,,,
+96,G_Brikama Medina,2G,Radio,site,Huawei,13.262571,-16.652669,45,GBA,Kombo Central,Western Region
+96,G_Brikama Medina,2G,Radio,site,Huawei,13.262571,-16.652669,165,GBA,Kombo Central,Western Region
+96,G_Brikama Medina,2G,Radio,site,Huawei,13.262571,-16.652669,288,GBA,Kombo Central,Western Region
+97,G_Busumbala Central,2G,Radio,site,Huawei,13.337755,-16.669288,3,GBA,Kombo North,Western Region
+97,G_Busumbala Central,2G,Radio,site,Huawei,13.337755,-16.669288,121,GBA,Kombo North,Western Region
+97,G_Busumbala Central,2G,Radio,site,Huawei,13.337755,-16.669288,240,GBA,Kombo North,Western Region
+99,G_Brikama Newtown,2G,Radio,site,Huawei,13.276498,-16.639722,90,GBA,Kombo Central,Western Region
+99,G_Brikama Newtown,2G,Radio,site,Huawei,13.276498,-16.639722,210,GBA,Kombo Central,Western Region
+99,G_Brikama Newtown,2G,Radio,site,Huawei,13.276498,-16.639722,330,GBA,Kombo Central,Western Region
+100,G_Farato,2G,Radio,site,Huawei,13.312439,-16.674004,30,GBA,Kombo South,Western Region
+100,G_Farato,2G,Radio,site,Huawei,13.312439,-16.674004,140,GBA,Kombo South,Western Region
+100,G_Farato,2G,Radio,site,Huawei,13.312439,-16.674004,290,GBA,Kombo South,Western Region
+102,G_Jambajelli,2G,Radio,site,Huawei,13.281885,-16.733081,20,GBA,Kombo South,Western Region
+102,G_Jambajelli,2G,Radio,site,Huawei,13.281885,-16.733081,120,GBA,Kombo South,Western Region
+102,G_Jambajelli,2G,Radio,site,Huawei,13.281885,-16.733081,230,GBA,Kombo South,Western Region
+103,G_Sk Primary School,2G,Radio,site,Huawei,,,,,,
+104,G_Lamin 2,2G,Radio,site,Huawei,13.387227,-16.637169,30,GBA,Kombo North,Western Region
+104,G_Lamin 2,2G,Radio,site,Huawei,13.387227,-16.637169,150,GBA,Kombo North,Western Region
+104,G_Lamin 2,2G,Radio,site,Huawei,13.387227,-16.637169,270,GBA,Kombo North,Western Region
+105,G_Banjul Hope Street,2G,Radio,site,Huawei,13.45518,-16.579537,0,GBA,Banjul,Banjul
+105,G_Banjul Hope Street,2G,Radio,site,Huawei,13.45518,-16.579537,120,GBA,Banjul,Banjul
+105,G_Banjul Hope Street,2G,Radio,site,Huawei,13.45518,-16.579537,240,GBA,Banjul,Banjul
+106,G_Farato 2,2G,Radio,site,Huawei,13.31827,-16.659674,0,GBA,Kombo North,Western Region
+106,G_Farato 2,2G,Radio,site,Huawei,13.31827,-16.659674,110,GBA,Kombo North,Western Region
+106,G_Farato 2,2G,Radio,site,Huawei,13.31827,-16.659674,190,GBA,Kombo North,Western Region
+107,G_Brikama Sanchaba,2G,Radio,site,Huawei,13.26667,-16.636266,45,GBA,Kombo Central,Western Region
+107,G_Brikama Sanchaba,2G,Radio,site,Huawei,13.26667,-16.636266,110,GBA,Kombo Central,Western Region
+107,G_Brikama Sanchaba,2G,Radio,site,Huawei,13.26667,-16.636266,180,GBA,Kombo Central,Western Region
+108,G_Brufut Medina,2G,Radio,site,Huawei,13.374471,-16.766777,65,GBA,Kombo East,Western Region
+108,G_Brufut Medina,2G,Radio,site,Huawei,13.374471,-16.766777,210,GBA,Kombo East,Western Region
+108,G_Brufut Medina,2G,Radio,site,Huawei,13.374471,-16.766777,335,GBA,Kombo East,Western Region
+109,G_Kunkujang Keitaya,2G,Radio,site,Huawei,13.38308,-16.671482,0,GBA,Kombo North,Western Region
+109,G_Kunkujang Keitaya,2G,Radio,site,Huawei,13.38308,-16.671482,120,GBA,Kombo North,Western Region
+109,G_Kunkujang Keitaya,2G,Radio,site,Huawei,13.38308,-16.671482,240,GBA,Kombo North,Western Region
+110,G_Lamin Babylon,2G,Radio,site,Huawei,13.352107,-16.628316,15,GBA,Kombo North,Western Region
+110,G_Lamin Babylon,2G,Radio,site,Huawei,13.352107,-16.628316,138,GBA,Kombo North,Western Region
+110,G_Lamin Babylon,2G,Radio,site,Huawei,13.352107,-16.628316,253,GBA,Kombo North,Western Region
+111,G_LK Sabiji Market,2G,Radio,site,Huawei,13.414763,-16.673953,85,GBA,Kanifing,Kanifing Municipality
+111,G_LK Sabiji Market,2G,Radio,site,Huawei,13.414763,-16.673953,190,GBA,Kanifing,Kanifing Municipality
+111,G_LK Sabiji Market,2G,Radio,site,Huawei,13.414763,-16.673953,325,GBA,Kanifing,Kanifing Municipality
+112,G_Sukuta 2,2G,Radio,site,Huawei,13.405242,-16.711958,60,GBA,Kombo North,Western Region
+112,G_Sukuta 2,2G,Radio,site,Huawei,13.405242,-16.711958,180,GBA,Kombo North,Western Region
+112,G_Sukuta 2,2G,Radio,site,Huawei,13.405242,-16.711958,300,GBA,Kombo North,Western Region
+113,G_Jalambang,2G,Radio,site,Huawei,13.284791,-16.683275,0,GBA,Kombo Central,Western Region
+113,G_Jalambang,2G,Radio,site,Huawei,13.284791,-16.683275,140,GBA,Kombo Central,Western Region
+113,G_Jalambang,2G,Radio,site,Huawei,13.284791,-16.683275,230,GBA,Kombo Central,Western Region
+114,G_Jabang,2G,Radio,site,Huawei,13.363692,-16.712418,60,GBA,Kombo North,Western Region
+11,L18_Dippa Kunda_11,4G,Radio,cell,Huawei,,,,,,
+114,G_Jabang,2G,Radio,site,Huawei,13.363692,-16.712418,220,GBA,Kombo North,Western Region
+114,G_Jabang,2G,Radio,site,Huawei,13.363692,-16.712418,300,GBA,Kombo North,Western Region
+115,G_Kanifing Estate,2G,Radio,site,Huawei,13.454845,-16.670718,0,GBA,Kanifing,Kanifing Municipality
+115,G_Kanifing Estate,2G,Radio,site,Huawei,13.454845,-16.670718,120,GBA,Kanifing,Kanifing Municipality
+115,G_Kanifing Estate,2G,Radio,site,Huawei,13.454845,-16.670718,240,GBA,Kanifing,Kanifing Municipality
+116,G_Kerr Seringe,2G,Radio,site,Huawei,13.428288,-16.725166,49,GBA,Kombo North,Western Region
+116,G_Kerr Seringe,2G,Radio,site,Huawei,13.428288,-16.725166,160,GBA,Kombo North,Western Region
+116,G_Kerr Seringe,2G,Radio,site,Huawei,13.428288,-16.725166,263,GBA,Kombo North,Western Region
+117,G_LK School,2G,Radio,site,Huawei,13.449622,-16.681927,108,GBA,Kanifing,Kanifing Municipality
+117,G_LK School,2G,Radio,site,Huawei,13.449622,-16.681927,225,GBA,Kanifing,Kanifing Municipality
+117,G_LK School,2G,Radio,site,Huawei,13.449622,-16.681927,350,GBA,Kanifing,Kanifing Municipality
+118,G_Califonia,2G,Radio,site,Huawei,13.382105,-16.73226,60,GBA,Kombo North,Western Region
+118,G_Califonia,2G,Radio,site,Huawei,13.382105,-16.73226,150,GBA,Kombo North,Western Region
+118,G_Califonia,2G,Radio,site,Huawei,13.382105,-16.73226,240,GBA,Kombo North,Western Region
+119,G_Mamuda,2G,Radio,site,Huawei,13.30083,-16.727552,70,GBA,Kombo South,Western Region
+119,G_Mamuda,2G,Radio,site,Huawei,13.30083,-16.727552,195,GBA,Kombo South,Western Region
+119,G_Mamuda,2G,Radio,site,Huawei,13.30083,-16.727552,305,GBA,Kombo South,Western Region
+120,G_Tujereng Estate,2G,Radio,site,Huawei,13.292919,-16.78291,80,GBA,Kombo South,Western Region
+120,G_Tujereng Estate,2G,Radio,site,Huawei,13.292919,-16.78291,190,GBA,Kombo South,Western Region
+120,G_Tujereng Estate,2G,Radio,site,Huawei,13.292919,-16.78291,305,GBA,Kombo South,Western Region
+121,G_Brufut_Nema,2G,Radio,site,Huawei,13.395149,-16.741104,40,GBA,Kombo North,Western Region
+121,G_Brufut_Nema,2G,Radio,site,Huawei,13.395149,-16.741104,180,GBA,Kombo North,Western Region
+121,G_Brufut_Nema,2G,Radio,site,Huawei,13.395149,-16.741104,270,GBA,Kombo North,Western Region
+122,G_Latriya,2G,Radio,site,Huawei,13.329909,-16.707367,110,GBA,Kombo North,Western Region
+122,G_Latriya,2G,Radio,site,Huawei,13.329909,-16.707367,240,GBA,Kombo North,Western Region
+122,G_Latriya,2G,Radio,site,Huawei,13.329909,-16.707367,350,GBA,Kombo North,Western Region
+123,G_Old Yundum 3,2G,Radio,site,Huawei,13.36629,-16.698078,57,GBA,Kombo North,Western Region
+123,G_Old Yundum 3,2G,Radio,site,Huawei,13.36629,-16.698078,165,GBA,Kombo North,Western Region
+123,G_Old Yundum 3,2G,Radio,site,Huawei,13.36629,-16.698078,301,GBA,Kombo North,Western Region
+124,G_Sanchaba Touba,2G,Radio,site,Huawei,13.431632,-16.705403,40,GBA,Kombo North,Western Region
+124,G_Sanchaba Touba,2G,Radio,site,Huawei,13.431632,-16.705403,130,GBA,Kombo North,Western Region
+124,G_Sanchaba Touba,2G,Radio,site,Huawei,13.431632,-16.705403,250,GBA,Kombo North,Western Region
+125,G_Sinchu Sorry,2G,Radio,site,Huawei,13.384708,-16.690123,5,GBA,Kombo North,Western Region
+125,G_Sinchu Sorry,2G,Radio,site,Huawei,13.384708,-16.690123,125,GBA,Kombo North,Western Region
+125,G_Sinchu Sorry,2G,Radio,site,Huawei,13.384708,-16.690123,245,GBA,Kombo North,Western Region
+126,G_Welingara,2G,Radio,site,Huawei,13.402477,-16.665657,10,GBA,Kanifing,Kanifing Municipality
+126,G_Welingara,2G,Radio,site,Huawei,13.402477,-16.665657,130,GBA,Kanifing,Kanifing Municipality
+126,G_Welingara,2G,Radio,site,Huawei,13.402477,-16.665657,240,GBA,Kanifing,Kanifing Municipality
+127,G_Yundum Medina,2G,Radio,site,Huawei,13.356411,-16.679857,15,GBA,Kombo North,Western Region
+127,G_Yundum Medina,2G,Radio,site,Huawei,13.356411,-16.679857,120,GBA,Kombo North,Western Region
+127,G_Yundum Medina,2G,Radio,site,Huawei,13.356411,-16.679857,255,GBA,Kombo North,Western Region
+128,G_Bakau Newtown,2G,Radio,site,Huawei,13.473304,-16.684997,40,GBA,Kanifing,Kanifing Municipality
+128,G_Bakau Newtown,2G,Radio,site,Huawei,13.473304,-16.684997,170,GBA,Kanifing,Kanifing Municipality
+128,G_Bakau Newtown,2G,Radio,site,Huawei,13.473304,-16.684997,260,GBA,Kanifing,Kanifing Municipality
+129,G_GTMI,2G,Radio,site,Huawei,13.4633,-16.6777,40,GBA,Kanifing,Kanifing Municipality
+129,G_GTMI,2G,Radio,site,Huawei,13.4633,-16.6777,140,GBA,Kanifing,Kanifing Municipality
+129,G_GTMI,2G,Radio,site,Huawei,13.4633,-16.6777,280,GBA,Kanifing,Kanifing Municipality
+130,G_Kololi-Palma Junction,2G,Radio,site,Huawei,13.450964,-16.711972,115,GBA,Kanifing,Kanifing Municipality
+130,G_Kololi-Palma Junction,2G,Radio,site,Huawei,13.450964,-16.711972,210,GBA,Kanifing,Kanifing Municipality
+130,G_Kololi-Palma Junction,2G,Radio,site,Huawei,13.450964,-16.711972,325,GBA,Kanifing,Kanifing Municipality
+131,G_Yuna,2G,Radio,site,Huawei,13.346569,-16.727217,0,GBA,Kombo North,Western Region
+131,G_Yuna,2G,Radio,site,Huawei,13.346569,-16.727217,120,GBA,Kombo North,Western Region
+131,G_Yuna,2G,Radio,site,Huawei,13.346569,-16.727217,240,GBA,Kombo North,Western Region
+132,G_Lamin Daranka,2G,Radio,site,Huawei,13.378986,-16.632254,15,GBA,Kombo North,Western Region
+132,G_Lamin Daranka,2G,Radio,site,Huawei,13.378986,-16.632254,150,GBA,Kombo North,Western Region
+132,G_Lamin Daranka,2G,Radio,site,Huawei,13.378986,-16.632254,255,GBA,Kombo North,Western Region
+133,G_Manjai,2G,Radio,site,Huawei,13.449818,-16.699864,105,GBA,Kanifing,Kanifing Municipality
+133,G_Manjai,2G,Radio,site,Huawei,13.449818,-16.699864,210,GBA,Kanifing,Kanifing Municipality
+133,G_Manjai,2G,Radio,site,Huawei,13.449818,-16.699864,290,GBA,Kanifing,Kanifing Municipality
+134,G_Busumbala 4,2G,Radio,site,Huawei,13.322172,-16.649661,12,GBA,Kombo North,Western Region
+134,G_Busumbala 4,2G,Radio,site,Huawei,13.322172,-16.649661,128,GBA,Kombo North,Western Region
+134,G_Busumbala 4,2G,Radio,site,Huawei,13.322172,-16.649661,240,GBA,Kombo North,Western Region
+135,G_Lamin Sateyba,2G,Radio,site,Huawei,13.390692,-16.638504,90,GBA,Kombo North,Western Region
+135,G_Lamin Sateyba,2G,Radio,site,Huawei,13.390692,-16.638504,202,GBA,Kombo North,Western Region
+135,G_Lamin Sateyba,2G,Radio,site,Huawei,13.390692,-16.638504,300,GBA,Kombo North,Western Region
+136,G_Banjulinding,2G,Radio,site,Huawei,13.378188,-16.661955,100,GBA,Kombo North,Western Region
+136,G_Banjulinding,2G,Radio,site,Huawei,13.378188,-16.661955,216,GBA,Kombo North,Western Region
+136,G_Banjulinding,2G,Radio,site,Huawei,13.378188,-16.661955,346,GBA,Kombo North,Western Region
+137,G_Bijilo II,2G,Radio,site,Huawei,13.415244,-16.715273,27,GBA,Kombo North,Western Region
+137,G_Bijilo II,2G,Radio,site,Huawei,13.415244,-16.715273,140,GBA,Kombo North,Western Region
+137,G_Bijilo II,2G,Radio,site,Huawei,13.415244,-16.715273,265,GBA,Kombo North,Western Region
+94,G_Gouygui Market,2G,Radio,site,Huawei,13.345562,-16.689922,70,GBA,Kombo North,Western Region
+94,G_Gouygui Market,2G,Radio,site,Huawei,13.345562,-16.689922,199,GBA,Kombo North,Western Region
+94,G_Gouygui Market,2G,Radio,site,Huawei,13.345562,-16.689922,328,GBA,Kombo North,Western Region
+138,G_Gunjur 2,2G,Radio,site,Huawei,13.179227,-16.757647,90,GBA,Kombo South,Western Region
+138,G_Gunjur 2,2G,Radio,site,Huawei,13.179227,-16.757647,260,GBA,Kombo South,Western Region
+138,G_Gunjur 2,2G,Radio,site,Huawei,13.179227,-16.757647,330,GBA,Kombo South,Western Region
+139,G_Sanyang 2,2G,Radio,site,Huawei,13.26792,-16.753997,10,GBA,Kombo South,Western Region
+139,G_Sanyang 2,2G,Radio,site,Huawei,13.26792,-16.753997,180,GBA,Kombo South,Western Region
+139,G_Sanyang 2,2G,Radio,site,Huawei,13.26792,-16.753997,265,GBA,Kombo South,Western Region
+140,G_Brusubi 2,2G,Radio,site,Huawei,13.399941,-16.732439,60,GBA,Kombo North,Western Region
+140,G_Brusubi 2,2G,Radio,site,Huawei,13.399941,-16.732439,180,GBA,Kombo North,Western Region
+140,G_Brusubi 2,2G,Radio,site,Huawei,13.399941,-16.732439,300,GBA,Kombo North,Western Region
+141,G_Busumbala 3,2G,Radio,site,Huawei,13.322111,-16.677615,30,GBA,Kombo North,Western Region
+141,G_Busumbala 3,2G,Radio,site,Huawei,13.322111,-16.677615,149,GBA,Kombo North,Western Region
+141,G_Busumbala 3,2G,Radio,site,Huawei,13.322111,-16.677615,251,GBA,Kombo North,Western Region
+142,G_Brikama Jamisa II,2G,Radio,site,Huawei,13.27063,-16.664241,110,GBA,Kombo Central,Western Region
+142,G_Brikama Jamisa II,2G,Radio,site,Huawei,13.27063,-16.664241,210,GBA,Kombo Central,Western Region
+142,G_Brikama Jamisa II,2G,Radio,site,Huawei,13.27063,-16.664241,280,GBA,Kombo Central,Western Region
+143,G_Lamin Sanchaba,2G,Radio,site,Huawei,13.381143,-16.651904,30,GBA,Kombo North,Western Region
+143,G_Lamin Sanchaba,2G,Radio,site,Huawei,13.381143,-16.651904,100,GBA,Kombo North,Western Region
+143,G_Lamin Sanchaba,2G,Radio,site,Huawei,13.381143,-16.651904,230,GBA,Kombo North,Western Region
+144,G_Yundum Medina II,2G,Radio,site,Huawei,13.348298,-16.677543,0,GBA,Kombo North,Western Region
+144,G_Yundum Medina II,2G,Radio,site,Huawei,13.348298,-16.677543,120,GBA,Kombo North,Western Region
+144,G_Yundum Medina II,2G,Radio,site,Huawei,13.348298,-16.677543,240,GBA,Kombo North,Western Region
+145,G_Sinchu Alagie 2,2G,Radio,site,Huawei,13.375224,-16.682885,0,GBA,Kombo North,Western Region
+145,G_Sinchu Alagie 2,2G,Radio,site,Huawei,13.375224,-16.682885,120,GBA,Kombo North,Western Region
+145,G_Sinchu Alagie 2,2G,Radio,site,Huawei,13.375224,-16.682885,240,GBA,Kombo North,Western Region
+146,G_Allunghari,2G,Radio,site,Huawei,13.314534,-14.234234,65,Rural,Fuladou East,Upper River Region
+146,G_Allunghari,2G,Radio,site,Huawei,13.314534,-14.234234,170,Rural,Fuladou East,Upper River Region
+146,G_Allunghari,2G,Radio,site,Huawei,13.314534,-14.234234,290,Rural,Fuladou East,Upper River Region
+147,G_Brufut TAF Estate,2G,Radio,site,Huawei,13.388248,-16.761083,60,GBA,Kombo North,Western Region
+147,G_Brufut TAF Estate,2G,Radio,site,Huawei,13.388248,-16.761083,130,GBA,Kombo North,Western Region
+147,G_Brufut TAF Estate,2G,Radio,site,Huawei,13.388248,-16.761083,220,GBA,Kombo North,Western Region
+148,G_Mansajang,2G,Radio,site,Huawei,13.300362,-14.212259,60,Rural,Fuladou East,Upper River Region
+148,G_Mansajang,2G,Radio,site,Huawei,13.300362,-14.212259,150,Rural,Fuladou East,Upper River Region
+148,G_Mansajang,2G,Radio,site,Huawei,13.300362,-14.212259,300,Rural,Fuladou East,Upper River Region
+,BSC,2G,Radio,BSC,Huawei,,,,,,
+1,L07_Nemasu II_1,4G,Radio,cell,Huawei,13.407845,-16.698915,45,GBA,Kombo North,Western Region
+2,L07_Nemasu II_2,4G,Radio,cell,Huawei,13.407845,-16.698915,120,GBA,Kombo North,Western Region
+3,L07_Nemasu II_3,4G,Radio,cell,Huawei,13.407845,-16.698915,245,GBA,Kombo North,Western Region
+4,L18_Nemasu II_4,4G,Radio,cell,Huawei,13.407845,-16.698915,45,GBA,Kombo North,Western Region
+5,L18_Nemasu II_5,4G,Radio,cell,Huawei,13.407845,-16.698915,120,GBA,Kombo North,Western Region
+6,L18_Nemasu II_6,4G,Radio,cell,Huawei,13.407845,-16.698915,245,GBA,Kombo North,Western Region
+7,L21_Nemasu II_7,4G,Radio,cell,Huawei,13.407845,-16.698915,45,GBA,Kombo North,Western Region
+8,L21_Nemasu II_8,4G,Radio,cell,Huawei,13.407845,-16.698915,120,GBA,Kombo North,Western Region
+9,L21_Nemasu II_9,4G,Radio,cell,Huawei,13.407845,-16.698915,245,GBA,Kombo North,Western Region
+10,L18_Nemasu II_10,4G,Radio,cell,Huawei,13.407845,-16.698915,45,GBA,Kombo North,Western Region
+11,L18_Nemasu II_11,4G,Radio,cell,Huawei,13.407845,-16.698915,120,GBA,Kombo North,Western Region
+12,L18_Nemasu II_12,4G,Radio,cell,Huawei,13.407845,-16.698915,245,GBA,Kombo North,Western Region
+1,L07_Mansakonko_1,4G,Radio,cell,Huawei,13.455152,-15.535005,70,Rural,Mansakonko,Lower River Region
+2,L07_Mansakonko_2,4G,Radio,cell,Huawei,13.455152,-15.535005,140,Rural,Mansakonko,Lower River Region
+3,L07_Mansakonko_3,4G,Radio,cell,Huawei,13.455152,-15.535005,240,Rural,Mansakonko,Lower River Region
+4,L18_Mansakonko_4,4G,Radio,cell,Huawei,13.455152,-15.535005,70,Rural,Mansakonko,Lower River Region
+5,L18_Mansakonko_5,4G,Radio,cell,Huawei,13.455152,-15.535005,140,Rural,Mansakonko,Lower River Region
+6,L18_Mansakonko_6,4G,Radio,cell,Huawei,13.455152,-15.535005,240,Rural,Mansakonko,Lower River Region
+7,L21_Mansakonko_7,4G,Radio,cell,Huawei,13.455152,-15.535005,70,Rural,Mansakonko,Lower River Region
+8,L21_Mansakonko_8,4G,Radio,cell,Huawei,13.455152,-15.535005,140,Rural,Mansakonko,Lower River Region
+9,L21_Mansakonko_9,4G,Radio,cell,Huawei,13.455152,-15.535005,240,Rural,Mansakonko,Lower River Region
+10,L18_Mansakonko_10,4G,Radio,cell,Huawei,13.455152,-15.535005,70,Rural,Mansakonko,Lower River Region
+11,L18_Mansakonko_11,4G,Radio,cell,Huawei,13.455152,-15.535005,140,Rural,Mansakonko,Lower River Region
+12,L18_Mansakonko_12,4G,Radio,cell,Huawei,13.455152,-15.535005,240,Rural,Mansakonko,Lower River Region
+1,L07_Sheraton_1,4G,Radio,cell,Huawei,13.395622,-16.753732,60,GBA,Kombo North,Western Region
+2,L07_Sheraton_2,4G,Radio,cell,Huawei,13.395622,-16.753732,140,GBA,Kombo North,Western Region
+3,L07_Sheraton_3,4G,Radio,cell,Huawei,13.395622,-16.753732,220,GBA,Kombo North,Western Region
+4,L18_Sheraton_4,4G,Radio,cell,Huawei,13.395622,-16.753732,60,GBA,Kombo North,Western Region
+5,L18_Sheraton_5,4G,Radio,cell,Huawei,13.395622,-16.753732,140,GBA,Kombo North,Western Region
+6,L18_Sheraton_6,4G,Radio,cell,Huawei,13.395622,-16.753732,220,GBA,Kombo North,Western Region
+7,L21_Sheraton_7,4G,Radio,cell,Huawei,13.395622,-16.753732,60,GBA,Kombo North,Western Region
+8,L21_Sheraton_8,4G,Radio,cell,Huawei,13.395622,-16.753732,140,GBA,Kombo North,Western Region
+9,L21_Sheraton_9,4G,Radio,cell,Huawei,13.395622,-16.753732,220,GBA,Kombo North,Western Region
+1,L07_Sukuta_1,4G,Radio,cell,Huawei,13.419277,-16.705192,50,GBA,Kombo North,Western Region
+2,L07_Sukuta_2,4G,Radio,cell,Huawei,13.419277,-16.705192,170,GBA,Kombo North,Western Region
+3,L07_Sukuta_3,4G,Radio,cell,Huawei,13.419277,-16.705192,290,GBA,Kombo North,Western Region
+4,L18_Sukuta_4,4G,Radio,cell,Huawei,13.419277,-16.705192,50,GBA,Kombo North,Western Region
+5,L18_Sukuta_5,4G,Radio,cell,Huawei,13.419277,-16.705192,170,GBA,Kombo North,Western Region
+6,L18_Sukuta_6,4G,Radio,cell,Huawei,13.419277,-16.705192,290,GBA,Kombo North,Western Region
+7,L21_Sukuta_7,4G,Radio,cell,Huawei,13.419277,-16.705192,50,GBA,Kombo North,Western Region
+8,L21_Sukuta_8,4G,Radio,cell,Huawei,13.419277,-16.705192,170,GBA,Kombo North,Western Region
+9,L21_Sukuta_9,4G,Radio,cell,Huawei,13.419277,-16.705192,290,GBA,Kombo North,Western Region
+10,L18_Sukuta_10,4G,Radio,cell,Huawei,13.419277,-16.705192,50,GBA,Kombo North,Western Region
+11,L18_Sukuta_11,4G,Radio,cell,Huawei,13.419277,-16.705192,170,GBA,Kombo North,Western Region
+12,L18_Sukuta_12,4G,Radio,cell,Huawei,13.419277,-16.705192,290,GBA,Kombo North,Western Region
+1,L07_Pakali Ba_1,4G,Radio,cell,Huawei,,,,,,
+2,L07_Pakali Ba_2,4G,Radio,cell,Huawei,,,,,,
+3,L07_Pakali Ba_3,4G,Radio,cell,Huawei,,,,,,
+4,L18_Pakali Ba_4,4G,Radio,cell,Huawei,,,,,,
+5,L18_Pakali Ba_5,4G,Radio,cell,Huawei,,,,,,
+6,L18_Pakali Ba_6,4G,Radio,cell,Huawei,,,,,,
+1,L07_kalaji_1,4G,Radio,cell,Huawei,,,,,,
+2,L07_Kalaji_2,4G,Radio,cell,Huawei,13.248927,-15.834784,250,Rural,Foni Jarrol,Western Region
+3,L07_Kalaji_3,4G,Radio,cell,Huawei,13.248927,-15.834784,350,Rural,Foni Jarrol,Western Region
+4,L18_Kalaji_4,4G,Radio,cell,Huawei,13.248927,-15.834784,160,Rural,Foni Jarrol,Western Region
+5,L18_Kalaji_5,4G,Radio,cell,Huawei,13.248927,-15.834784,250,Rural,Foni Jarrol,Western Region
+6,L18_Kalaji_6,4G,Radio,cell,Huawei,13.248927,-15.834784,350,Rural,Foni Jarrol,Western Region
+1,L07_Kwenilla_1,4G,Radio,cell,Huawei,13.396557,-15.793325,80,Rural,Kiang Central,Lower River Region
+2,L07_Kwenilla_2,4G,Radio,cell,Huawei,13.396557,-15.793325,230,Rural,Kiang Central,Lower River Region
+3,L07_Kwenilla_3,4G,Radio,cell,Huawei,13.396557,-15.793325,340,Rural,Kiang Central,Lower River Region
+4,L18_Kwenilla_4,4G,Radio,cell,Huawei,13.396557,-15.793325,80,Rural,Kiang Central,Lower River Region
+5,L18_Kwenilla_5,4G,Radio,cell,Huawei,13.396557,-15.793325,230,Rural,Kiang Central,Lower River Region
+6,L18_Kwenilla_6,4G,Radio,cell,Huawei,13.396557,-15.793325,340,Rural,Kiang Central,Lower River Region
+1,L07_Kanilai Village_1,4G,Radio,cell,Huawei,13.167975,-16.010147,60,Rural,Foni Kansala,Western Region
+2,L07_Kanilai Village_2,4G,Radio,cell,Huawei,13.167975,-16.010147,230,Rural,Foni Kansala,Western Region
+3,L07_Kanilai Village_3,4G,Radio,cell,Huawei,13.167975,-16.010147,330,Rural,Foni Kansala,Western Region
+4,L18_Kanilai Village_4,4G,Radio,cell,Huawei,13.167975,-16.010147,60,Rural,Foni Kansala,Western Region
+5,L18_Kanilai Village_5,4G,Radio,cell,Huawei,13.167975,-16.010147,230,Rural,Foni Kansala,Western Region
+6,L18_Kanilai Village_6,4G,Radio,cell,Huawei,13.167975,-16.010147,330,Rural,Foni Kansala,Western Region
+1,L07_Ndugu Kebbeh_1,4G,Radio,cell,Huawei,13.542507,-16.319659,120,Rural,Lower Niumi,North Bank Region
+2,L07_Ndugu Kebbeh_2,4G,Radio,cell,Huawei,13.542507,-16.319659,230,Rural,Lower Niumi,North Bank Region
+3,L07_Ndugu Kebbeh_3,4G,Radio,cell,Huawei,13.542507,-16.319659,330,Rural,Lower Niumi,North Bank Region
+4,L18_Ndugu Kebbeh_4,4G,Radio,cell,Huawei,13.542507,-16.319659,120,Rural,Lower Niumi,North Bank Region
+5,L18_Ndugu Kebbeh_5,4G,Radio,cell,Huawei,13.542507,-16.319659,230,Rural,Lower Niumi,North Bank Region
+6,L18_Ndugu Kebbeh_6,4G,Radio,cell,Huawei,13.542507,-16.319659,330,Rural,Lower Niumi,North Bank Region
+10,L18_Ndugu Kebbeh_10,4G,Radio,cell,Huawei,13.542507,-16.319659,120,Rural,Lower Niumi,North Bank Region
+11,L18_Ndugu Kebbeh_11,4G,Radio,cell,Huawei,13.542507,-16.319659,230,Rural,Lower Niumi,North Bank Region
+12,L18_Ndugu Kebbeh_12,4G,Radio,cell,Huawei,13.542507,-16.319659,330,Rural,Lower Niumi,North Bank Region
+1,L07_Sibanor_1,4G,Radio,cell,Huawei,13.207006,-16.191847,80,Rural,Foni Brefet,Western Region
+2,L07_Sibanor_2,4G,Radio,cell,Huawei,13.207006,-16.191847,170,Rural,Foni Brefet,Western Region
+3,L07_Sibanor_3,4G,Radio,cell,Huawei,13.207006,-16.191847,270,Rural,Foni Brefet,Western Region
+4,L18_Sibanor_4,4G,Radio,cell,Huawei,13.207006,-16.191847,80,Rural,Foni Brefet,Western Region
+5,L18_Sibanor_5,4G,Radio,cell,Huawei,13.207006,-16.191847,170,Rural,Foni Brefet,Western Region
+6,L18_Sibanor_6,4G,Radio,cell,Huawei,13.207006,-16.191847,270,Rural,Foni Brefet,Western Region
+1,L07_Mariama Kunda_1,4G,Radio,cell,Huawei,13.36486,-16.729403,120,GBA,Kombo North,Western Region
+2,L07_Mariama Kunda_2,4G,Radio,cell,Huawei,13.36486,-16.729403,240,GBA,Kombo North,Western Region
+3,L07_Mariama Kunda_3,4G,Radio,cell,Huawei,13.36486,-16.729403,340,GBA,Kombo North,Western Region
+4,L18_Mariama Kunda_4,4G,Radio,cell,Huawei,13.36486,-16.729403,120,GBA,Kombo North,Western Region
+5,L18_Mariama Kunda_5,4G,Radio,cell,Huawei,13.36486,-16.729403,240,GBA,Kombo North,Western Region
+6,L18_Mariama Kunda_6,4G,Radio,cell,Huawei,13.36486,-16.729403,340,GBA,Kombo North,Western Region
+7,L21_Mariama Kunda_7,4G,Radio,cell,Huawei,13.36486,-16.729403,120,GBA,Kombo North,Western Region
+8,L21_Mariama Kunda_8,4G,Radio,cell,Huawei,13.36486,-16.729403,240,GBA,Kombo North,Western Region
+9,L21_Mariama Kunda_9,4G,Radio,cell,Huawei,13.36486,-16.729403,340,GBA,Kombo North,Western Region
+10,L18_Mariama Kunda_10,4G,Radio,cell,Huawei,13.36486,-16.729403,120,GBA,Kombo North,Western Region
+11,L18_Mariama Kunda_11,4G,Radio,cell,Huawei,13.36486,-16.729403,240,GBA,Kombo North,Western Region
+12,L18_Mariama Kunda_12,4G,Radio,cell,Huawei,13.36486,-16.729403,340,GBA,Kombo North,Western Region
+1,L07_Kartong_1,4G,Radio,cell,Huawei,13.097707,-16.761586,20,GBA,Kombo South,Western Region
+2,L07_Kartong_2,4G,Radio,cell,Huawei,13.097707,-16.761586,90,GBA,Kombo South,Western Region
+3,L07_Kartong_3,4G,Radio,cell,Huawei,13.097707,-16.761586,160,GBA,Kombo South,Western Region
+4,L18_Kartong_4,4G,Radio,cell,Huawei,13.097707,-16.761586,20,GBA,Kombo South,Western Region
+5,L18_Kartong_5,4G,Radio,cell,Huawei,13.097707,-16.761586,90,GBA,Kombo South,Western Region
+6,L18_Kartong_6,4G,Radio,cell,Huawei,13.097707,-16.761586,160,GBA,Kombo South,Western Region
+7,L21_Kartong_7,4G,Radio,cell,Huawei,13.097707,-16.761586,20,GBA,Kombo South,Western Region
+8,L21_Kartong_8,4G,Radio,cell,Huawei,13.097707,-16.761586,90,GBA,Kombo South,Western Region
+9,L21_Kartong_9,4G,Radio,cell,Huawei,13.097707,-16.761586,160,GBA,Kombo South,Western Region
+1,L07_Marakissa_1,4G,Radio,cell,Huawei,13.216425,-16.648561,50,GBA,Kombo Central,Western Region
+2,L07_Marakissa_2,4G,Radio,cell,Huawei,13.216425,-16.648561,160,GBA,Kombo Central,Western Region
+3,L07_Marakissa_3,4G,Radio,cell,Huawei,13.216425,-16.648561,240,GBA,Kombo Central,Western Region
+4,L18_Marakissa_4,4G,Radio,cell,Huawei,13.216425,-16.648561,50,GBA,Kombo Central,Western Region
+5,L18_Marakissa_5,4G,Radio,cell,Huawei,13.216425,-16.648561,160,GBA,Kombo Central,Western Region
+6,L18_Marakissa_6,4G,Radio,cell,Huawei,13.216425,-16.648561,240,GBA,Kombo Central,Western Region
+7,L21_Marakissa_7,4G,Radio,cell,Huawei,13.216425,-16.648561,50,GBA,Kombo Central,Western Region
+8,L21_Marakissa_8,4G,Radio,cell,Huawei,13.216425,-16.648561,160,GBA,Kombo Central,Western Region
+9,L21_Marakissa_9,4G,Radio,cell,Huawei,13.216425,-16.648561,240,GBA,Kombo Central,Western Region
+1,L07_Brikama II_1,4G,Radio,cell,Huawei,13.266641,-16.642473,120,GBA,Kombo Central,Western Region
+2,L07_Brikama II_2,4G,Radio,cell,Huawei,13.266641,-16.642473,200,GBA,Kombo Central,Western Region
+3,L07_Brikama II_3,4G,Radio,cell,Huawei,13.266641,-16.642473,320,GBA,Kombo Central,Western Region
+4,L18_Brikama II_4,4G,Radio,cell,Huawei,13.266641,-16.642473,120,GBA,Kombo Central,Western Region
+5,L18_Brikama II_5,4G,Radio,cell,Huawei,13.266641,-16.642473,200,GBA,Kombo Central,Western Region
+6,L18_Brikama II_6,4G,Radio,cell,Huawei,13.266641,-16.642473,320,GBA,Kombo Central,Western Region
+7,L21_Brikama II_7,4G,Radio,cell,Huawei,13.266641,-16.642473,120,GBA,Kombo Central,Western Region
+8,L21_Brikama II_8,4G,Radio,cell,Huawei,13.266641,-16.642473,200,GBA,Kombo Central,Western Region
+9,L21_Brikama II_9,4G,Radio,cell,Huawei,13.266641,-16.642473,320,GBA,Kombo Central,Western Region
+10,L18_Brikama ii_10,4G,Radio,cell,Huawei,13.266641,-16.642473,120,GBA,Kombo Central,Western Region

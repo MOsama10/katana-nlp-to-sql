@@ -1,0 +1,13 @@
+measObjLdn,duration,begin_time,20001222.0
+"ManagedElement=1,NodeBFunction=1,RbsLocalCell=S1C1",900.0,2021-09-26 19:15:00,"0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,14,477,409"
+"ManagedElement=1,NodeBFunction=1,RbsLocalCell=S1C2",900.0,2021-09-26 19:15:00,"0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,14,537,349"
+"ManagedElement=1,NodeBFunction=1,RbsLocalCell=S2C1",900.0,2021-09-26 19:15:00,"0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,28,307,561"
+"ManagedElement=1,NodeBFunction=1,RbsLocalCell=S2C2",900.0,2021-09-26 19:15:00,"0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,238,662"
+"ManagedElement=1,NodeBFunction=1,RbsLocalCell=S3C1",900.0,2021-09-26 19:15:00,"0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,325,575"
+"ManagedElement=1,NodeBFunction=1,RbsLocalCell=S3C2",900.0,2021-09-26 19:15:00,"0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,93,741,66"
+"ManagedElement=1,NodeBFunction=1,RbsLocalCell=S4C1",900.0,2021-09-26 19:15:00,"0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,466,434"
+"ManagedElement=1,NodeBFunction=1,RbsLocalCell=S4C2",900.0,2021-09-26 19:15:00,"0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,399,501"
+"ManagedElement=1,NodeBFunction=1,RbsLocalCell=S5C1",900.0,2021-09-26 19:15:00,"0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,473,427"
+"ManagedElement=1,NodeBFunction=1,RbsLocalCell=S5C2",900.0,2021-09-26 19:15:00,"0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,127,773"
+"ManagedElement=1,NodeBFunction=1,RbsLocalCell=S6C1",900.0,2021-09-26 19:15:00,"0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,233,664"
+"ManagedElement=1,NodeBFunction=1,RbsLocalCell=S6C2",900.0,2021-09-26 19:15:00,"0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,266,628"

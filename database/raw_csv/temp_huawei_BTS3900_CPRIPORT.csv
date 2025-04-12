@@ -1,0 +1,25 @@
+NE Name,fdn,CN,MOIndex,OPTN,PT,SN,SPN,SRN,className,name,neID
+3G_ALKALIA,"NE=1346,CPRIPORT=0_1_CPRI_0_255_62",0,1102_0_62_0_1_CPRI_255,1,CPRI,0,255,62,CPRIPORT,"Cabinet No.=0, Subrack No.=62, Slot No.=0, Port No.=1, Port Type=CPRI, Sub Port No.=255",1102
+3G_ALKALIA,"NE=1346,CPRIPORT=0_0_CPRI_0_255_62",0,1102_0_62_0_0_CPRI_255,0,CPRI,0,255,62,CPRIPORT,"Cabinet No.=0, Subrack No.=62, Slot No.=0, Port No.=0, Port Type=CPRI, Sub Port No.=255",1102
+3G_ALKALIA,"NE=1346,CPRIPORT=0_1_CPRI_0_255_61",0,1102_0_61_0_1_CPRI_255,1,CPRI,0,255,61,CPRIPORT,"Cabinet No.=0, Subrack No.=61, Slot No.=0, Port No.=1, Port Type=CPRI, Sub Port No.=255",1102
+3G_ALKALIA,"NE=1346,CPRIPORT=0_0_CPRI_0_255_61",0,1102_0_61_0_0_CPRI_255,0,CPRI,0,255,61,CPRIPORT,"Cabinet No.=0, Subrack No.=61, Slot No.=0, Port No.=0, Port Type=CPRI, Sub Port No.=255",1102
+3G_ALKALIA,"NE=1346,CPRIPORT=0_1_CPRI_0_255_60",0,1102_0_60_0_1_CPRI_255,1,CPRI,0,255,60,CPRIPORT,"Cabinet No.=0, Subrack No.=60, Slot No.=0, Port No.=1, Port Type=CPRI, Sub Port No.=255",1102
+3G_ALKALIA,"NE=1346,CPRIPORT=0_0_CPRI_0_255_60",0,1102_0_60_0_0_CPRI_255,0,CPRI,0,255,60,CPRIPORT,"Cabinet No.=0, Subrack No.=60, Slot No.=0, Port No.=0, Port Type=CPRI, Sub Port No.=255",1102
+3G_ALKALIA,"NE=1346,CPRIPORT=0_5_CPRI_3_0_0",0,1102_0_0_3_5_CPRI_0,5,CPRI,3,0,0,CPRIPORT,"Cabinet No.=0, Subrack No.=0, Slot No.=3, Port No.=5, Port Type=CPRI, Sub Port No.=0",1102
+3G_ALKALIA,"NE=1346,CPRIPORT=0_4_CPRI_3_0_0",0,1102_0_0_3_4_CPRI_0,4,CPRI,3,0,0,CPRIPORT,"Cabinet No.=0, Subrack No.=0, Slot No.=3, Port No.=4, Port Type=CPRI, Sub Port No.=0",1102
+3G_ALKALIA,"NE=1346,CPRIPORT=0_3_CPRI_3_0_0",0,1102_0_0_3_3_CPRI_0,3,CPRI,3,0,0,CPRIPORT,"Cabinet No.=0, Subrack No.=0, Slot No.=3, Port No.=3, Port Type=CPRI, Sub Port No.=0",1102
+3G_ALKALIA,"NE=1346,CPRIPORT=0_2_CPRI_3_0_0",0,1102_0_0_3_2_CPRI_0,2,CPRI,3,0,0,CPRIPORT,"Cabinet No.=0, Subrack No.=0, Slot No.=3, Port No.=2, Port Type=CPRI, Sub Port No.=0",1102
+3G_ALKALIA,"NE=1346,CPRIPORT=0_1_CPRI_3_0_0",0,1102_0_0_3_1_CPRI_0,1,CPRI,3,0,0,CPRIPORT,"Cabinet No.=0, Subrack No.=0, Slot No.=3, Port No.=1, Port Type=CPRI, Sub Port No.=0",1102
+3G_ALKALIA,"NE=1346,CPRIPORT=0_0_CPRI_3_0_0",0,1102_0_0_3_0_CPRI_0,0,CPRI,3,0,0,CPRIPORT,"Cabinet No.=0, Subrack No.=0, Slot No.=3, Port No.=0, Port Type=CPRI, Sub Port No.=0",1102
+3G_ADAMSTREET,"NE=1071,CPRIPORT=0_1_CPRI_0_255_62",0,827_0_62_0_1_CPRI_255,1,CPRI,0,255,62,CPRIPORT,"Cabinet No.=0, Subrack No.=62, Slot No.=0, Port No.=1, Port Type=CPRI, Sub Port No.=255",827
+3G_ADAMSTREET,"NE=1071,CPRIPORT=0_0_CPRI_0_255_62",0,827_0_62_0_0_CPRI_255,0,CPRI,0,255,62,CPRIPORT,"Cabinet No.=0, Subrack No.=62, Slot No.=0, Port No.=0, Port Type=CPRI, Sub Port No.=255",827
+3G_ADAMSTREET,"NE=1071,CPRIPORT=0_1_CPRI_0_255_61",0,827_0_61_0_1_CPRI_255,1,CPRI,0,255,61,CPRIPORT,"Cabinet No.=0, Subrack No.=61, Slot No.=0, Port No.=1, Port Type=CPRI, Sub Port No.=255",827
+3G_ADAMSTREET,"NE=1071,CPRIPORT=0_0_CPRI_0_255_61",0,827_0_61_0_0_CPRI_255,0,CPRI,0,255,61,CPRIPORT,"Cabinet No.=0, Subrack No.=61, Slot No.=0, Port No.=0, Port Type=CPRI, Sub Port No.=255",827
+3G_ADAMSTREET,"NE=1071,CPRIPORT=0_1_CPRI_0_255_60",0,827_0_60_0_1_CPRI_255,1,CPRI,0,255,60,CPRIPORT,"Cabinet No.=0, Subrack No.=60, Slot No.=0, Port No.=1, Port Type=CPRI, Sub Port No.=255",827
+3G_ADAMSTREET,"NE=1071,CPRIPORT=0_0_CPRI_0_255_60",0,827_0_60_0_0_CPRI_255,0,CPRI,0,255,60,CPRIPORT,"Cabinet No.=0, Subrack No.=60, Slot No.=0, Port No.=0, Port Type=CPRI, Sub Port No.=255",827
+3G_ADAMSTREET,"NE=1071,CPRIPORT=0_5_CPRI_4_0_0",0,827_0_0_4_5_CPRI_0,5,CPRI,4,0,0,CPRIPORT,"Cabinet No.=0, Subrack No.=0, Slot No.=4, Port No.=5, Port Type=CPRI, Sub Port No.=0",827
+3G_ADAMSTREET,"NE=1071,CPRIPORT=0_4_CPRI_4_0_0",0,827_0_0_4_4_CPRI_0,4,CPRI,4,0,0,CPRIPORT,"Cabinet No.=0, Subrack No.=0, Slot No.=4, Port No.=4, Port Type=CPRI, Sub Port No.=0",827
+3G_ADAMSTREET,"NE=1071,CPRIPORT=0_3_CPRI_4_0_0",0,827_0_0_4_3_CPRI_0,3,CPRI,4,0,0,CPRIPORT,"Cabinet No.=0, Subrack No.=0, Slot No.=4, Port No.=3, Port Type=CPRI, Sub Port No.=0",827
+3G_ADAMSTREET,"NE=1071,CPRIPORT=0_2_CPRI_4_0_0",0,827_0_0_4_2_CPRI_0,2,CPRI,4,0,0,CPRIPORT,"Cabinet No.=0, Subrack No.=0, Slot No.=4, Port No.=2, Port Type=CPRI, Sub Port No.=0",827
+3G_ADAMSTREET,"NE=1071,CPRIPORT=0_1_CPRI_4_0_0",0,827_0_0_4_1_CPRI_0,1,CPRI,4,0,0,CPRIPORT,"Cabinet No.=0, Subrack No.=0, Slot No.=4, Port No.=1, Port Type=CPRI, Sub Port No.=0",827
+3G_ADAMSTREET,"NE=1071,CPRIPORT=0_0_CPRI_4_0_0",0,827_0_0_4_0_CPRI_0,0,CPRI,4,0,0,CPRIPORT,"Cabinet No.=0, Subrack No.=0, Slot No.=4, Port No.=0, Port Type=CPRI, Sub Port No.=0",827

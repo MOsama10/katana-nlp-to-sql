@@ -1,0 +1,16 @@
+NE Name,fdn,CN,MOIndex,SN,SRN,TYPE,className,name,neID,BBWS
+3G_ADONKIA,"NE=1023,BBP=0_3_0",0,779_0_0_3,3,0,UBBP,BTS3900BBP,"Board Type=UBBP, Cabinet No.=0, Subrack No.=0, Slot No.=3",779,
+3G_ADONKIA,"NE=1023,BBP=0_2_0",0,779_0_0_2,2,0,UBBP,BTS3900BBP,"Board Type=UBBP, Cabinet No.=0, Subrack No.=0, Slot No.=2",779,
+3G_ADONKIA,"NE=1023,BBP=0_1_0",0,779_0_0_1,1,0,UBBP,BTS3900BBP,"Board Type=UBBP, Cabinet No.=0, Subrack No.=0, Slot No.=1",779,
+3G_ADONKIA,"NE=1023,BBP=0_0_0",0,779_0_0_0,0,0,UBBP,BTS3900BBP,"Board Type=UBBP, Cabinet No.=0, Subrack No.=0, Slot No.=0",779,
+3G_ALKALIA,"NE=1346,BBP=0_3_0",0,1102_0_0_3,3,0,UBBP,BTS3900BBP,"Board Type=BBP, Cabinet No.=0, Subrack No.=0, Slot No.=3",1102,001000
+3G_ALLENTOWN,"NE=986,BBP=0_3_0",0,742_0_0_3,3,0,UBBP,BTS3900BBP,"Board Type=UBBP, Cabinet No.=0, Subrack No.=0, Slot No.=3",742,
+3G_ALLENTOWN,"NE=986,BBP=0_1_0",0,742_0_0_1,1,0,UBBP,BTS3900BBP,"Board Type=UBBP, Cabinet No.=0, Subrack No.=0, Slot No.=1",742,
+3G_ALLENTOWN,"NE=986,BBP=0_0_0",0,742_0_0_0,0,0,UBBP,BTS3900BBP,"Board Type=UBBP, Cabinet No.=0, Subrack No.=0, Slot No.=0",742,
+3G_ALLENTOWN,"NE=986,BBP=0_2_0",0,742_0_0_2,2,0,UBBP,BTS3900BBP,"Board Type=UBBP, Cabinet No.=0, Subrack No.=0, Slot No.=2",742,
+3G_ABERDEEN,"NE=339,BBP=0_3_0",0,85_0_0_3,3,0,UBBP,BTS3900BBP,"Board Type=UBBP, Cabinet No.=0, Subrack No.=0, Slot No.=3",85,
+3G_ABERDEEN,"NE=339,BBP=0_2_0",0,85_0_0_2,2,0,UBBP,BTS3900BBP,"Board Type=UBBP, Cabinet No.=0, Subrack No.=0, Slot No.=2",85,
+3G_ADAMSTREET,"NE=1071,BBP=0_4_0",0,827_0_0_4,4,0,UBBP,BTS3900BBP,"Board Type=BBP, Cabinet No.=0, Subrack No.=0, Slot No.=4",827,010000
+3G_ADDAX,"NE=885,BBP=0_3_0",0,641_0_0_3,3,0,WBBP,BTS3900BBP,"Board Type=WBBP, Cabinet No.=0, Subrack No.=0, Slot No.=3",641,
+3G_ADDAX,"NE=885,BBP=0_2_0",0,641_0_0_2,2,0,WBBP,BTS3900BBP,"Board Type=WBBP, Cabinet No.=0, Subrack No.=0, Slot No.=2",641,
+3G_ADDAX,"NE=885,BBP=0_1_0",0,641_0_0_1,1,0,WBBP,BTS3900BBP,"Board Type=WBBP, Cabinet No.=0, Subrack No.=0, Slot No.=1",641,
