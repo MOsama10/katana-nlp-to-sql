@@ -1,5 +1,3 @@
-Here’s a polished and concise version of your `README.md` for GitHub:
-
 ---
 
 # Katana NLP-to-SQL Platform  
