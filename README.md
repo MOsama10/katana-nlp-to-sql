@@ -78,7 +78,7 @@ katana_nlp_to_sql/
 - *“What is the list of counters covered for object 3G?”*
 - *“list all counter ids in this table daily_nokia_common_8005”*
 - *“list all counters for object 2G : BSC-BCF-BTS,SEG,NDE”*
-- *“what is the value of 001000 over object 2G : BSC-BCF-BTS,SEG,NDE”*
+- *“ get the value of counter M40001C0 over object "SRAN : PLMN-MRBTS-EQM-APEQM-RMOD-ANTL”*
 ---
 
 The model enforces:  
