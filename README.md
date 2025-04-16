@@ -75,7 +75,10 @@ katana_nlp_to_sql/
 
 **Counter Analysis:**  
 - *“List counters for object 3G.”*  
-- *“What is the list of counters covered for object 3G?”*  
+- *“What is the list of counters covered for object 3G?”*
+- *“list all counter ids in this table daily_nokia_common_8005”*
+- *“list all counters for object 2G : BSC-BCF-BTS,SEG,NDE”*
+- *“what is the value of 001000 over object 2G : BSC-BCF-BTS,SEG,NDE”*
 ---
 
 The model enforces:  
