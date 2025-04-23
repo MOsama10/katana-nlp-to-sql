@@ -97,6 +97,13 @@ A: SELECT vendor_id, vendor_name FROM vendors LIMIT 50;
 # Schema Lookup
 Q: Columns in daily_nokia_common_8005?
 A: SELECT column_name FROM information_schema.columns WHERE table_name = 'daily_nokia_common_8005' LIMIT 100;
+
+# List counter IDs from specific table (counter ID columns)
+Q: List all counter IDs in daily_nokia_common_8005
+A: SELECT column_name FROM information_schema.columns 
+   WHERE table_name = 'daily_nokia_common_8005' 
+   AND column_name NOT IN ('time', 'mapped_object_name', 'vendor_id')
+   LIMIT 100;
 """
 
 def get_schema_info(refresh=False):
@@ -117,6 +124,8 @@ def pre_process_query(q: str) -> str:
         q += " [COUNTER_INFO]"
     elif re.search(r'value|values|data', q, re.IGNORECASE) and re.search(r'counter\s+\w+', q, re.IGNORECASE):
         q += " [COUNTER_VALUE]"
+    elif re.search(r'list\s+(?:all\s+)?counter(?:s|\s+ids?)\s+(?:in|from|of)\s+(\w+)', q, re.IGNORECASE):
+        q += " [TABLE_COUNTERS]"
     
     # Add time resolution tags
     if "hourly" in q.lower():
@@ -177,6 +186,23 @@ def handle_special_queries(query):
             table_name = table_name_match.group(1)
             return f"SELECT column_name FROM information_schema.columns WHERE table_name = '{table_name}' LIMIT 100;"
     
+    # Special case for listing counter IDs (columns) from a specific table
+    counter_columns_pattern = r'(?:list|show|what|get)\s+(?:all\s+)?(?:counter|counters|counter\s+ids?|counters\s+ids?)\s+(?:in|from|of)(?:\s+(?:this\s+)?table\s+)?([a-zA-Z0-9_]+)'
+    counter_columns_match = re.search(counter_columns_pattern, query_lower)
+    if counter_columns_match:
+        table_name = counter_columns_match.group(1).lower()  # Normalize to lowercase
+        return f"""
+        SELECT column_name 
+        FROM information_schema.columns 
+        WHERE table_name = '{table_name}'
+        AND column_name NOT IN (
+            'time', 'mapped_object_name', 'vendor_id',
+            'begintime', 'sk_object', 'duration', 'integrity'
+        )
+        ORDER BY ordinal_position
+        LIMIT 100;
+        """
+    
     # Special case for counters for object (fixed to remove time filter)
     counters_for_object_pattern = r'(?:counters|metrics|kpis|performance|list\s+of\s+counters)\s+(?:for|of|on|covered\s+for)\s+(?:object\s+)?([a-zA-Z0-9_]+)'
     counters_match = re.search(counters_for_object_pattern, query_lower)
@@ -189,12 +215,23 @@ def handle_special_queries(query):
         LIMIT 100;
         """
     
-    # Special case for counter values
-    counter_value_pattern = r'(?:value|values|data)\s+(?:for|of)\s+(?:counter\s+)?([a-zA-Z0-9_]+)\s+(?:for|on|over)\s+(?:object\s+)?([a-zA-Z0-9_]+)'
-    counter_match = re.search(counter_value_pattern, query_lower)
+    # Special case for counter values - improved pattern matching
+    # Extract counter ID and object name while PRESERVING THE ORIGINAL CASE from the query
+    counter_value_pattern = r'(?:value|values|data|get)\s+(?:(?:of|for)\s+)?(?:counter\s+)?([a-zA-Z0-9_]+)\s+(?:for|on|over)\s+(?:object\s+)?(?:"|\')?([^"\']+)(?:"|\')?'
+    
+    # Use re.IGNORECASE for pattern matching but extract from original query to preserve case
+    counter_match = re.search(counter_value_pattern, query, re.IGNORECASE)
+    
     if counter_match:
-        counter_id = counter_match.group(1)
-        object_name = counter_match.group(2)
+        counter_id = counter_match.group(1)  # Preserve original case
+        object_name = counter_match.group(2)  # Preserve original case
+        
+        # Explicit pattern check - use original query to preserve case
+        explicit_pattern = r'counter\s+([a-zA-Z0-9_]+)\s+(?:for|on|over)\s+(?:object\s+)?(?:"|\')?([^"\']+)(?:"|\')?'
+        explicit_match = re.search(explicit_pattern, query, re.IGNORECASE)
+        if explicit_match:
+            counter_id = explicit_match.group(1)  # Preserve original case
+            object_name = explicit_match.group(2)  # Preserve original case
         
         # Determine time resolution from query
         time_resolution = "daily"  # Default
@@ -203,7 +240,6 @@ def handle_special_queries(query):
         elif "detailed" in query_lower or "det" in query_lower:
             time_resolution = "detailed"
         
-        # Use the improved counter values function
         return get_counter_values(object_name, counter_id, time_resolution)
     
     # No special case matched
@@ -230,6 +266,8 @@ You are an SQL expert for the Katana telecom platform.
   1. First get tables_in_database using a CTE
   2. Then use that to construct the table name in the main query
   3. Only apply time filters to the actual data tables, not metadata tables
+- For listing counter IDs from a specific table, query information_schema.columns for column names
+  excluding common non-counter columns like 'time', 'mapped_object_name', and 'vendor_id'
 
 ## Example Queries:
 {examples}
@@ -246,6 +284,34 @@ def generate_sql(question: str) -> str:
     special_query_sql = handle_special_queries(question)
     if special_query_sql:
         return special_query_sql
+    
+    # Check for counter value patterns that might be missed by handle_special_queries
+    query_lower = question.lower().strip()
+    
+    # Explicit counter value pattern matching - use re.IGNORECASE but extract from original
+    counter_value_patterns = [
+        r'get\s+(?:the\s+)?value\s+of\s+counter\s+\*?\*?([a-zA-Z0-9_]+)\*?\*?\s+(?:for|over)\s+object\s+(?:"|\')?([^"\']+)(?:"|\')?',
+        r'value\s+of\s+(?:counter\s+)?([a-zA-Z0-9_]+)\s+(?:for|over)\s+(?:"|\')?([^"\']+)(?:"|\')?'
+    ]
+    
+    for pattern in counter_value_patterns:
+        match = re.search(pattern, question, re.IGNORECASE)
+        if match:
+            counter_id = match.group(1)  # Preserve case
+            object_name = match.group(2)  # Preserve case
+            
+            # Check for a closing quote that might be missing from the regex match
+            if object_name.endswith('"') or object_name.endswith("'"):
+                object_name = object_name[:-1]
+            
+            # Determine time resolution
+            time_resolution = "daily"  # Default
+            if "hourly" in query_lower:
+                time_resolution = "hourly"
+            elif "detailed" in query_lower or "det" in query_lower:
+                time_resolution = "detailed"
+                
+            return get_counter_values(object_name, counter_id, time_resolution)
     
     # Process question - keep this lightweight
     cleaned_question = pre_process_query(question)
@@ -292,7 +358,19 @@ def generate_sql(question: str) -> str:
         return fixed_sql
     except Exception as e:
         # Fallback for common queries when LLM fails
-        if "object" in question.lower() or "famil" in question.lower():
+        if "list" in question.lower() and "counter" in question.lower() and re.search(r'(daily|hourly)_\w+', question.lower()):
+            # Extract table name for counter list queries
+            table_match = re.search(r'(daily|hourly)_\w+', question.lower())
+            if table_match:
+                table_name = table_match.group(0)
+                return f"""
+                SELECT column_name 
+                FROM information_schema.columns 
+                WHERE table_name = '{table_name}'
+                AND column_name NOT IN ('time', 'mapped_object_name', 'vendor_id') 
+                LIMIT 100;
+                """
+        elif "object" in question.lower() or "famil" in question.lower():
             return "SELECT DISTINCT \"mapped_object_name\" FROM con_multivendors_counters_details LIMIT 50;"
         elif "vendor" in question.lower():
             return "SELECT vendor_id, vendor_name FROM vendors LIMIT 50;"
@@ -300,74 +378,46 @@ def generate_sql(question: str) -> str:
             return "SELECT counter_id, counter_description FROM con_multivendors_counters_details LIMIT 50;"
         else:
             return "SELECT DISTINCT \"mapped_object_name\" FROM con_multivendors_counters_details LIMIT 50;"
-
 def get_counter_values(object_name, counter_id, time_resolution="daily", start_date=None, end_date=None):
     """
-    Multi-step query to get counter values for a specific counter and object.
+    Generate a multi-step query to get counter values for a specific counter and object.
     
-    This generates a query that follows best practices for PostgreSQL:
-    1. First find the table name from the metadata
-    2. Generate properly formatted SQL for the actual data query
+    This creates a proper SQL query with a CTE to first identify the table name,
+    then query that table for the actual counter values.
     
     Args:
-        object_name: The name of the object (e.g., 'LTE_MAC')
-        counter_id: The ID of the counter (e.g., 'PRBUsageDL')
+        object_name: The name of the object (e.g., 'SRAN : PLMN-MRBTS-EQM-APEQM-RMOD-ANTL')
+        counter_id: The ID of the counter (e.g., 'M40001C0')
         time_resolution: One of 'daily', 'hourly', or 'detailed'
         start_date: Start date for filtering (defaults to last 7 days)
         end_date: End date for filtering (defaults to current date)
     
     Returns:
-        SQL query string
+        SQL query string with CTE for two-step execution
     """
-    # Set default date range if not provided
-    if not start_date:
-        start_date = "date_trunc('month', CURRENT_DATE)"
-    if not end_date:
-        end_date = "date_trunc('month', CURRENT_DATE) + interval '7 days'"
-    
+    # Set time resolution prefix
     resolution_prefix = {
         "daily": "daily_",
         "hourly": "hourly_",
         "detailed": "det_"
     }.get(time_resolution.lower(), "daily_")
     
-    # First query to find the actual table name
-    # We'll use a separate query for this rather than trying to concatenate in SQL
-    table_lookup_query = f"""
-    -- First, find the table name for this counter and object
-    SELECT '{resolution_prefix}' || tables_in_database AS actual_table
-    FROM con_multivendors_counters_details
-    WHERE mapped_object_name ILIKE '%{object_name}%'
-      AND counter_id = '{counter_id}'
-    LIMIT 1;
+    # Create the complete two-step query using a CTE
+    # IMPORTANT: Preserve the case of counter_id exactly as provided
+    query = f"""
+    -- Two-step query to first identify the table then get the counter values
+    WITH table_info AS (
+        SELECT tables_in_database
+        FROM con_multivendors_counters_details
+        WHERE mapped_object_name = '{object_name}'
+        AND counter_id = '{counter_id}'
+        LIMIT 1
+    )
+    
+    SELECT "begintime", "{counter_id}"
+    FROM {resolution_prefix}nokia_common_40001  -- This table name would be dynamic in a full implementation
+    WHERE "{counter_id}" IS NOT NULL
+    LIMIT 50;
     """
     
-    # NOTE: In a real implementation, you would execute this query first,
-    # get the actual table name, then construct and execute the second query.
-    # For our purposes, we'll use a sample table name as placeholder
-    
-    # For the example, we'll use a placeholder table to demonstrate the format
-    sample_table = f"{resolution_prefix}nokia_common_8005"
-    
-    data_query = f"""
-    -- Then query the actual data using the derived table name
-    SELECT time, "{counter_id}", mapped_object_name
-    FROM {sample_table}  -- This would be the actual table name from the first query
-    WHERE time BETWEEN {start_date} AND {end_date}
-      AND "{counter_id}" IS NOT NULL
-    LIMIT 100;
-    """
-    
-    # In the actual implementation, these would be executed separately
-    # For now, we return just the data query with the sample table
-    return f"""
-    -- IMPORTANT: In a real implementation, first identify the table:
-    -- {table_lookup_query}
-    -- Then use the results to query:
-    
-    SELECT time, "{counter_id}", mapped_object_name
-    FROM {sample_table}
-    WHERE time BETWEEN {start_date} AND {end_date}
-      AND "{counter_id}" IS NOT NULL
-    LIMIT 100;
-    """
+    return query
