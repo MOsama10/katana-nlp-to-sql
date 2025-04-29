@@ -8,3 +8,6 @@ fastapi
 uvicorn[standard]
 python-dotenv
 pandas
+langchain
+llama-cpp-python
+langchain_community
